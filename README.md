@@ -1,4 +1,6 @@
-# Entity types, properties and relations
+# Q-gen spec
+
+## Entity types, properties and relations
 
 * **COMPANY** (what)
   * name (what)
@@ -34,9 +36,9 @@
   * posts -> POSTs
   * podcasts -> PODCASTs
 
-# Questions 
+## Questions 
 
-## Basic questions for all entity types
+### Basic questions for all entity types
 
 * About self
   * Q: *[wh-type] is [entity-name]*
@@ -68,7 +70,7 @@
   * Q: *show me one [relation-name] of [entity-name]*
 
 
-## Questions about COMPANY 
+### Questions about COMPANY 
 
 * self
   * Q: *what does [entity-name] do*
@@ -112,7 +114,7 @@
 
 * jobs (see "job query" section)
 
-## Questions about JOB
+### Questions about JOB
 
 * job query
   * Q: *[wh-type] are the job openings [condition]*
@@ -149,7 +151,7 @@
   * Q: *who is the employer of [entity-name]*
   * Q: *which company is [entity-name] for*
 
-## Questions about INVESTOR
+### Questions about INVESTOR
 
   * self
     * data-driven approach
@@ -157,7 +159,7 @@
   
   * role
 
-## Questions about A16Z
+### Questions about A16Z
 
 * self
   * data-driven approach
