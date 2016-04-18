@@ -43,13 +43,14 @@
   * Q: *tell me about [entity-name]*
   * Q: *show me [entity-name]*
   * Q: *I want to know about [entity-name]*
-  * quora questions associated with the topic about this entity
-  * auto-generated questions from the wikipedia page about this entity
-  * questions on related concepts (auto-suggested search queries) that could be outsourced to Google search
-    * Q: *where can I find [suggested-query]*
-    * Q: *tell me about [suggested-query]*
-    * Q: *show me [suggested-query]*
-    * Q: *I want to know about [suggested-query]*
+  * data-driven approach
+    * quora questions associated with the topic about this entity
+    * auto-generated questions from the wikipedia page about this entity
+    * questions on related concepts (auto-suggested search queries) that could be outsourced to Google search
+      * Q: *where can I find [suggested-query]*
+      * Q: *tell me about [suggested-query]*
+      * Q: *show me [suggested-query]*
+      * Q: *I want to know about [suggested-query]*
 
 * About a property
   * Q: *[wh-type] is the [property-name] of [entity-name]*
@@ -108,22 +109,49 @@
   * Q: *how is [entity-name] doing*
   * Q: *has [entity-name] raised any capital*
 
+* jobs (see "job query" section)
+
+## Questions about JOB
+
+* job query
+  * Q: *[wh-type] are the job openings [condition]*
+  * Q: *[wh-type] are the jobs available [condition]*
+  * Q: *list all job openings [condition]*
+  * Q: *show me all job openings [condition]*
+  * Q: *show me one job opening [condition]*
+  * Q: *I want to apply for job [condition]*
+  * Q: *how can I apply for job [condition]*
+  * Q: *I want to join [company]*
+  * Q: *how can I join [company]*
+  * ...where conditions can be any one of or a combination of the following units
+    * in [company]
+    * for [company]
+    * for [function]
+    * that require [function]
+    * in [location]
+    * that is located in [location]
+
+* function
+  * Q: *what is the position for [entity-name]*
+  * Q: *what do I work on for [entity-name]*
+  * Q: *what expertise do I need for [entity-name]*
+  * Q: *what is the requirement for [entity-name]*
+
+* location
+  * Q: *where is the office for [entity-name]*
+  * Q: *where do I need to work for [entity-name]*
+
+* company
+  * Q: *who is the employer of [entity-name]*
+  * Q: *which company is [entity-name] for*
+
+## Questions about A16Z
+
+* self
+  * data-driven approach
+    * auto-generated questinos from the /about page
+
 * jobs
-  * Q: *[wh-type] are the job openings at [entity-name]*
-  * Q: *[wh-type] are the jobs available at [entity-name]*
-  * Q: *list all job openings at [entity-name]*
-  * Q: *show me all job openings at [entity-name]*
-  * Q: *show me one job opening at [entity-name]*
-  * Q: *I want to join [entity-name]*
-  * Q: *how can I join [entity-name]*
-  * Q: *I want to apply for job at [entity-name]*
-  * Q: *how can I apply for job at [entity-name]*
-  
-
-## Questions about a16z
-
-* auto-generated questinos from the /about page
-* About job openings
   * Q: *show me portfolio company job openings*
   * Q: *request job in portfolio company*
   * Q: *I want to join a portfolio company*
