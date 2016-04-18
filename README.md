@@ -5,7 +5,7 @@
 * **COMPANY** (what)
   * name (what)
   * founder (who)
-  * address (what)
+  * location (what)
   * website (what)
   * type of business (what)
   * stage (what)
@@ -31,6 +31,7 @@
   * category (what)
 
 * **A16Z** : COMPANY
+  * contact information (what) 
   * portfolio -> COMPANYs
   * team -> INVESTORs
   * posts -> POSTs
@@ -86,10 +87,9 @@
   * Q: *who are the founders of [entity-name]*
   * Q: *show me the founders of [entity-name]*
 
-* address
+* location
   * Q: *where is [entity-name]*
   * Q: *where is [entity-name] located*
-  * Q: *show direction to [entity-name]*
 
 * website
   * Q: *take me to the website of [entity-name]*
@@ -165,16 +165,34 @@
   * data-driven approach
     * auto-generated questions from the /about page
 
+* location
+  * Q: *show direction to [entity-name]*
+  * Q: *what is the address of [entity-name]*
+  * Q: *show me the mailing address of [entity-name]*
+  * Q: *what is the street number of [entity-name]*
+ 
+* contact information
+  * Q: *contact information for business plans*
+  * Q: *contact information for press inquiries*
+  * Q: *contact information for careers*
+  * Q: *I want to ask about business plans*
+  * Q: *I want to ask about press inquiries*
+  * Q: *I want to ask about careers*
+
 * portfolio
-  * Q: *show me all the portfolio companies*
+  * Q: *list/show me/what are all the portfolio companies*
+  * Q: *list/show me/what are all the portfolio companies on [type of business]*
+  * Q: *list/show me/what are all the portfolio companies at [stage] stage*
+  * Q: *list/show me/what are all the portfolio companies that have received venture fund*
+  * Q: *list/show me/what are all the portfolio companies that have just received seed fund*
+  * Q: *list/show me/what are all the portfolio 2B companies*
+  * Q: *list/show me/what are all the portfolio 2C companies*
+  * Q: *list/show me/what are all the portfolio companies that are for enterprise market*
+  * Q: *list/show me/what are all the portfolio companies that are for cusumer market*
  
 * team
-  * Q: *show me all the investors*
-  * Q: *show me all the people in charge of investing*
-  * Q: *show me all the people in charge of market development*
-  * Q: *show me all the people in charge of technical talent*
-  * Q: *show me all the people in charge of executive talent*
-  * Q: *show me all the people in charge of marketing*
-  * Q: *show me all the people in charge of corporate development*
-
-
+  * Q: *list/show me/who are all the people in charge of [role]*
+  * Q: *list/show me/who are all the investors*
+  * Q: *list/show me/who are all the board partners*
+  * Q: *list/show me/who are all the special advisors*
+  * Q: *list/show me/who are all the professors in residence*
