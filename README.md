@@ -16,6 +16,7 @@
 
 * **INVESTOR** (who)
   * name (what)
+  * role (what)
 
 * **POST** (what)
   * title (what)
@@ -123,6 +124,9 @@
   * Q: *how can I apply for job [condition]*
   * Q: *I want to join [company]*
   * Q: *how can I join [company]*
+  * Q: *show me portfolio company job openings*
+  * Q: *request job in portfolio company*
+  * Q: *I want to join a portfolio company*
   * ...where conditions can be any one of or a combination of the following units
     * in [company]
     * for [company]
@@ -145,14 +149,30 @@
   * Q: *who is the employer of [entity-name]*
   * Q: *which company is [entity-name] for*
 
+## Questions about INVESTOR
+
+  * self
+    * data-driven approach
+      * auto-generated questions from the investor profile page
+  
+  * role
+
 ## Questions about A16Z
 
 * self
   * data-driven approach
-    * auto-generated questinos from the /about page
+    * auto-generated questions from the /about page
 
-* jobs
-  * Q: *show me portfolio company job openings*
-  * Q: *request job in portfolio company*
-  * Q: *I want to join a portfolio company*
+* portfolio
+  * Q: *show me all the portfolio companies*
+ 
+* team
+  * Q: *show me all the investors*
+  * Q: *show me all the people in charge of investing*
+  * Q: *show me all the people in charge of market development*
+  * Q: *show me all the people in charge of technical talent*
+  * Q: *show me all the people in charge of executive talent*
+  * Q: *show me all the people in charge of marketing*
+  * Q: *show me all the people in charge of corporate development*
+
 
