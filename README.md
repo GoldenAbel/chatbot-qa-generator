@@ -19,6 +19,7 @@
 * **INVESTOR** (who)
   * name (what)
   * role (what)
+  * linkedin profile (what)
 
 * **POST** (what)
   * title (what)
@@ -158,6 +159,9 @@
       * auto-generated questions from the investor profile page
   
   * role
+    * Q: *what does [entity-name] do*
+    * Q: *what does [entity-name] work on*
+    * Q: *what is the responsibility of [entity-name]*
 
 ### Questions about A16Z
 
