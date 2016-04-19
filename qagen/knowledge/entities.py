@@ -19,6 +19,7 @@ class BaseEntity(object):
 
         # copy over all the input variables as property value
         self.property_value_map = dict(kwargs)
+        self.relation_value_map = {}
 
 
 # Entity types and definitions
@@ -31,7 +32,7 @@ class Company(BaseEntity):
         'founder': EntityProperty('founder', ConceptType.PERSON),
         'location': EntityProperty('location', ConceptType.THING),
         'website': EntityProperty('website', ConceptType.URL),
-        'type of business': EntityProperty('type of business', ConceptType.THING),
+        'type_of_business': EntityProperty('type of business', ConceptType.THING),
         'stage': EntityProperty('stage', ConceptType.THING),
         # company_id is only for answer generation, hence hidden
         'company_id': EntityProperty('company_idd', ConceptType.THING, is_hidden=True)
@@ -77,7 +78,7 @@ class A16Z(Company):
     relation_def_map = Company.relation_def_map
 
     # additional properties and relations
-    property_def_map['contact info'] = EntityProperty('contact info', ConceptType.THING)
+    property_def_map['contact_info'] = EntityProperty('contact info', ConceptType.URL)
     relation_def_map['portfolio'] = EntityRelation('portfolio', Company, EntityRelation.ONE_TO_MANY)
     relation_def_map['team'] = EntityRelation('team', Investor, EntityRelation.ONE_TO_MANY)
 
