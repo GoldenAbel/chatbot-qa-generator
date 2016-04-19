@@ -5,4 +5,7 @@ class QAPair(object):
         self.answer = answer
         self.context_map = context_map
 
+    def __repr__(self):
+        return 'Q: %s, A: %s' % (self.question, self.answer)
+
 

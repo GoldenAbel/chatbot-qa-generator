@@ -59,6 +59,11 @@ class BaseEntity(object):
         self.property_value_map = dict(kwargs)
         self.relation_value_map = {}
 
+    def __repr__(self):
+        entity_type = self.__class__.__name__
+        entity_name = self.property_value_map['name']
+        return '%s[%s]' % (entity_type, entity_name)
+
 
 # Entity types and definitions
 
@@ -114,6 +119,7 @@ Investor.entity_concept_type = ConceptType.PERSON
 Investor.property_def_map = {
     'name': EntityProperty('name', ConceptType.THING),
     'role': EntityProperty('role', ConceptType.THING),
+    'picture': EntityProperty('picture', ConceptType.THING),
     'profile': EntityProperty('profile', ConceptType.URL),
     'linkedin': EntityProperty('linkedin', ConceptType.URL),
 }
