@@ -1,0 +1,3 @@
+from qagen.data_provider.knowledge_data_providers import WebCrawlerKnowledgeDataProvider
+
+data_provider = WebCrawlerKnowledgeDataProvider()
