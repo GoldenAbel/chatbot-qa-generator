@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Virt env
+venv
+
+# Pychar idea
+.idea
