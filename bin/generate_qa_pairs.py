@@ -30,7 +30,7 @@ if is_for_training:
     for qa_pair in output_qa_pairs:
         random_qa_sampling = random.sample(qa_collector.qa_pairs, RANKED_ANSWER_COUNT)
         for random_qa in random_qa_sampling:
-            qa_pair.add_other_qa_with_score(random_qa.question, random_qa.answer, 0)
+            qa_pair.add_qa_pair_with_matching_score(random_qa.question, random_qa.answer, 0)
 
 else:
     output_path = 'qa_pairs_unlabeled.json'
