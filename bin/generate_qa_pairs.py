@@ -18,7 +18,7 @@ qa_collector.collect_from(data_provider)
 print '%d QA pairs collected.' % len(qa_collector.qa_pairs)
 
 is_for_training = True
-TRAINING_DATA_SAMPLE = 500
+TRAINING_DATA_SAMPLE = 200
 RANKED_ANSWER_COUNT = 5
 
 if is_for_training:
