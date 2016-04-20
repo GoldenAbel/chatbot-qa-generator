@@ -4,7 +4,7 @@ class QAPair(object):
         self.question = question
         self.answer = answer
         self.context_map = context_map
-        self.ranked_answers = [{
+        self.qa_pairs_with_matching_score = [{
             'question': question,
             'answer': answer,
             'score': 100
@@ -14,7 +14,7 @@ class QAPair(object):
         return 'Q: %s, A: %s' % (self.question, self.answer)
 
     def add_other_qa_with_score(self, question, answer, score):
-        self.ranked_answers.append({
+        self.qa_pairs_with_matching_score.append({
             'question': question,
             'answer': answer,
             'score': score
@@ -30,7 +30,7 @@ class QAPair(object):
             result.update({
                 'question_topic_words': [],
                 'answer_topic_words': [],
-                'ranked_answers': self.ranked_answers
+                'qa_pairs_with_matching_score': self.qa_pairs_with_matching_score
             })
         return result
 
