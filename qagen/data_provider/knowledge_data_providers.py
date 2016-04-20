@@ -170,10 +170,10 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
         return [a_tag['href'] for a_tag in div.select('.team-member > a')]
 
     @staticmethod
-    def __parse_investor_data(url, role_description):
-        print 'Crawling %s...' % url
+    def __parse_investor_data(page_url, role_description):
+        print 'Crawling %s...' % page_url
 
-        page = urllib2.urlopen(url)
+        page = urllib2.urlopen(page_url)
         soup = BeautifulSoup(page, 'html.parser')
 
         investor_data_div = soup.select_one('.team-member-info')
@@ -190,7 +190,7 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
             name=name,
             role=role_description,
             picture=photo_url,
-            profile=url,
+            profile=page_url,
             linkedin=linkedin_url,
         )
 
