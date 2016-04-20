@@ -418,7 +418,7 @@
         "founder": "Ash Ashutosh", 
         "location": "Waltham, MA", 
         "name": "Actifio", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Data management virtualization", 
         "website": "http://actifio.com"
       }, 
@@ -432,7 +432,7 @@
         "founder": "Max Levchin", 
         "location": "San Francisco, CA", 
         "name": "Affirm", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Financing solutions", 
         "website": "http://affirm.com"
       }, 
@@ -446,7 +446,7 @@
         "founder": "Nathan Blecharczyk, Brian Chesky, Joe Gebbia", 
         "location": "San Francisco, CA", 
         "name": "Airbnb", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Travel marketplace", 
         "website": "http://airbnb.com"
       }, 
@@ -516,7 +516,7 @@
         "founder": "Sunny Gupta, Kurt Shintaffer, Paul McLachlan", 
         "location": "Bellevue, WA", 
         "name": "Apptio", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Technology Business Management", 
         "website": "http://apptio.com"
       }, 
@@ -628,7 +628,7 @@
         "founder": "Aaron Levie, Dylan Smith", 
         "location": "Palo Alto, CA", 
         "name": "Box", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Cloud content management", 
         "website": "http://box.net"
       }, 
@@ -684,7 +684,7 @@
         "founder": "Jonah Peretti", 
         "location": "New York, NY", 
         "name": "BuzzFeed", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Social News & Entertainment", 
         "website": "http://www.buzzfeed.com/"
       }, 
@@ -908,7 +908,7 @@
         "founder": "Mark Zuckerberg", 
         "location": "Menlo Park, CA", 
         "name": "Facebook", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Social networking service", 
         "website": "http://facebook.com"
       }, 
@@ -936,7 +936,7 @@
         "founder": "Michael Rubin", 
         "location": "Jacksonville, FL", 
         "name": "Fanatics", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Sports retailer", 
         "website": "http://fanaticsinc.com"
       }, 
@@ -978,7 +978,7 @@
         "founder": "Dennis Crowley, Naveen Selvadurai", 
         "location": "New York, NY", 
         "name": "Foursquare", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Social networking", 
         "website": "http://foursquare.com"
       }, 
@@ -1048,7 +1048,7 @@
         "founder": "Tom Preston-Werner, Chris Wanstrath, PJ Hyett, Scott Chacon", 
         "location": "San Francisco, CA", 
         "name": "GitHub", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Software development", 
         "website": "http://github.com"
       }, 
@@ -1118,7 +1118,7 @@
         "founder": "Jason Goldberg, Bradford Shellhammer, Nishith Shah, Deepa Shah, Sunil Khedar", 
         "location": "New York, NY", 
         "name": "Hem", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Curated Commerce", 
         "website": "http://hem.com"
       }, 
@@ -1244,7 +1244,7 @@
         "founder": "Alex Asseily, Hosain Rahman", 
         "location": "San Francisco, CA", 
         "name": "Jawbone", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Products and services for the mobile lifestyle", 
         "website": "http://jawbone.com"
       }, 
@@ -1272,7 +1272,7 @@
         "founder": "Daniel Mattes; CEO: Steve Stuut", 
         "location": "Palo Alto, CA", 
         "name": "Jumio", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "ID authentication technology", 
         "website": "http://jumio.com"
       }, 
@@ -1328,7 +1328,7 @@
         "founder": "John Hering, Kevin Mahaffey, James Burgess", 
         "location": "San Francisco, CA", 
         "name": "Lookout", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Smartphone security", 
         "website": "http://lookout.com"
       }, 
@@ -1342,7 +1342,7 @@
         "founder": "Logan Green, John Zimmer", 
         "location": "San Francisco, CA", 
         "name": "Lyft", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Transportation app", 
         "website": "http://lyft.me"
       }, 
@@ -1678,7 +1678,7 @@
         "founder": "Ben Kaufman", 
         "location": "New York, NY", 
         "name": "Quirky", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Social product development", 
         "website": "http://quirky.com"
       }, 
@@ -1734,7 +1734,7 @@
         "founder": "Peter Weijmarshausen, Marleen Vo", 
         "location": "New York, NY", 
         "name": "Shapeways", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "3D printing marketplace", 
         "website": "http://shapeways.com"
       }, 
@@ -1748,7 +1748,7 @@
         "founder": "Brian Lee, MJ Eng", 
         "location": "Santa Monica, CA", 
         "name": "Shoedazzle", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Personalized social commerce", 
         "website": "http://shoedazzle.com"
       }, 
@@ -1776,7 +1776,7 @@
         "founder": "Christian Wiklund, Niklas Lindstrom", 
         "location": "San Francisco, CA", 
         "name": "Skout", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Mobile social networking", 
         "website": "http://skout.com"
       }, 
@@ -1790,7 +1790,7 @@
         "founder": "Niklas Zennstrom, Janus Friis", 
         "location": "Luxembourg, Luxembourg", 
         "name": "Skype,\u00a0Inc.", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "VoIP software", 
         "website": "http://skype.com"
       }, 
@@ -1874,7 +1874,7 @@
         "founder": "Orion Hindawi, David Hindawi", 
         "location": "Berkeley, CA", 
         "name": "Tanium", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Systems management", 
         "website": "http://www.tanium.com/"
       }, 
@@ -1986,7 +1986,7 @@
         "founder": "Jack Dorsey, Biz Stone, Evan Williams", 
         "location": "San Francisco, CA", 
         "name": "Twitter", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Social networking and microblogging", 
         "website": "http://twitter.com"
       }, 
@@ -2056,7 +2056,7 @@
         "founder": "Darrell Cavens, Mark Vadon", 
         "location": "Seattle, WA", 
         "name": "Zulily", 
-        "stage": "growth", 
+        "stage": "venture", 
         "type of business": "Daily deal site for moms", 
         "website": "http://zulily.com"
       }, 

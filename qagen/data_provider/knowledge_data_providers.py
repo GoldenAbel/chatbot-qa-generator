@@ -105,7 +105,6 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
         website = div.select_one('.meta > li:nth-of-type(4) > a')['href'].strip()
         type_of_business = div.select_one('.meta > li:nth-of-type(5) > h2').next_sibling.strip()
         business_model = 'to consumer' if 'consumer' in div['class'] else 'to enterprise'
-        stage = 'venture' if 'venture' in div['class'] else 'growth'
 
         return Company({
             'name': name,
@@ -114,7 +113,7 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
             'website': website,
             'type of business': type_of_business,
             'business model': business_model,
-            'stage': stage,
+            'stage': 'venture',
         })
 
     @staticmethod
