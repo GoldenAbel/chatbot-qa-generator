@@ -2,6 +2,7 @@ import json
 
 from qagen.knowledge.entities import BaseEntity, EntityRelation
 
+ENTITY_JSON_ID = 'id'
 ENTITY_JSON_PROPERTIES = 'properties'
 ENTITY_JSON_RELATIONS = 'relations'
 ENTITY_JSON_RELATION_REF_ENTITY_TYPE = 'ref_entity_type'
@@ -14,6 +15,8 @@ class EntityJsonConverter(object):
     @staticmethod
     def to_json_dict(entity_instance):
         json_dict = dict()
+
+        json_dict[ENTITY_JSON_ID] = entity_instance.get_entity_id()
 
         # property values are already in form of a dictionary
         json_dict[ENTITY_JSON_PROPERTIES] = dict(entity_instance.property_value_map)
