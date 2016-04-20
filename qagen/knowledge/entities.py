@@ -92,7 +92,6 @@ class Investor(BaseEntity):
     def get_entity_self_description(self):
         role_description_raw = self.property_value_map['role'].lower()
         title = self.__extract_single_term_title(role_description_raw)
-        profile_url = self.property_value_map['profile']
         if title:
             return '%s is a %s at Andreessen Horowitz. ' \
                    'You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.' \
@@ -132,7 +131,7 @@ Company.property_def_map = {
     'business_model': EntityProperty('business model', ConceptType.THING),
     'stage': EntityProperty('stage', ConceptType.THING),
     # company_id is only for answer generation, hence hidden
-    'company_id': EntityProperty('company_idd', ConceptType.THING, is_hidden=True)
+    'company_id': EntityProperty('company_id', ConceptType.THING, is_hidden=True)
 }
 Company.relation_def_map = {
     'jobs': EntityRelation('jobs', Job, EntityRelation.ONE_TO_MANY)
@@ -146,7 +145,7 @@ Job.property_def_map = {
     # name is only for context replacement, hence hidden
     'name': EntityProperty('name', ConceptType.THING, is_hidden=True),
     # function_id and location_id are only for answer generation, hence hidden
-    'function_id': EntityProperty('function_idn', ConceptType.THING, is_hidden=True),
+    'function_id': EntityProperty('function_id', ConceptType.THING, is_hidden=True),
     'location_id': EntityProperty('location_id', ConceptType.THING, is_hidden=True)
 }
 Job.relation_def_map = {

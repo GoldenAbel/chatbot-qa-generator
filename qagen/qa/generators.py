@@ -43,9 +43,9 @@ class BaseEntityQaGenerator(object):
     def generate_qa_pairs_about_properties(self, entity_instance):
         return [qa_pair
                 for property_name, property_def in entity_instance.__class__.property_def_map.iteritems()
-                for qa_pair in self.__generate_qa_pairs_about_one_property(entity_instance, property_def)]
+                for qa_pair in self.generate_qa_pairs_about_one_property(entity_instance, property_def)]
 
-    def __generate_qa_pairs_about_one_property(self, entity_instance, property_def):
+    def generate_qa_pairs_about_one_property(self, entity_instance, property_def):
 
         # Don't ask questions about a hidden property
         if property_def.is_hidden:
@@ -66,9 +66,9 @@ class BaseEntityQaGenerator(object):
     def generate_qa_pairs_about_relations(self, entity_instance):
         return [qa_pair
                 for relation_name, relation_def in entity_instance.__class__.relation_def_map.iteritems()
-                for qa_pair in self.__generate_qa_pairs_about_one_relation(entity_instance, relation_def)]
+                for qa_pair in self.generate_qa_pairs_about_one_relation(entity_instance, relation_def)]
 
-    def __generate_qa_pairs_about_one_relation(self, entity_instance, relation_def):
+    def generate_qa_pairs_about_one_relation(self, entity_instance, relation_def):
 
         relation_wh_type = ConceptType.get_wh_type(relation_def.related_entity_class.entity_concept_type)
         relation_name = relation_def.relation_name
@@ -112,53 +112,58 @@ class CompanyQaGenerator(BaseEntityQaGenerator):
 
         return qa_pairs
 
-    def generate_qa_pairs_about_properties(self, entity_instance):
-        qa_pairs = super(CompanyQaGenerator, self).generate_qa_pairs_about_properties(entity_instance)
+    def generate_qa_pairs_about_one_property(self, entity_instance, property_def):
+        qa_pairs = super(CompanyQaGenerator, self).generate_qa_pairs_about_one_property(entity_instance, property_def)
         entity_name = entity_instance.property_value_map['name']
 
-        # additional questions about name
-        qa_pairs.extend([
-            QAPair('what is %s called' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about founder
-        qa_pairs.extend([
-            QAPair('who founded %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('who created %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('who started %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what is the founding team of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('who are the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('list all the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('show me the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about location
-        qa_pairs.extend([
-            QAPair('where is %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('where is %s located' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about website
-        qa_pairs.extend([
-            QAPair('take me to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('more information about %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('do you have a link to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('show me the link to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('I want to checkout more about %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about type of business
-        qa_pairs.extend([
-            QAPair('what business is %s about' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what is the industry of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('in what industry does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('in what area does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what kind of problem does %s solve' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about stage
-        qa_pairs.extend([
-            QAPair('current stage of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('is %s funded' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('is %s seeded' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('how is %s doing' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('has %s raised any capital' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
+        if property_def.property_name == 'name':
+            qa_pairs.extend([
+                QAPair('what is %s called' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'founder':
+            qa_pairs.extend([
+                QAPair('who founded %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('who created %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('who started %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what is the founding team of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('who are the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('list all the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('show me the founders of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'location':
+            qa_pairs.extend([
+                QAPair('where is %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('where is %s located' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'website':
+            qa_pairs.extend([
+                QAPair('take me to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('more information about %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('do you have a link to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('show me the link to the website of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('I want to checkout more about %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'type of business':
+            qa_pairs.extend([
+                QAPair('what business is %s about' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what is the industry of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('in what industry does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('in what area does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what kind of problem does %s solve' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'stage':
+            qa_pairs.extend([
+                QAPair('current stage of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('is %s funded' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('is %s seeded' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('how is %s doing' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('has %s raised any capital' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
 
         return qa_pairs
 
@@ -169,34 +174,35 @@ class JobQaGenerator(BaseEntityQaGenerator):
         #TODO
         return []
 
-    def generate_qa_pairs_about_properties(self, entity_instance):
-        qa_pairs = super(JobQaGenerator, self).generate_qa_pairs_about_properties(entity_instance)
+    def generate_qa_pairs_about_one_property(self, entity_instance, property_def):
+        qa_pairs = super(JobQaGenerator, self).generate_qa_pairs_about_one_property(entity_instance, property_def)
         entity_name = entity_instance.property_value_map['name']
 
-        # additional questions about function
-        qa_pairs.extend([
-            QAPair('what is the position for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what do I work on for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what expertise do I need for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what is the requirement for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
-        # additional questions about location
-        qa_pairs.extend([
-            QAPair('where is the office for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('where do I need to work for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
+        if property_def.property_name == 'name':
+            qa_pairs.extend([
+                QAPair('what is the position for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what do I work on for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what expertise do I need for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what is the requirement for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
+
+        elif property_def.property_name == 'location':
+            qa_pairs.extend([
+                QAPair('where is the office for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('where do I need to work for %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
 
         return qa_pairs
 
-    def generate_qa_pairs_about_relations(self, entity_instance):
-        qa_pairs = super(JobQaGenerator, self).generate_qa_pairs_about_relations(entity_instance)
+    def generate_qa_pairs_about_one_relation(self, entity_instance, relation_def):
+        qa_pairs = super(JobQaGenerator, self).generate_qa_pairs_about_one_relation(entity_instance, relation_def)
         entity_name = self.property_value_map['name']
 
-        # additional questions about company
-        qa_pairs.extend([
-            QAPair('who is the employer of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('which company is %s for' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
+        if relation_def.relation_name == 'company':
+            qa_pairs.extend([
+                QAPair('who is the employer of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('which company is %s for' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
 
         return qa_pairs
 
@@ -207,31 +213,31 @@ class InvestorQaGenerator(BaseEntityQaGenerator):
         #TODO
         return []
 
-    def generate_qa_pairs_about_properties(self, entity_instance):
-        qa_pairs = super(InvestorQaGenerator, self).generate_qa_pairs_about_properties(entity_instance)
+    def generate_qa_pairs_about_one_property(self, entity_instance, property_def):
+        qa_pairs = super(InvestorQaGenerator, self).generate_qa_pairs_about_one_property(entity_instance, property_def)
         entity_name = entity_instance.property_value_map['name']
 
-        # additional questions about role
-        qa_pairs.extend([
-            QAPair('what does %s do' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
-            QAPair('what is the responsibility of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
-        ])
+        if property_def.property_name == 'role':
+            qa_pairs.extend([
+                QAPair('what does %s do' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what does %s work on' % entity_name, 'n/a', make_context_map(entity_instance)),
+                QAPair('what is the responsibility of %s' % entity_name, 'n/a', make_context_map(entity_instance)),
+            ])
 
         return qa_pairs
 
 
 class A16zQaGenerator(CompanyQaGenerator):
 
-    def generate_qa_pairs_about_properties(self, entity_instance):
-        qa_pairs = super(A16zQaGenerator, self).generate_qa_pairs_about_properties(entity_instance)
+    def generate_qa_pairs_about_one_property(self, entity_instance, property_def):
+        qa_pairs = super(A16zQaGenerator, self).generate_qa_pairs_about_one_property(entity_instance, property_def)
         entity_name = entity_instance.property_value_map['name']
 
         #TODO
         return qa_pairs
 
-    def generate_qa_pairs_about_relations(self, entity_instance):
-        qa_pairs = super(A16zQaGenerator, self).generate_qa_pairs_about_relations(entity_instance)
+    def generate_qa_pairs_about_one_relation(self, entity_instance, relation_def):
+        qa_pairs = super(A16zQaGenerator, self).generate_qa_pairs_about_one_relation(entity_instance, relation_def)
         entity_name = entity_instance.property_value_map['name']
 
         #TODO
