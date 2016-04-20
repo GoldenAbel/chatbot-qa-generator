@@ -59,6 +59,8 @@ class BaseEntityQaGenerator(object):
         if property_value:
             if property_def.concept_type == ConceptType.URL:
                 answer = 'You can find the %s of %s at %s' %(property_name, entity_name, property_value)
+            elif property_def.property_name == 'name':
+                answer = property_value
             else:
                 answer = 'The %s of %s is %s.' %(property_name, entity_name, property_value)
         else:
