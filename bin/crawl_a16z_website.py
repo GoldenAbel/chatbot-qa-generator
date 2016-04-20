@@ -19,7 +19,7 @@ for entity_type in data_provider.get_all_entity_types():
     entity_map[entity_type_name] = [EntityJsonConverter.to_json_dict(entity_instance)
                                     for entity_instance in entity_instances]
 
-serialized = json.dumps(entity_map, indent=2)
+serialized = json.dumps(entity_map, indent=2, sort_keys=True)
 
 print 'Dumping data into JSON file...'
 with open(output_file_path, 'w') as output_file:
