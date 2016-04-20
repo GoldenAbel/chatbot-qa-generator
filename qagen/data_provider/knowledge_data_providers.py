@@ -1,11 +1,14 @@
 import urllib2
-from bs4 import BeautifulSoup
+import json
 import sys
 reload(sys)  # Reload does the trick!
 sys.setdefaultencoding('UTF8')
+from bs4 import BeautifulSoup
 from urlparse import urlparse
 
 from qagen.knowledge.entities import *
+from qagen.knowledge.json_converter import EntityJsonConverter, ENTITY_JSON_ID, ENTITY_JSON_RELATIONS,\
+    ENTITY_JSON_RELATION_REF_ENTITY_TYPE, ENTITY_JSON_RELATION_REF_ENTITY_ID, ENTITY_JSON_RELATION_REF_ENTITY_IDS
 
 
 class KnowledgeDataProvider(object):
@@ -27,16 +30,19 @@ class KnowledgeDataProvider(object):
     def get_all_instances_of_type(self, entity_class):
         return self.entity_map[entity_class]
 
+    def get_entity_instance(self, entity_class, entity_id):
+        for entity_instance in self.get_all_instances_of_type(entity_class):
+            if entity_instance.get_entity_id() == entity_id:
+                return entity_instance
+        return None
+
 
 class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
 
     def __init__(self):
         super(WebCrawlerKnowledgeDataProvider, self).__init__()
-
         self.__crawl_all_entity_data()
         self.__reconstruct_entity_relations()
-
-        print self.entity_map
 
     def __crawl_all_entity_data(self):
 
@@ -84,7 +90,6 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
 
         # COMPANY -> JOBs
         # JOB -> a COMPANY
-
 
     @staticmethod
     def __find_company_data_divs_from_url(url):
@@ -188,3 +193,47 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
             profile=url,
             linkedin=linkedin_url,
         )
+
+
+class JsonFileKnowledgeDataProvider(KnowledgeDataProvider):
+
+    def __init__(self, file_path):
+        super(JsonFileKnowledgeDataProvider, self).__init__()
+        with open(file_path, 'r') as input_file:
+            json_data = json.load(input_file)
+            # unmarshall the entity properties before reconstructing relations
+            self.__load_entity_property_data_from_dict(json_data)
+            self.__load_entity_relations_from_dict(json_data)
+
+    def __load_entity_property_data_from_dict(self, json_dict):
+        for known_entity_type in self.entity_map:
+            entity_json_list = json_dict.get(known_entity_type.__name__)
+            if entity_json_list:
+                for entity_data in entity_json_list:
+                    self.add_entity(EntityJsonConverter.load_from_json_dict(entity_data))
+
+    def __load_entity_relations_from_dict(self, json_dict):
+        for known_entity_type in self.entity_map:
+            for entity_data in json_dict.get(known_entity_type.__name__):
+                # search the already-materialized instance
+                entity_id = entity_data[ENTITY_JSON_ID]
+                entity_instance = self.get_entity_instance(known_entity_type, entity_id)
+
+                for relation_name, relation_ref_dat in entity_data[ENTITY_JSON_RELATIONS].iteritems():
+                    related_entity_class_name = relation_ref_dat[ENTITY_JSON_RELATION_REF_ENTITY_TYPE]
+                    related_entity_class = find_entity_class_by_name(related_entity_class_name)
+                    related_entity_id = relation_ref_dat.get(ENTITY_JSON_RELATION_REF_ENTITY_ID)
+                    related_entity_ids = relation_ref_dat.get(ENTITY_JSON_RELATION_REF_ENTITY_IDS)
+
+                    # search the related entities
+                    if related_entity_id:
+                        entity_instance.relation_value_map[relation_name] = \
+                            self.get_entity_instance(related_entity_class, related_entity_id)
+                    elif related_entity_ids:
+                        entity_instance.relation_value_map[relation_name] = \
+                            [self.get_entity_instance(related_entity_class, single_id) for single_id in related_entity_ids]
+                    else:
+                        raise Exception('Neither %s or %s is found in the relation reference'
+                                        % (ENTITY_JSON_RELATION_REF_ENTITY_ID, ENTITY_JSON_RELATION_REF_ENTITY_IDS))
+
+

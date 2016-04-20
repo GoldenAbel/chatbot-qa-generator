@@ -378,7 +378,8 @@
           ], 
           "ref_entity_type": "Investor"
         }
-      }
+      }, 
+      "type": "A16Z"
     }
   ], 
   "Company": [
@@ -393,7 +394,8 @@
         "type_of_business": "Bitcoin Computer", 
         "website": "https://21.co/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "500px", 
@@ -406,7 +408,8 @@
         "type_of_business": "Premium Photography Community & Marketplace", 
         "website": "http://500px.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Actifio", 
@@ -419,7 +422,8 @@
         "type_of_business": "Data management virtualization", 
         "website": "http://actifio.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Affirm", 
@@ -432,7 +436,8 @@
         "type_of_business": "Financing solutions", 
         "website": "http://affirm.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Airbnb", 
@@ -445,7 +450,8 @@
         "type_of_business": "Travel marketplace", 
         "website": "http://airbnb.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Airware", 
@@ -458,7 +464,8 @@
         "type_of_business": "Commercial drone aerial information platform", 
         "website": "http://airware.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Alluxio", 
@@ -471,7 +478,8 @@
         "type_of_business": "Storage, Big Data", 
         "website": "http://alluxio.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "AltSchool", 
@@ -484,7 +492,8 @@
         "type_of_business": "Reimagined education platform", 
         "website": "http://www.altschool.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Anki", 
@@ -497,7 +506,8 @@
         "type_of_business": "Robotics", 
         "website": "http://anki.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Apptio", 
@@ -510,7 +520,8 @@
         "type_of_business": "Technology Business Management", 
         "website": "http://apptio.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Arimo", 
@@ -523,7 +534,8 @@
         "type_of_business": "Collaborative, Predictive Analytics for All", 
         "website": "https://arimo.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Asana", 
@@ -536,7 +548,8 @@
         "type_of_business": "Enterprise collaboration software", 
         "website": "http://asana.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bebop", 
@@ -549,7 +562,8 @@
         "type_of_business": "Build and support cloud applications", 
         "website": "http://bebop.co"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Belly", 
@@ -562,7 +576,8 @@
         "type_of_business": "Digital Loyalty Platform", 
         "website": "http://bellycard.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Benchling", 
@@ -575,7 +590,8 @@
         "type_of_business": "Collaboration tools for life science research", 
         "website": "https://benchling.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bluebox\u00a0Security", 
@@ -588,7 +604,8 @@
         "type_of_business": "Data security", 
         "website": "http://bluebox.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Boku", 
@@ -601,7 +618,8 @@
         "type_of_business": "Mobile payments platform", 
         "website": "http://boku.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Box", 
@@ -614,7 +632,8 @@
         "type_of_business": "Cloud content management", 
         "website": "http://box.net"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bracket Computing", 
@@ -627,7 +646,8 @@
         "type_of_business": "Enterprise computing", 
         "website": "http://brkt.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bromium", 
@@ -640,7 +660,8 @@
         "type_of_business": "Intersection of virtualization and security", 
         "website": "http://bromium.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bump\u00a0Technologies", 
@@ -653,7 +674,8 @@
         "type_of_business": "Mobile interactions", 
         "website": "http://bu.mp"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "BuzzFeed", 
@@ -666,7 +688,8 @@
         "type_of_business": "Social News & Entertainment", 
         "website": "http://www.buzzfeed.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Capriza", 
@@ -679,7 +702,8 @@
         "type_of_business": "App creation platform", 
         "website": "http://capriza.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Cazena", 
@@ -692,7 +716,8 @@
         "type_of_business": "Big Data as a Service", 
         "website": "http://cazena.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "CipherCloud", 
@@ -705,7 +730,8 @@
         "type_of_business": "Cloud security", 
         "website": "http://ciphercloud.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "ClearStory", 
@@ -718,7 +744,8 @@
         "type_of_business": "Enterprise and (Big) Data", 
         "website": "http://www.clearstorydata.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Coho Data", 
@@ -731,7 +758,8 @@
         "type_of_business": "Enterprise Storage", 
         "website": "http://cohodata.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Coinbase", 
@@ -744,7 +772,8 @@
         "type_of_business": "Bitcoin wallet", 
         "website": "http://coinbase.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Cumulus\u00a0Networks", 
@@ -757,7 +786,8 @@
         "type_of_business": "Linux operating system for networking hardware", 
         "website": "http://cumulusnetworks.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Cyanogen", 
@@ -770,7 +800,8 @@
         "type_of_business": "Aftermarket Android firmware", 
         "website": "http://cyngn.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Databricks", 
@@ -783,7 +814,8 @@
         "type_of_business": "SaaS data platform", 
         "website": "http://www.databricks.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "DataGravity", 
@@ -796,7 +828,8 @@
         "type_of_business": "Data-aware solutions", 
         "website": "http://datagravity.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "DigitalOcean", 
@@ -809,7 +842,8 @@
         "type_of_business": "Simple Cloud Infrastructure", 
         "website": "http://digitalocean.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Distelli", 
@@ -822,7 +856,8 @@
         "type_of_business": "Infrastructure Automation", 
         "website": "http://distelli.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Dwolla", 
@@ -835,7 +870,8 @@
         "type_of_business": "Secure online money movement", 
         "website": "http://dwolla.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Envoy", 
@@ -848,7 +884,8 @@
         "type_of_business": "Visitor management software", 
         "website": "http://envoy.co"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Everlaw", 
@@ -861,7 +898,8 @@
         "type_of_business": "B2B Software", 
         "website": "http://everlaw.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Facebook", 
@@ -874,7 +912,8 @@
         "type_of_business": "Social networking service", 
         "website": "http://facebook.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Factual", 
@@ -887,7 +926,8 @@
         "type_of_business": "Open data platform", 
         "website": "http://factual.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Fanatics", 
@@ -900,7 +940,8 @@
         "type_of_business": "Sports retailer", 
         "website": "http://fanaticsinc.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "FiftyThree", 
@@ -913,7 +954,8 @@
         "type_of_business": "Creative software and hardware", 
         "website": "http://fiftythree.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Forward Networks", 
@@ -926,7 +968,8 @@
         "type_of_business": "Networking Software", 
         "website": "http://forwardnetworks.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Foursquare", 
@@ -939,7 +982,8 @@
         "type_of_business": "Social networking", 
         "website": "http://foursquare.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Fusion-io", 
@@ -952,7 +996,8 @@
         "type_of_business": "Flash storage", 
         "website": "http://fusionio.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Gainspeed", 
@@ -965,7 +1010,8 @@
         "type_of_business": "Cable provider infrastructure", 
         "website": "http://gainspeed.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Genius", 
@@ -978,7 +1024,8 @@
         "type_of_business": "Annotating everything", 
         "website": "http://genius.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Gigster", 
@@ -991,7 +1038,8 @@
         "type_of_business": "Developers on demand", 
         "website": "https://gigster.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "GitHub", 
@@ -1004,7 +1052,8 @@
         "type_of_business": "Software development", 
         "website": "http://github.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Glow", 
@@ -1017,7 +1066,8 @@
         "type_of_business": "Fertility and ovulation tracking", 
         "website": "http://www.glowing.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "GoodData", 
@@ -1030,7 +1080,8 @@
         "type_of_business": "Business Data Monetization", 
         "website": "http://gooddata.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Granular", 
@@ -1043,7 +1094,8 @@
         "type_of_business": "Business software & analytics for professional farms", 
         "website": "http://www.granular.ag"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Groupon, Inc.", 
@@ -1056,7 +1108,8 @@
         "type_of_business": "E-commerce marketplace for daily deals and group buying", 
         "website": "http://www.groupon.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Hem", 
@@ -1069,7 +1122,8 @@
         "type_of_business": "Curated Commerce", 
         "website": "http://hem.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Honor", 
@@ -1082,7 +1136,8 @@
         "type_of_business": "Senior Home Care Platform", 
         "website": "http://joinhonor.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "IFTTT", 
@@ -1095,7 +1150,8 @@
         "type_of_business": "Consumer & Developer Platform", 
         "website": "http://ifttt.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Illumio", 
@@ -1108,7 +1164,8 @@
         "type_of_business": "Cloud security", 
         "website": "http://illumio.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Imgur", 
@@ -1121,7 +1178,8 @@
         "type_of_business": "image sharing", 
         "website": "https://imgur.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Improbable", 
@@ -1134,7 +1192,8 @@
         "type_of_business": "Simulation Platform Technology", 
         "website": "http://www.improbable.io"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Instacart", 
@@ -1147,7 +1206,8 @@
         "type_of_business": "Local delivery service", 
         "website": "http://instacart.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Instart\u00a0Logic", 
@@ -1160,7 +1220,8 @@
         "type_of_business": "Cloud publishing platform", 
         "website": "http://instartlogic.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "It\u2019sOn", 
@@ -1173,7 +1234,8 @@
         "type_of_business": "Mobile services purchasing", 
         "website": "http://itsoninc.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Jawbone", 
@@ -1186,7 +1248,8 @@
         "type_of_business": "Products and services for the mobile lifestyle", 
         "website": "http://jawbone.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Julep", 
@@ -1199,7 +1262,8 @@
         "type_of_business": "Beauty company", 
         "website": "http://julep.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Jumio", 
@@ -1212,7 +1276,8 @@
         "type_of_business": "ID authentication technology", 
         "website": "http://jumio.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Keybase", 
@@ -1225,7 +1290,8 @@
         "type_of_business": "Public key cryptography", 
         "website": "http://keybase.io"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Kno", 
@@ -1238,7 +1304,8 @@
         "type_of_business": "Education software", 
         "website": "http://kno.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Local Motion", 
@@ -1251,7 +1318,8 @@
         "type_of_business": "Intelligent fleet management", 
         "website": "http://getlocalmotion.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Lookout", 
@@ -1264,7 +1332,8 @@
         "type_of_business": "Smartphone security", 
         "website": "http://lookout.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Lyft", 
@@ -1277,7 +1346,8 @@
         "type_of_business": "Transportation app", 
         "website": "http://lyft.me"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Lytro", 
@@ -1290,7 +1360,8 @@
         "type_of_business": "Photography technology", 
         "website": "http://lytro.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Magic Leap", 
@@ -1303,7 +1374,8 @@
         "type_of_business": "Augmented Reality", 
         "website": "http://magicleap.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Magnet\u00a0Systems", 
@@ -1316,7 +1388,8 @@
         "type_of_business": "Mobile middleware", 
         "website": "http://magnet.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Maxta", 
@@ -1329,7 +1402,8 @@
         "type_of_business": "Infrastructure software", 
         "website": "http://maxta.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mayvenn", 
@@ -1342,7 +1416,8 @@
         "type_of_business": "E-commerce", 
         "website": "http://mayvenn.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mesosphere", 
@@ -1355,7 +1430,8 @@
         "type_of_business": "Next generation virtualization", 
         "website": "http://www.mesosphere.io"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Meteor Development\u00a0Group", 
@@ -1368,7 +1444,8 @@
         "type_of_business": "Web app development", 
         "website": "http://meteor.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mixpanel", 
@@ -1381,7 +1458,8 @@
         "type_of_business": "Data analytics", 
         "website": "http://mixpanel.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mori", 
@@ -1394,7 +1472,8 @@
         "type_of_business": "Stealth", 
         "website": "http://mori.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "NationBuilder", 
@@ -1407,7 +1486,8 @@
         "type_of_business": "Software For Leaders", 
         "website": "http://nationbuilder.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Nicira", 
@@ -1420,7 +1500,8 @@
         "type_of_business": "Virtualization Software", 
         "website": "http://nicira.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Oculus", 
@@ -1433,7 +1514,8 @@
         "type_of_business": "wearable virtual reality gear", 
         "website": "http://www.oculusvr.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "OfferUp", 
@@ -1446,7 +1528,8 @@
         "type_of_business": "Marketplace for local buyers and sellers", 
         "website": "http://offerupnow.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Okta", 
@@ -1459,7 +1542,8 @@
         "type_of_business": "Cloud Identity & Access Management", 
         "website": "http://okta.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Omada Health", 
@@ -1472,7 +1556,8 @@
         "type_of_business": "Digital therapeutics", 
         "website": "http://www.omadahealth.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Onshape", 
@@ -1485,7 +1570,8 @@
         "type_of_business": "3D CAD software", 
         "website": "http://onshape.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "OpenGov", 
@@ -1498,7 +1584,8 @@
         "type_of_business": "Business Intelligence for Government", 
         "website": "https://www.opengov.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Optimizely", 
@@ -1511,7 +1598,8 @@
         "type_of_business": "Web optimization platform", 
         "website": "http://www.optimizely.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "PagerDuty", 
@@ -1524,7 +1612,8 @@
         "type_of_business": "911 for IT", 
         "website": "http://pagerduty.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Pindrop\u00a0Security", 
@@ -1537,7 +1626,8 @@
         "type_of_business": "Fraud solutions for the enterprise", 
         "website": "http://pindropsecurity.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Pinterest", 
@@ -1550,7 +1640,8 @@
         "type_of_business": "Social Media Platform", 
         "website": "http://pinterest.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Platfora", 
@@ -1563,7 +1654,8 @@
         "type_of_business": "Big data", 
         "website": "http://platfora.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "ProductHunt", 
@@ -1576,7 +1668,8 @@
         "type_of_business": "Product Discovery and Community", 
         "website": "http://producthunt.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Quirky", 
@@ -1589,7 +1682,8 @@
         "type_of_business": "Social product development", 
         "website": "http://quirky.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Ringly", 
@@ -1602,7 +1696,8 @@
         "type_of_business": "Connected jewelry", 
         "website": "https://ringly.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Rockmelt", 
@@ -1615,7 +1710,8 @@
         "type_of_business": "Internet browser", 
         "website": "http://rockmelt.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Samsara", 
@@ -1628,7 +1724,8 @@
         "type_of_business": "Internet Connected Sensors", 
         "website": "http://samsara.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Shapeways", 
@@ -1641,7 +1738,8 @@
         "type_of_business": "3D printing marketplace", 
         "website": "http://shapeways.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Shoedazzle", 
@@ -1654,7 +1752,8 @@
         "type_of_business": "Personalized social commerce", 
         "website": "http://shoedazzle.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "SignalFx", 
@@ -1667,7 +1766,8 @@
         "type_of_business": "Application management", 
         "website": "http://signalfx.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Skout", 
@@ -1680,7 +1780,8 @@
         "type_of_business": "Mobile social networking", 
         "website": "http://skout.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Skype,\u00a0Inc.", 
@@ -1693,7 +1794,8 @@
         "type_of_business": "VoIP software", 
         "website": "http://skype.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Slack", 
@@ -1706,7 +1808,8 @@
         "type_of_business": "Communication platform for teams", 
         "website": "https://slack.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "SnapLogic", 
@@ -1719,7 +1822,8 @@
         "type_of_business": "Data integration", 
         "website": "http://snaplogic.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Soylent", 
@@ -1732,7 +1836,8 @@
         "type_of_business": "Engineered staple foods", 
         "website": "http://www.soylent.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Stack Exchange", 
@@ -1745,7 +1850,8 @@
         "type_of_business": "Q&A communities", 
         "website": "http://stackoverflow.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Switch Communications", 
@@ -1758,7 +1864,8 @@
         "type_of_business": "Visual conferencing", 
         "website": "http://switch.co"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tanium", 
@@ -1771,7 +1878,8 @@
         "type_of_business": "Systems management", 
         "website": "http://www.tanium.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Teespring", 
@@ -1784,7 +1892,8 @@
         "type_of_business": "Crowdfunded custom apparel", 
         "website": "http://teespring.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tidemark", 
@@ -1797,7 +1906,8 @@
         "type_of_business": "Analytics technology", 
         "website": "http://tidemark.net"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tilt", 
@@ -1810,7 +1920,8 @@
         "type_of_business": "Next generation crowdfunding platform and tools", 
         "website": "https://www.tilt.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "TinyCo", 
@@ -1823,7 +1934,8 @@
         "type_of_business": "Mobile social games", 
         "website": "http://tinyco.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "ToutApp", 
@@ -1836,7 +1948,8 @@
         "type_of_business": "Sales acceleration platform", 
         "website": "http://www.toutapp.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "TransferWise", 
@@ -1849,7 +1962,8 @@
         "type_of_business": "International money transfer", 
         "website": "http://www.transferwise.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Twice", 
@@ -1862,7 +1976,8 @@
         "type_of_business": "Fashion recommerce", 
         "website": "http://www.liketwice.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Twitter", 
@@ -1875,7 +1990,8 @@
         "type_of_business": "Social networking and microblogging", 
         "website": "http://twitter.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Udacity", 
@@ -1888,7 +2004,8 @@
         "type_of_business": "Higher education", 
         "website": "http://udacity.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Usermind", 
@@ -1901,7 +2018,8 @@
         "type_of_business": "Business operations", 
         "website": "http://usermind.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Walker and Company\u00a0Brands", 
@@ -1914,7 +2032,8 @@
         "type_of_business": "Brand for health and beauty", 
         "website": "http://www.walkerandcompany.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Zenefits", 
@@ -1927,7 +2046,8 @@
         "type_of_business": "All-in-one HR SaaS", 
         "website": "http://www.zenefits.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Zulily", 
@@ -1940,7 +2060,8 @@
         "type_of_business": "Daily deal site for moms", 
         "website": "http://zulily.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Twoxar", 
@@ -1953,7 +2074,8 @@
         "type_of_business": null, 
         "website": "http://www.twoxar.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Unify", 
@@ -1966,7 +2088,8 @@
         "type_of_business": null, 
         "website": "http://unify.id"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Gitstar", 
@@ -1979,7 +2102,8 @@
         "type_of_business": null, 
         "website": "https://gitstar.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Radiant Entertainment", 
@@ -1992,7 +2116,8 @@
         "type_of_business": null, 
         "website": "http://radiant-entertainment.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Blockspring", 
@@ -2005,7 +2130,8 @@
         "type_of_business": null, 
         "website": "https://blockspring.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Point", 
@@ -2018,7 +2144,8 @@
         "type_of_business": null, 
         "website": "http://point.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Skyd", 
@@ -2031,7 +2158,8 @@
         "type_of_business": null, 
         "website": "http://skyd.io/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Sigopt", 
@@ -2044,7 +2172,8 @@
         "type_of_business": null, 
         "website": "http://sigopt.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Witheve", 
@@ -2057,7 +2186,8 @@
         "type_of_business": null, 
         "website": "http://witheve.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Wemash", 
@@ -2070,7 +2200,8 @@
         "type_of_business": null, 
         "website": "http://www.wemash.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Txn", 
@@ -2083,7 +2214,8 @@
         "type_of_business": null, 
         "website": "http://txn.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Premise", 
@@ -2096,7 +2228,8 @@
         "type_of_business": null, 
         "website": "http://premise.is"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Yourmechanic", 
@@ -2109,7 +2242,8 @@
         "type_of_business": null, 
         "website": "http://yourmechanic.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Humandx", 
@@ -2122,7 +2256,8 @@
         "type_of_business": null, 
         "website": "http://www.humandx.org"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Apropose", 
@@ -2135,7 +2270,8 @@
         "type_of_business": null, 
         "website": "http://apropose.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tradeblock", 
@@ -2148,7 +2284,8 @@
         "type_of_business": null, 
         "website": "https://tradeblock.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Enjoytech", 
@@ -2161,7 +2298,8 @@
         "type_of_business": null, 
         "website": "http://enjoytech.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Ubiome", 
@@ -2174,7 +2312,8 @@
         "type_of_business": null, 
         "website": "http://ubiome.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Teleport", 
@@ -2187,7 +2326,8 @@
         "type_of_business": null, 
         "website": "http://teleport.org/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Galxyz", 
@@ -2200,7 +2340,8 @@
         "type_of_business": null, 
         "website": "http://www.galxyz.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Solvebio", 
@@ -2213,7 +2354,8 @@
         "type_of_business": null, 
         "website": "https://www.solvebio.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Urbit", 
@@ -2226,7 +2368,8 @@
         "type_of_business": null, 
         "website": "http://urbit.org"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Medisas", 
@@ -2239,7 +2382,8 @@
         "type_of_business": null, 
         "website": "http://medisas.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tindie", 
@@ -2252,7 +2396,8 @@
         "type_of_business": null, 
         "website": "https://www.tindie.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Robinhood", 
@@ -2265,7 +2410,8 @@
         "type_of_business": null, 
         "website": "https://www.robinhood.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Leaptransit", 
@@ -2278,7 +2424,8 @@
         "type_of_business": null, 
         "website": "http://leaptransit.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Humanapi", 
@@ -2291,7 +2438,8 @@
         "type_of_business": null, 
         "website": "http://humanapi.co/features"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Haloneuro", 
@@ -2304,7 +2452,8 @@
         "type_of_business": null, 
         "website": "http://haloneuro.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Gotenna", 
@@ -2317,7 +2466,8 @@
         "type_of_business": null, 
         "website": "http://www.gotenna.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Uxpin", 
@@ -2330,7 +2480,8 @@
         "type_of_business": null, 
         "website": "http://uxpin.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Meetearnest", 
@@ -2343,7 +2494,8 @@
         "type_of_business": null, 
         "website": "http://meetearnest.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Bloomnation", 
@@ -2356,7 +2508,8 @@
         "type_of_business": null, 
         "website": "http://www.bloomnation.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Oration", 
@@ -2369,7 +2522,8 @@
         "type_of_business": null, 
         "website": "http://www.oration.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Joinkoru", 
@@ -2382,7 +2536,8 @@
         "type_of_business": null, 
         "website": "http://www.joinkoru.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Coreos", 
@@ -2395,7 +2550,8 @@
         "type_of_business": null, 
         "website": "https://coreos.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Wearableintelligence", 
@@ -2408,7 +2564,8 @@
         "type_of_business": null, 
         "website": "http://wearableintelligence.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Pro", 
@@ -2421,7 +2578,8 @@
         "type_of_business": null, 
         "website": "https://pro.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Yardclub", 
@@ -2434,7 +2592,8 @@
         "type_of_business": null, 
         "website": "http://www.yardclub.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Socratic", 
@@ -2447,7 +2606,8 @@
         "type_of_business": null, 
         "website": "http://socratic.org/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Letote", 
@@ -2460,7 +2620,8 @@
         "type_of_business": null, 
         "website": "http://www.letote.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Soha", 
@@ -2473,7 +2634,8 @@
         "type_of_business": null, 
         "website": "http://soha.io"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Findlineinc", 
@@ -2486,7 +2648,8 @@
         "type_of_business": null, 
         "website": "https://www.findlineinc.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Littleborroweddress", 
@@ -2499,7 +2662,8 @@
         "type_of_business": null, 
         "website": "http://www.littleborroweddress.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Proven", 
@@ -2512,7 +2676,8 @@
         "type_of_business": null, 
         "website": "http://proven.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mattermark", 
@@ -2525,7 +2690,8 @@
         "type_of_business": null, 
         "website": "http://mattermark.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Zumper", 
@@ -2538,7 +2704,8 @@
         "type_of_business": null, 
         "website": "http://www.zumper.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Subledger", 
@@ -2551,7 +2718,8 @@
         "type_of_business": null, 
         "website": "http://subledger.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Highfive", 
@@ -2564,7 +2732,8 @@
         "type_of_business": null, 
         "website": "http://www.highfive.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Kitchit", 
@@ -2577,7 +2746,8 @@
         "type_of_business": null, 
         "website": "http://www.kitchit.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Alation", 
@@ -2590,7 +2760,8 @@
         "type_of_business": null, 
         "website": "http://www.alation.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Thync", 
@@ -2603,7 +2774,8 @@
         "type_of_business": null, 
         "website": "http://www.thync.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Experiment", 
@@ -2616,7 +2788,8 @@
         "type_of_business": null, 
         "website": "https://experiment.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Flightcar", 
@@ -2629,7 +2802,8 @@
         "type_of_business": null, 
         "website": "https://flightcar.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Screenhero", 
@@ -2642,7 +2816,8 @@
         "type_of_business": null, 
         "website": "http://screenhero.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Puddle", 
@@ -2655,7 +2830,8 @@
         "type_of_business": null, 
         "website": "https://www.puddle.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mediaspike", 
@@ -2668,7 +2844,8 @@
         "type_of_business": null, 
         "website": "http://www.mediaspike.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Lockitron", 
@@ -2681,7 +2858,8 @@
         "type_of_business": null, 
         "website": "https://lockitron.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Runscope", 
@@ -2694,7 +2872,8 @@
         "type_of_business": null, 
         "website": "https://www.runscope.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Pixlee", 
@@ -2707,7 +2886,8 @@
         "type_of_business": null, 
         "website": "http://pixlee.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Boostedboards", 
@@ -2720,7 +2900,8 @@
         "type_of_business": null, 
         "website": "http://boostedboards.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Openbay", 
@@ -2733,7 +2914,8 @@
         "type_of_business": null, 
         "website": "https://www.openbay.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Crowdmed", 
@@ -2746,7 +2928,8 @@
         "type_of_business": null, 
         "website": "http://crowdmed.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Eventley", 
@@ -2759,7 +2942,8 @@
         "type_of_business": null, 
         "website": "http://eventley.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Signifyd", 
@@ -2772,7 +2956,8 @@
         "type_of_business": null, 
         "website": "http://www.signifyd.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Getable", 
@@ -2785,7 +2970,8 @@
         "type_of_business": null, 
         "website": "http://getable.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Thirdlove", 
@@ -2798,7 +2984,8 @@
         "type_of_business": null, 
         "website": "http://thirdlove.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Percolata", 
@@ -2811,7 +2998,8 @@
         "type_of_business": null, 
         "website": "http://www.percolata.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Doctorondemand", 
@@ -2824,7 +3012,8 @@
         "type_of_business": null, 
         "website": "http://www.doctorondemand.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Nuzzel", 
@@ -2837,7 +3026,8 @@
         "type_of_business": null, 
         "website": "http://nuzzel.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Talko", 
@@ -2850,7 +3040,8 @@
         "type_of_business": null, 
         "website": "http://talko.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Yesgraph", 
@@ -2863,7 +3054,8 @@
         "type_of_business": null, 
         "website": "https://www.yesgraph.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Cask", 
@@ -2876,7 +3068,8 @@
         "type_of_business": null, 
         "website": "http://cask.co/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Kamcord", 
@@ -2889,7 +3082,8 @@
         "type_of_business": null, 
         "website": "http://kamcord.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Studyedge", 
@@ -2902,7 +3096,8 @@
         "type_of_business": null, 
         "website": "http://studyedge.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Keychainlogistics", 
@@ -2915,7 +3110,8 @@
         "type_of_business": null, 
         "website": "http://keychainlogistics.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Plivo", 
@@ -2928,7 +3124,8 @@
         "type_of_business": null, 
         "website": "https://www.plivo.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Messageme", 
@@ -2941,7 +3138,8 @@
         "type_of_business": null, 
         "website": "http://www.messageme.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Rainforestqa", 
@@ -2954,7 +3152,8 @@
         "type_of_business": null, 
         "website": "http://rainforestqa.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Healthsherpa", 
@@ -2967,7 +3166,8 @@
         "type_of_business": null, 
         "website": "https://www.healthsherpa.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Learnup", 
@@ -2980,7 +3180,8 @@
         "type_of_business": null, 
         "website": "http://learnup.me"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Infer", 
@@ -2993,7 +3194,8 @@
         "type_of_business": null, 
         "website": "https://www.infer.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Ridecell", 
@@ -3006,7 +3208,8 @@
         "type_of_business": null, 
         "website": "http://www.ridecell.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Ubeam", 
@@ -3019,7 +3222,8 @@
         "type_of_business": null, 
         "website": "http://www.ubeam.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Redhotlabs", 
@@ -3032,7 +3236,8 @@
         "type_of_business": null, 
         "website": "http://www.redhotlabs.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Artillery", 
@@ -3045,7 +3250,8 @@
         "type_of_business": null, 
         "website": "http://www.artillery.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Minomonsters", 
@@ -3058,7 +3264,8 @@
         "type_of_business": null, 
         "website": "http://www.minomonsters.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Dogvacay", 
@@ -3071,7 +3278,8 @@
         "type_of_business": null, 
         "website": "http://www.dogvacay.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Learnsprout", 
@@ -3084,7 +3292,8 @@
         "type_of_business": null, 
         "website": "http://www.learnsprout.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Mightyhive", 
@@ -3097,7 +3306,8 @@
         "type_of_business": null, 
         "website": "http://mightyhive.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Elasticbox", 
@@ -3110,7 +3320,8 @@
         "type_of_business": null, 
         "website": "http://www.elasticbox.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Flux", 
@@ -3123,7 +3334,8 @@
         "type_of_business": null, 
         "website": "http://flux.io"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Blendlabsinc", 
@@ -3136,7 +3348,8 @@
         "type_of_business": null, 
         "website": "http://blendlabsinc.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Installmonetizer", 
@@ -3149,7 +3362,8 @@
         "type_of_business": null, 
         "website": "http://installmonetizer.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Atavist", 
@@ -3162,7 +3376,8 @@
         "type_of_business": null, 
         "website": "http://www.atavist.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Toptal", 
@@ -3175,7 +3390,8 @@
         "type_of_business": null, 
         "website": "http://www.toptal.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Apcera", 
@@ -3188,7 +3404,8 @@
         "type_of_business": null, 
         "website": "http://www.apcera.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Spinnakr", 
@@ -3201,7 +3418,8 @@
         "type_of_business": null, 
         "website": "http://www.spinnakr.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Makeschool", 
@@ -3214,7 +3432,8 @@
         "type_of_business": null, 
         "website": "http://makeschool.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Lendup", 
@@ -3227,7 +3446,8 @@
         "type_of_business": null, 
         "website": "http://www.lendup.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Swiftype", 
@@ -3240,7 +3460,8 @@
         "type_of_business": null, 
         "website": "http://www.swiftype.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Shoptiques", 
@@ -3253,7 +3474,8 @@
         "type_of_business": null, 
         "website": "http://www.shoptiques.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Priceonomics", 
@@ -3266,7 +3488,8 @@
         "type_of_business": null, 
         "website": "http://priceonomics.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Sookasa", 
@@ -3279,7 +3502,8 @@
         "type_of_business": null, 
         "website": "http://www.sookasa.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Matternet", 
@@ -3292,7 +3516,8 @@
         "type_of_business": null, 
         "website": "http://matternet.us#sthash.Wj864W8c.dpuf"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Tikl", 
@@ -3305,7 +3530,8 @@
         "type_of_business": null, 
         "website": "http://tikl.mobi"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Dollarshaveclub", 
@@ -3318,7 +3544,8 @@
         "type_of_business": null, 
         "website": "http://www.dollarshaveclub.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "8tracks", 
@@ -3331,7 +3558,8 @@
         "type_of_business": null, 
         "website": "http://www.8tracks.com"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Quantifind", 
@@ -3344,7 +3572,8 @@
         "type_of_business": null, 
         "website": "http://quantifind.com/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }, 
     {
       "id": "Oncorps", 
@@ -3357,7 +3586,8 @@
         "type_of_business": null, 
         "website": "https://www.oncorps.org/"
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Company"
     }
   ], 
   "Investor": [
@@ -3370,7 +3600,8 @@
         "profile": "http://a16z.com/author/alex-rampell/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Angela Strange", 
@@ -3381,7 +3612,8 @@
         "profile": "http://linkedin.com/in/angelastrange", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Anu Hariharan", 
@@ -3392,7 +3624,8 @@
         "profile": "http://www.linkedin.com/in/anuhariharan", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Austin Guzman", 
@@ -3403,7 +3636,8 @@
         "profile": "http://www.linkedin.com/pub/austin-guzman/1a/b61/117", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ben Horowitz", 
@@ -3414,7 +3648,8 @@
         "profile": "http://a16z.com/author/ben-horowitz/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Benedict Evans", 
@@ -3425,7 +3660,8 @@
         "profile": "http://ben-evans.com/#newsletter", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Chris Dixon", 
@@ -3436,7 +3672,8 @@
         "profile": "http://a16z.com/author/chris-dixon/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Chris Lyons", 
@@ -3447,7 +3684,8 @@
         "profile": "http://www.linkedin.com/in/christophermlyons/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Connie Chan", 
@@ -3458,7 +3696,8 @@
         "profile": "http://www.linkedin.com/in/conniechan", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Frank Chen", 
@@ -3469,7 +3708,8 @@
         "profile": "https://www.facebook.com/frank.chen", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jason Franklin", 
@@ -3480,7 +3720,8 @@
         "profile": "https://www.linkedin.com/in/jason-franklin-ph-d-bb61b41", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jeff Jordan", 
@@ -3491,7 +3732,8 @@
         "profile": "http://a16z.com/author/jeff-jordan/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "John O\u2019Farrell", 
@@ -3502,7 +3744,8 @@
         "profile": "http://www.linkedin.com/pub/john-o-farrell/0/52/b72/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Juliet Nyatta", 
@@ -3513,7 +3756,8 @@
         "profile": "http://www.linkedin.com/in/jnyatta", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Kyle Russell", 
@@ -3524,7 +3768,8 @@
         "profile": "https://www.linkedin.com/pub/kyle-russell/68/496/32a", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Lars Dalgaard", 
@@ -3535,7 +3780,8 @@
         "profile": "http://www.glide.org/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "LJ Erwin", 
@@ -3546,7 +3792,8 @@
         "profile": "https://www.linkedin.com/in/larryerwin", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Malinka Walaliyadde", 
@@ -3557,7 +3804,8 @@
         "profile": "http://www.linkedin.com/in/malinkawalaliyadde", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Marc Andreessen", 
@@ -3568,7 +3816,8 @@
         "profile": "http://a16z.com/author/marc-andreessen/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Morgan Bender", 
@@ -3579,7 +3828,8 @@
         "profile": "http://www.linkedin.com/in/morganbender/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Peter Levine", 
@@ -3590,7 +3840,8 @@
         "profile": "http://a16z.com/author/peter-levine/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Saku Panditharatne", 
@@ -3601,7 +3852,8 @@
         "profile": "https://www.linkedin.com/in/sakunthala-panditharatne-82315ba4", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Scott Kupor", 
@@ -3612,7 +3864,8 @@
         "profile": "http://a16z.com/author/scott-kupor/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Scott Weiss", 
@@ -3623,7 +3876,8 @@
         "profile": "http://a16z.com/author/scott-weiss/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Vijay Pande", 
@@ -3634,7 +3888,8 @@
         "profile": "http://a16z.com/author/vijay-pande/", 
         "role": "Investing: Backing brilliant entrepreneurs to build the future."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Amy Kalokerinos", 
@@ -3645,7 +3900,8 @@
         "profile": "https://uk.linkedin.com/pub/amy-kalokerinos/9/250/243", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Brad Kern", 
@@ -3656,7 +3912,8 @@
         "profile": "http://www.linkedin.com/pub/brad-kern/0/395/274/en", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Caitlin Roberson", 
@@ -3667,7 +3924,8 @@
         "profile": "https://www.linkedin.com/in/caitlinroberson", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Dalton Turay", 
@@ -3678,7 +3936,8 @@
         "profile": "https://www.linkedin.com/pub/dalton-turay/62/9a5/83", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Erika Herrera", 
@@ -3689,7 +3948,8 @@
         "profile": "http://www.linkedin.com/pub/erika-herrera/60/721/299", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Erin Grody Kingsley", 
@@ -3700,7 +3960,8 @@
         "profile": "http://www.linkedin.com/pub/erin-r-grody/4a/a23/1aa/", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jaimie Buss", 
@@ -3711,7 +3972,8 @@
         "profile": "http://www.linkedin.com/in/jaimiebuss", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jennifer Konde", 
@@ -3722,7 +3984,8 @@
         "profile": "https://www.linkedin.com/in/jenniferkonde", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jessica Peterson", 
@@ -3733,7 +3996,8 @@
         "profile": "http://www.linkedin.com/pub/jessica-peterson/64/b32/b7a", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jordan Stankowski", 
@@ -3744,7 +4008,8 @@
         "profile": "https://www.linkedin.com/in/jordanstankowski", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Laura Shores", 
@@ -3755,7 +4020,8 @@
         "profile": "https://www.linkedin.com/in/laurashores", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Lauren Berson", 
@@ -3766,7 +4032,8 @@
         "profile": "http://www.linkedin.com/in/laurenberson", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Leila Abu-Sharr", 
@@ -3777,7 +4044,8 @@
         "profile": "http://www.linkedin.com/pub/leila-abu-sharr/53/802/a40", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Mahesh Iyer", 
@@ -3788,7 +4056,8 @@
         "profile": "https://www.linkedin.com/in/maheshiyer", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Marci Barbera", 
@@ -3799,7 +4068,8 @@
         "profile": "https://www.linkedin.com/pub/marci-barbera/1/217/908", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Mark Cranney", 
@@ -3810,7 +4080,8 @@
         "profile": "http://www.linkedin.com/pub/mark-cranney/0/925/a61", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Mark McAndrew", 
@@ -3821,7 +4092,8 @@
         "profile": "http://www.linkedin.com/pub/mark-mcandrew/7/b60/b76", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "McPherson Moore", 
@@ -3832,7 +4104,8 @@
         "profile": "https://www.linkedin.com/in/mcpherson-moore-48831175", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Molly Grace", 
@@ -3843,7 +4116,8 @@
         "profile": "http://www.linkedin.com/pub/molly-grace/47/177/2b2/", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Naithan Jones", 
@@ -3854,7 +4128,8 @@
         "profile": "http://www.linkedin.com/in/naithanjones/en", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Parker Brown", 
@@ -3865,7 +4140,8 @@
         "profile": "http://www.linkedin.com/pub/parker-brown/20/5a/694/", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Sarah Fazal", 
@@ -3876,7 +4152,8 @@
         "profile": "https://www.linkedin.com/in/sarah-fazal-91442966", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Sharon Chang", 
@@ -3887,7 +4164,8 @@
         "profile": "https://www.linkedin.com/in/schang", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Stacy D\u2019Amico", 
@@ -3898,7 +4176,8 @@
         "profile": "http://www.linkedin.com/in/stacydamico", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Todd Lutwak", 
@@ -3909,7 +4188,8 @@
         "profile": "https://www.facebook.com/lutwak", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Valentina Marzorati", 
@@ -3920,7 +4200,8 @@
         "profile": "https://www.linkedin.com/pub/valentina-marzorati/4a/6b7/287", 
         "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Alyssa Del Bene", 
@@ -3931,7 +4212,8 @@
         "profile": "http://www.linkedin.com/pub/alyssa-del-bene/42/646/64b/", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Amanda Mulay", 
@@ -3942,7 +4224,8 @@
         "profile": "http://www.linkedin.com/pub/amanda-mulay/32/497/7a3/en", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Anna Soliveres", 
@@ -3953,7 +4236,8 @@
         "profile": "http://www.linkedin.com/pub/anna-soliveres/8/172/a35", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ellen Tunoa", 
@@ -3964,7 +4248,8 @@
         "profile": "http://www.linkedin.com/in/ellenltunoa/", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Emily Graff", 
@@ -3975,7 +4260,8 @@
         "profile": "https://www.linkedin.com/in/emilygraff", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Eric Thomas", 
@@ -3986,7 +4272,8 @@
         "profile": "http://www.linkedin.com/in/ericthomas99/", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jessica Hansen", 
@@ -3997,7 +4284,8 @@
         "profile": "http://www.linkedin.com/in/jessicaleighhansen/", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "JZ Young", 
@@ -4008,7 +4296,8 @@
         "profile": "http://www.linkedin.com/in/jenzimmerer", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Kristina Graci-deLuna", 
@@ -4019,7 +4308,8 @@
         "profile": "https://www.linkedin.com/pub/kristina-graci-deluna/0/335/a0b", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Nigel Robinson", 
@@ -4030,7 +4320,8 @@
         "profile": "https://www.linkedin.com/pub/nigel-robinson/a3/494/32b", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Robert Moreno", 
@@ -4041,7 +4332,8 @@
         "profile": "http://www.linkedin.com/pub/robert-moreno/0/334/8b9", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Shannon Schiltz", 
@@ -4052,7 +4344,8 @@
         "profile": "http://www.linkedin.com/pub/shannon-callahan/0/a6/49a", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Taylor McFadden", 
@@ -4063,7 +4356,8 @@
         "profile": "//www.linkedin.com/in/taylormcfadden", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Tina Ferguson", 
@@ -4074,7 +4368,8 @@
         "profile": "http://www.linkedin.com/pub/tina-ferguson/2/2a5/510", 
         "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Caroline Horn", 
@@ -4085,7 +4380,8 @@
         "profile": "http://www.linkedin.com/in/carolinehorn", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Erin Winkler", 
@@ -4096,7 +4392,8 @@
         "profile": "https://www.linkedin.com/in/erinwinkler", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Gia Scinto", 
@@ -4107,7 +4404,8 @@
         "profile": "http://www.linkedin.com/pub/gia-scinto/1/14b/b86/", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jeff Stump", 
@@ -4118,7 +4416,8 @@
         "profile": "http://www.linkedin.com/pub/jeff-stump/0/171/9a0", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jose Guardado", 
@@ -4129,7 +4428,8 @@
         "profile": "https://www.linkedin.com/in/joseguardado", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Matt Levy", 
@@ -4140,7 +4440,8 @@
         "profile": "http://a16z.com/author/matt-levy/", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Matt Oberhardt", 
@@ -4151,7 +4452,8 @@
         "profile": "http://www.linkedin.com/in/mattoberhardt", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Parijat Talkad", 
@@ -4162,7 +4464,8 @@
         "profile": "https://www.linkedin.com/in/parijattannatalkad", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Sunil Chokshi", 
@@ -4173,7 +4476,8 @@
         "profile": "http://www.linkedin.com/in/sunilchokshi", 
         "role": "Executive Talent: Connecting and counseling industry leaders."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Elizabeth Ocken", 
@@ -4184,7 +4488,8 @@
         "profile": "http://www.linkedin.com/pub/elizabeth-ocken/4/61b/ba1", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Grace Ellis", 
@@ -4195,7 +4500,8 @@
         "profile": "http://www.linkedin.com/pub/grace-ellis/2/812/9b1", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Kim Milosevich", 
@@ -4206,7 +4512,8 @@
         "profile": "http://www.linkedin.com/in/kimmilosevich", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Kindra Mason", 
@@ -4217,7 +4524,8 @@
         "profile": "http://www.linkedin.com/in/kindramason/en", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Laura Gravley", 
@@ -4228,7 +4536,8 @@
         "profile": "https://www.linkedin.com/in/lauragravley", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "LeeAnn Caballero", 
@@ -4239,7 +4548,8 @@
         "profile": "http://a16z.com/author/leeann-caballero/", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Margit Wennmachers", 
@@ -4250,7 +4560,8 @@
         "profile": "http://www.linkedin.com/pub/margit-wennmachers/0/b18/613/", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Michael Copeland", 
@@ -4261,7 +4572,8 @@
         "profile": "http://www.linkedin.com/in/mcopeland", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Sonal Chokshi", 
@@ -4272,7 +4584,8 @@
         "profile": "http://a16z.com/author/sonal-chokshi/", 
         "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ana Mostarac", 
@@ -4283,7 +4596,8 @@
         "profile": "https://www.linkedin.com/in/anamostarac", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Caroline Moon", 
@@ -4294,7 +4608,8 @@
         "profile": "https://www.linkedin.com/in/carolinemoon", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Irvin Chan", 
@@ -4305,7 +4620,8 @@
         "profile": "https://www.linkedin.com/in/irvinchan", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Jamie McGurk", 
@@ -4316,7 +4632,8 @@
         "profile": "http://www.linkedin.com/in/mcgurk", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Nicole Irvin", 
@@ -4327,7 +4644,8 @@
         "profile": "https://www.linkedin.com/in/nicole-irvin-13a4bb3", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Steve McDermid", 
@@ -4338,7 +4656,8 @@
         "profile": "http://www.linkedin.com/in/stevemcdermid/", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Tyler Wilson", 
@@ -4349,7 +4668,8 @@
         "profile": "https://www.linkedin.com/in/tyler-wilson-550a4b31", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Vishal Amin", 
@@ -4360,7 +4680,8 @@
         "profile": "https://www.linkedin.com/in/vishalramin", 
         "role": "Corporate Development: Helping companies plan their financial and strategic futures."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Matthew Colford", 
@@ -4371,7 +4692,8 @@
         "profile": "https://www.linkedin.com/in/matthewcolford", 
         "role": "Policy and Regulatory Affairs: connecting technology companies with the resources to navigate the regulatory landscape."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ted Ullyot", 
@@ -4382,7 +4704,8 @@
         "profile": "https://www.linkedin.com/pub/ted-ullyot/11/476/677", 
         "role": "Policy and Regulatory Affairs: connecting technology companies with the resources to navigate the regulatory landscape."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Alexis Lakes", 
@@ -4393,7 +4716,8 @@
         "profile": "http://www.linkedin.com/in/alexislakes", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Amy Berliner", 
@@ -4404,7 +4728,8 @@
         "profile": "http://www.linkedin.com/pub/amy-berliner/2/706/a1a/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Arsho Avetian", 
@@ -4415,7 +4740,8 @@
         "profile": "http://www.linkedin.com/pub/arsho-avetian/0/404/616", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Christina Zeidan", 
@@ -4426,7 +4752,8 @@
         "profile": "http://www.linkedin.com/in/christinazeidan", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Daniel Chen", 
@@ -4437,7 +4764,8 @@
         "profile": "https://www.linkedin.com/profile/view?id=163977594", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Dave Jagoda", 
@@ -4448,7 +4776,8 @@
         "profile": "http://www.linkedin.com/in/davejagoda", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Harry Wright", 
@@ -4459,7 +4788,8 @@
         "profile": "http://a16z.com/author/harry-wright/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Julie Johnson", 
@@ -4470,7 +4800,8 @@
         "profile": "https://www.linkedin.com/pub/julie-johnson/10/61/a92", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Karina Sobieski", 
@@ -4481,7 +4812,8 @@
         "profile": "http://www.linkedin.com/in/karinamalec", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Katie Hemmerling", 
@@ -4492,7 +4824,8 @@
         "profile": "http://www.linkedin.com/in/khemmerling/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Lisa Orr", 
@@ -4503,7 +4836,8 @@
         "profile": "http://www.linkedin.com/pub/lisa-moreno/6/bb/90", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Lisa Rosano", 
@@ -4514,7 +4848,8 @@
         "profile": "http://www.linkedin.com/in/lrosano", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Luis Martinez", 
@@ -4525,7 +4860,8 @@
         "profile": "http://a16z.com/author/luis-martinez/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Marvin Zamora", 
@@ -4536,7 +4872,8 @@
         "profile": "http://www.linkedin.com/in/marvinzamora", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Megan Kristalyn", 
@@ -4547,7 +4884,8 @@
         "profile": "http://www.linkedin.com/pub/megan-kristalyn/13/213/3b8", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Meredith Donahue", 
@@ -4558,7 +4896,8 @@
         "profile": "http://www.linkedin.com/pub/meredith-donahue/39/668/9a2", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Michelle Mundy", 
@@ -4569,7 +4908,8 @@
         "profile": "http://www.linkedin.com/pub/michelle-mundy/29/a68/948", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Minerva Munoz", 
@@ -4580,7 +4920,8 @@
         "profile": "http://www.linkedin.com/pub/minerva-munoz/3/671/350/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "P.J. Hasleton", 
@@ -4591,7 +4932,8 @@
         "profile": "http://www.linkedin.com/in/hasleton/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Robin Casey", 
@@ -4602,7 +4944,8 @@
         "profile": "http://www.linkedin.com/in/robinrissocasey", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ryan Ward", 
@@ -4613,7 +4956,8 @@
         "profile": "http://www.linkedin.com/pub/ryan-ward/5/2aa/30a/", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Vivian Brooks", 
@@ -4624,7 +4968,8 @@
         "profile": "https://www.linkedin.com/profile/view?id=AAkAAAEkHtABz6xRY33i1Hk_DcK1pCLWlp6isec&authType=NAME_SEARCH&authToken=9_yC&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A19144400%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1447715534256%2Ctas%3Avivian%20br", 
         "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Balaji Srinivasan", 
@@ -4635,7 +4980,8 @@
         "profile": "https://github.com/balajis", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Bill Krause", 
@@ -4646,7 +4992,8 @@
         "profile": "http://www.linkedin.com/pub/bill-krause/39/b65/588", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "John M. Jack", 
@@ -4657,7 +5004,8 @@
         "profile": "http://www.linkedin.com/in/johnmjack", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Rod Johnson", 
@@ -4668,7 +5016,8 @@
         "profile": "http://www.linkedin.com/pub/rod-johnson/0/a1/68b", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Shana Fisher", 
@@ -4679,7 +5028,8 @@
         "profile": "http://a16z.com/author/shana-fisher/", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Spencer Rascoff", 
@@ -4690,7 +5040,8 @@
         "profile": "https://www.linkedin.com/in/spencerrascoff", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Steven Sinofsky", 
@@ -4701,7 +5052,8 @@
         "profile": "http://blog.learningbyshipping.com/", 
         "role": "Board Partners: Experienced operators and accomplished technologists."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Adrian Fenty", 
@@ -4712,7 +5064,8 @@
         "profile": "https://www.linkedin.com/in/adrian-fenty-12072455", 
         "role": "Special Advisors: Bringing to bear deep expertise."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Ken Coleman", 
@@ -4723,7 +5076,8 @@
         "profile": "https://www.linkedin.com/in/ken-coleman-1464922", 
         "role": "Special Advisors: Bringing to bear deep expertise."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Lawrence Summers", 
@@ -4734,7 +5088,8 @@
         "profile": "https://www.linkedin.com/in/lawrence-summers-b9747a11", 
         "role": "Special Advisors: Bringing to bear deep expertise."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }, 
     {
       "id": "Dan Boneh", 
@@ -4745,7 +5100,8 @@
         "profile": "https://www.linkedin.com/pub/dan-boneh/20/990/8b5", 
         "role": "Professor in Residence: Our liaison to academia helping transfers breakthrough from the lab to the market."
       }, 
-      "relations": {}
+      "relations": {}, 
+      "type": "Investor"
     }
   ], 
   "Job": []

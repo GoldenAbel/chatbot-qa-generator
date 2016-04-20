@@ -66,6 +66,7 @@ class BaseEntity(object):
 
     def get_entity_id(self):
         # by default use the name property as identifier among all entity instances
+        # subclass can use different property as id by overriding this method
         return self.property_value_map['name']
 
 
@@ -138,3 +139,8 @@ A16Z.property_def_map['contact_info'] = EntityProperty('contact info', ConceptTy
 A16Z.relation_def_map['portfolio'] = EntityRelation('portfolio', Company, EntityRelation.ONE_TO_MANY)
 A16Z.relation_def_map['team'] = EntityRelation('team', Investor, EntityRelation.ONE_TO_MANY)
 
+def find_entity_class_by_name(entity_class_name):
+    for known_entity_type in [Company, Job, Investor, A16Z]:
+        if known_entity_type.__name__ == entity_class_name:
+            return known_entity_type
+    return None

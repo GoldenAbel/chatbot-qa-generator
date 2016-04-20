@@ -1,8 +1,9 @@
 import json
 
-from qagen.knowledge.entities import BaseEntity, EntityRelation
+from qagen.knowledge.entities import EntityRelation, find_entity_class_by_name
 
 ENTITY_JSON_ID = 'id'
+ENTITY_JSON_TYPE = 'type'
 ENTITY_JSON_PROPERTIES = 'properties'
 ENTITY_JSON_RELATIONS = 'relations'
 ENTITY_JSON_RELATION_REF_ENTITY_TYPE = 'ref_entity_type'
@@ -17,6 +18,7 @@ class EntityJsonConverter(object):
         json_dict = dict()
 
         json_dict[ENTITY_JSON_ID] = entity_instance.get_entity_id()
+        json_dict[ENTITY_JSON_TYPE] = entity_instance.__class__.__name__
 
         # property values are already in form of a dictionary
         json_dict[ENTITY_JSON_PROPERTIES] = dict(entity_instance.property_value_map)
@@ -53,4 +55,7 @@ class EntityJsonConverter(object):
 
     @staticmethod
     def load_from_json_dict(json_dict):
-        return None
+        entity_class = find_entity_class_by_name(json_dict[ENTITY_JSON_TYPE])
+        property_data_dict = json_dict[ENTITY_JSON_PROPERTIES]
+        return entity_class(**property_data_dict)
+

@@ -1,9 +1,10 @@
-from qagen.data_provider.knowledge_data_providers import WebCrawlerKnowledgeDataProvider
+from qagen.data_provider.knowledge_data_providers import *
 from qagen.qa.collector import KnowledgeDataQaPairCollector
 from qagen.qa.generators import *
 from qagen.knowledge.entities import *
 
-data_provider = WebCrawlerKnowledgeDataProvider()
+# data_provider = WebCrawlerKnowledgeDataProvider()
+data_provider = JsonFileKnowledgeDataProvider('data.json')
 
 qa_collector = KnowledgeDataQaPairCollector()
 qa_collector.register_generator(A16Z, A16zQaGenerator(data_provider))
