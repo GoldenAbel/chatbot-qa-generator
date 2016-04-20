@@ -30,7 +30,7 @@ class BaseEntityQaGenerator(object):
         entity_name = entity_instance.property_value_map['name']
 
         return [
-            QAPair(question_text, 'n/a', make_context_map(entity_instance))
+            QAPair(question_text, entity_instance.get_entity_self_description(), make_context_map(entity_instance))
             for question_text in [
                 '%s is %s' % (wh_type, entity_name),
                 'information about %s' % entity_name,

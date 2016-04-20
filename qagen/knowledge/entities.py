@@ -65,15 +65,22 @@ class BaseEntity(object):
         return '%s[%s]' % (entity_type, entity_name)
 
     def get_entity_id(self):
-        # by default use the name property as identifier among all entity instances
-        # subclass can use different property as id by overriding this method
+        """by default use the name property as identifier among all entity instances
+        subclass may use different property as id by overriding this method"""
         return self.property_value_map['name']
+
+    def get_entity_self_description(self):
+        """used for answering questions about the entity itself. subclass may override implementation"""
+        return '%s is a %s' % (self.property_value_map['name'], self.__class__.__name__)
 
 
 # Entity types and definitions
 
 class Company(BaseEntity):
-    pass
+
+    def get_entity_self_description(self):
+        return '%s is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, ' \
+               'type of business, etc.' % self.property_value_map['name']
 
 
 class Job(BaseEntity):
@@ -81,11 +88,38 @@ class Job(BaseEntity):
 
 
 class Investor(BaseEntity):
-    pass
+
+    def get_entity_self_description(self):
+        role_description_raw = self.property_value_map['role'].lower()
+        title = self.__extract_single_term_title(role_description_raw)
+        profile_url = self.property_value_map['profile']
+        if title:
+            return '%s is a %s at Andreessen Horowitz. ' \
+                   'You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.' \
+                   % (self.property_value_map['name'], title)
+        else:
+            return '%s works at Andreessen Horowitz and is in charge of %s ' \
+                   'You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.' \
+                   % (self.property_value_map['name'], role_description_raw.replace(':', ','))
+
+    @staticmethod
+    def __extract_single_term_title(role_description):
+        role_first_part = role_description.split(':')[0]
+        for hot_word in ['advisor', 'partner', 'professor']:
+            if hot_word in role_first_part:
+                hot_word_plural = hot_word + 's'
+                if hot_word_plural in role_first_part:
+                    return role_first_part.replace(hot_word_plural, hot_word)
+                else:
+                    return role_first_part
+        return None
 
 
 class A16Z(Company):
-    pass
+
+    def get_entity_self_description(self):
+        return 'Andreessen Horowitz is a Silicon Valley-based venture capital firm. ' \
+               'You can ask me more about its team, portfolio, contact info, etc.'
 
 
 Company.entity_concept_type = ConceptType.THING
