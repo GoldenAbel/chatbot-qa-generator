@@ -9,16 +9,10 @@ ENTITY_JSON_RELATION_REF_ENTITY_ID = 'ref_entity_id'
 ENTITY_JSON_RELATION_REF_ENTITY_IDS = 'ref_entity_ids'
 
 
-class EntityJsonEncoder(json.JSONEncoder):
-
-    def default(self, obj):
-        if isinstance(obj, BaseEntity):
-            return json.JSONEncoder.encode(self, self.__to_json_dict(obj))
-        else:
-            return json.JSONEncoder.encode(self, obj)
+class EntityJsonConverter(object):
 
     @staticmethod
-    def __to_json_dict(entity_instance):
+    def to_json_dict(entity_instance):
         json_dict = dict()
 
         # property values are already in form of a dictionary
@@ -26,9 +20,9 @@ class EntityJsonEncoder(json.JSONEncoder):
 
         # collect relation references
         relation_ref_map = {}
-        for relation_name, relation_def in entity_instance.__class__.relation_def_map:
+        for relation_name, relation_def in entity_instance.__class__.relation_def_map.iteritems():
             related_entity_class = relation_def.related_entity_class
-            relation_value = entity_instance.relation_value_map[relation_name]
+            relation_value = entity_instance.relation_value_map.get(relation_name)
 
             if not relation_value:
                 continue
@@ -54,3 +48,6 @@ class EntityJsonEncoder(json.JSONEncoder):
 
         return json_dict
 
+    @staticmethod
+    def load_from_json_dict(json_dict):
+        return None
