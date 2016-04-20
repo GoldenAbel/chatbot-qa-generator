@@ -27,11 +27,10 @@ if is_for_training:
     output_qa_pairs = random.sample(qa_collector.qa_pairs, TRAINING_DATA_SAMPLE)
 
     print 'Adding additional random answers for rank labeling...'
-    all_answers = [qa_pair.answer for qa_pair in qa_collector.qa_pairs]
     for qa_pair in output_qa_pairs:
-        random_answer_sampling = random.sample(all_answers, RANKED_ANSWER_COUNT)
-        for random_answer in random_answer_sampling:
-            qa_pair.add_ranked_answer(random_answer, 20)
+        random_qa_sampling = random.sample(qa_collector.qa_pairs, RANKED_ANSWER_COUNT)
+        for random_qa in random_qa_sampling:
+            qa_pair.add_other_qa_with_score(random_qa.question, random_qa.answer, 0)
 
 else:
     output_path = 'qa_pairs_unlabeled.json'

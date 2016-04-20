@@ -1,12 +1,12 @@
 [
   {
     "answer": "Shapeways is founded by Peter Weijmarshausen, Marleen Vo.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Shapeways", "founded"], 
     "context": {
       "Company": "Shapeways"
     }, 
     "question": "show me the founders of Shapeways", 
-    "question_topic_words": [], 
+    "question_topic_words": ["founders", "Shapeways"], 
     "ranked_answers": [
       {
         "answer": "Shapeways is founded by Peter Weijmarshausen, Marleen Vo.", 
@@ -14,7 +14,7 @@
       }, 
       {
         "answer": "Boku is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Stack Exchange is founded by Joel Spolsky, Jeff Atwood.", 
@@ -22,7 +22,7 @@
       }, 
       {
         "answer": "You can find the website of Twice at http://www.liketwice.com", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Oculus is founded by Palmer Luckey.", 
@@ -30,53 +30,57 @@
       }, 
       {
         "answer": "yes", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the founder information of Talko is not listed on the a16z website. Please checkout their website at http://talko.com", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Sorry", "founder", "Talko"], 
     "context": {
       "Company": "Talko"
     }, 
     "question": "who are the founders of Talko", 
-    "question_topic_words": [], 
+    "question_topic_words": ["founders", "Talko"], 
     "ranked_answers": [
       {
         "answer": "Sorry the founder information of Talko is not listed on the a16z website. Please checkout their website at http://talko.com", 
         "rank": 1
       }, 
       {
-        "answer": "You can find the website of Percolata at http://www.percolata.com/", 
-        "rank": 20
+        "answer": "Talko is a company invested by Andreessen Horowitz", 
+        "rank": 10
       }, 
       {
         "answer": "You can find the website of Percolata at http://www.percolata.com/", 
-        "rank": 20
+        "rank": 30
+      }, 
+      {
+        "answer": "You can find the website of Percolata at http://www.percolata.com/", 
+        "rank": 30
       }, 
       {
         "answer": "Sorry the type of business of Highfive is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the business model of Skyd is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Tradeblock is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the type of business of Galxyz is not found on the a16z.com website.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Sorry", "type", "business", "Galxyz"], 
     "context": {
       "Company": "Galxyz"
     }, 
     "question": "what kind of business does Galxyz do", 
-    "question_topic_words": [], 
+    "question_topic_words": ["kind", "business", "Galxyz"], 
     "ranked_answers": [
       {
         "answer": "Sorry the type of business of Galxyz is not found on the a16z.com website.", 
@@ -84,15 +88,15 @@
       }, 
       {
         "answer": "Business intelligence for government", 
-        "rank": 20
+        "rank": 10
       }, 
       {
         "answer": "As far as I know, Enjoytech has received seed funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry, there doesn't seem to be any.", 
-        "rank": 20
+        "rank": 10
       }, 
       {
         "answer": "Sorry the type of business of Ubiome is not found on the a16z.com website.", 
@@ -100,18 +104,18 @@
       }, 
       {
         "answer": "You can find the website of 21 at https://21.co/", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the founder information of Ubeam is not listed on the a16z website. Please checkout their website at http://www.ubeam.com", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Sorry", "founder", "Ubeam"], 
     "context": {
       "Company": "Ubeam"
     }, 
     "question": "who is the founder of Ubeam", 
-    "question_topic_words": [], 
+    "question_topic_words": ["founder", "Ubeam"], 
     "ranked_answers": [
       {
         "answer": "Sorry the founder of Ubeam is not found on the a16z.com website.", 
@@ -119,124 +123,136 @@
       }, 
       {
         "answer": "You can find the website of Crowdmed at http://crowdmed.com", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the founder information of Haloneuro is not listed on the a16z website. Please checkout their website at http://haloneuro.com/", 
-        "rank": 20
+        "rank": 10
       }, 
       {
         "answer": "Sorry, there doesn't seem to be any.", 
-        "rank": 20
+        "rank": 10
       }, 
       {
         "answer": "Robinhood is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "The name of Nuzzel is Nuzzel.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the founder information of Puddle is not listed on the a16z website. Please checkout their website at https://www.puddle.com/", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Sorry", "founder", "Puddle"], 
     "context": {
       "Company": "Puddle"
     }, 
     "question": "list all the founders of Puddle", 
-    "question_topic_words": [], 
+    "question_topic_words": ["founders", "Puddle"], 
     "ranked_answers": [
       {
         "answer": "Sorry the founder information of Puddle is not listed on the a16z website. Please checkout their website at https://www.puddle.com/", 
         "rank": 1
-      }, 
+      },
+      {
+        "answer": "There is no founder information found for Puddle", 
+        "rank": 3
+      },  
       {
         "answer": "Sorry the type of business of Radiant Entertainment is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the type of business of 8tracks is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "As far as I know, Apropose has received seed funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "21 is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Austin Guzman works at Andreessen Horowitz and is in charge of investing, backing brilliant entrepreneurs to build the future.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Shoptiques is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Shoptiques", "company"], 
     "context": {
       "Company": "Shoptiques"
     }, 
     "question": "tell me about Shoptiques", 
-    "question_topic_words": [], 
+    "question_topic_words": ["about", "Shoptiques"], 
     "ranked_answers": [
       {
         "answer": "Shoptiques is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
         "rank": 1
       }, 
       {
-        "answer": "PagerDuty is located in San Francisco, CA.", 
+        "answer": "Shoptiques is located in California", 
         "rank": 20
+      }, 
+      {
+        "answer": "PagerDuty is located in San Francisco, CA.", 
+        "rank": 30
       }, 
       {
         "answer": "You can find the website of Coho Data at http://cohodata.com", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the linkedin of Christina Zeidan at http://www.linkedin.com/in/christinazeidan", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Tina Ferguson works at Andreessen Horowitz and is in charge of technical talent, creating the definitive network of technical superstars, and  developing the right program to support your people.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Groupon, Inc. is founded by Andrew Mason.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the type of business of Sookasa is not found on the a16z.com website.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["type", "business", "Sookasa"], 
     "context": {
       "Company": "Sookasa"
     }, 
     "question": "show me the type of business of Sookasa", 
-    "question_topic_words": [], 
+    "question_topic_words": ["type", "business", "Sookasa"], 
     "ranked_answers": [
       {
         "answer": "Sorry the type of business of Sookasa is not found on the a16z.com website.", 
         "rank": 1
       }, 
       {
+        "answer": "Sookasa is a company invested by Andreessen Horowitz", 
+        "rank": 10
+      },
+      {
         "answer": "GitHub is located in San Francisco, CA.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "DigitalOcean is a b2b (business-to-business) company.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the type of business of Leaptransit is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "TinyCo is founded by Suli Ali and Ian Spivey.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry, there doesn't seem to be any.", 
@@ -246,94 +262,106 @@
   }, 
   {
     "answer": "Mori is founded by Cory Ondrejka, Bruce Rogers, Lisa Rutherford.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Mori", "founded"], 
     "context": {
       "Company": "Mori"
     }, 
     "question": "who is the founder of Mori", 
-    "question_topic_words": [], 
+    "question_topic_words": ["founder", "Mori"], 
     "ranked_answers": [
       {
         "answer": "The founder of Mori is Cory Ondrejka, Bruce Rogers, Lisa Rutherford.", 
         "rank": 1
       }, 
       {
+        "answer": "The Mori's founding team is Cory Ondrejka, Bruce Rogers, Lisa Rutherford.", 
+        "rank": 3
+      }, 
+      {
         "answer": "Bluebox\u00a0Security is founded by Caleb Sima, Adam Ely.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "As far as I know, Pindrop\u00a0Security has received venture funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the location of Openbay is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the location of Talko is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Frank Chen works at Andreessen Horowitz and is in charge of investing, backing brilliant entrepreneurs to build the future.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "You can find the website of Subledger at http://subledger.com/", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["website", "Subledger"], 
     "context": {
       "Company": "Subledger"
     }, 
     "question": "show me the website of Subledger", 
-    "question_topic_words": [], 
+    "question_topic_words": ["website", "Subledger"], 
     "ranked_answers": [
       {
         "answer": "You can find the website of Subledger at http://subledger.com/", 
         "rank": 1
       }, 
       {
+        "answer": "The location of Subledger is in California",
+        "rank": 10
+      }, 
+      {
         "answer": "Okta", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Caroline Horn works at Andreessen Horowitz and is in charge of executive talent, connecting and counseling industry leaders. You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Imgur is a b2c (business-to-consumer) company.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "As far as I know, Cask has received seed funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "NationBuilder is a b2b (business-to-business) company.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sports retailer", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Sports", "retailer"], 
     "context": {
       "Company": "Fanatics"
     }, 
     "question": "what kind of business does Fanatics do", 
-    "question_topic_words": [], 
+    "question_topic_words": ["kind", "business", "Fanatics"], 
     "ranked_answers": [
       {
         "answer": "Sports retailer", 
         "rank": 1
       }, 
       {
+        "answer": "Fanatics is in Sports retailer business", 
+        "rank": 3
+      }, 
+      {
         "answer": "Dalton Turay works at Andreessen Horowitz and is in charge of market development, accelerating time to market and matching corporate partners with emerging technology leaders.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "yes", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the type of business of Yourmechanic is not found on the a16z.com website.", 
@@ -341,7 +369,7 @@
       }, 
       {
         "answer": "Ellen Tunoa works at Andreessen Horowitz and is in charge of technical talent, creating the definitive network of technical superstars, and  developing the right program to support your people.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry, there doesn't seem to be any.", 
@@ -351,55 +379,63 @@
   }, 
   {
     "answer": "Switch Communications is founded by Craig Walker, Brian Peterson, John Rector, Alex Cornell.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Switch", "Communications", "founded"], 
     "context": {
       "Company": "Switch Communications"
     }, 
     "question": "who started Switch Communications", 
-    "question_topic_words": [], 
+    "question_topic_words": ["started", "Switch", "Communications"], 
     "ranked_answers": [
       {
         "answer": "Switch Communications is founded by Craig Walker, Brian Peterson, John Rector, Alex Cornell.", 
         "rank": 1
       }, 
       {
-        "answer": "As far as I know, It\u2019sOn has received venture funding from A16Z.", 
+        "answer": "Switch Communications is has received seeding money", 
         "rank": 20
+      }, 
+      {
+        "answer": "As far as I know, It\u2019sOn has received venture funding from A16Z.", 
+        "rank": 30
       }, 
       {
         "answer": "As far as I know, Skout has received venture funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the location of Solvebio is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the type of business of Spinnakr is not found on the a16z.com website.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Nicole Irvin works at Andreessen Horowitz and is in charge of corporate development, helping companies plan their financial and strategic futures.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Walker and Company\u00a0Brands is founded by Tristan Walker.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Walker", "founded"], 
     "context": {
       "Company": "Walker and Company\u00a0Brands"
     }, 
     "question": "what is the founding team of Walker and Company\u00a0Brands", 
-    "question_topic_words": [], 
+    "question_topic_words": ["fouding", "team", "Walker"], 
     "ranked_answers": [
       {
         "answer": "Walker and Company\u00a0Brands is founded by Tristan Walker.", 
         "rank": 1
       }, 
       {
-        "answer": "Actifio is a b2b (business-to-business) company.", 
+        "answer": "Walker and Company\u00a0Brands is located in America", 
         "rank": 20
+      }, 
+      {
+        "answer": "Actifio is a b2b (business-to-business) company.", 
+        "rank": 30
       }, 
       {
         "answer": "Sorry the founder information of Oncorps is not listed on the a16z website. Please checkout their website at https://www.oncorps.org/", 
@@ -411,57 +447,61 @@
       }, 
       {
         "answer": "As far as I know, Blockspring has received seed funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Experiment is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the business model of Skyd is not found on the a16z.com website.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["business", "model", "Skyd"], 
     "context": {
       "Company": "Skyd"
     }, 
     "question": "what is the business model of Skyd", 
-    "question_topic_words": [], 
+    "question_topic_words": ["business", "model", "Skyd"], 
     "ranked_answers": [
       {
         "answer": "Sorry the business model of Skyd is not found on the a16z.com website.", 
         "rank": 1
       }, 
       {
+        "answer": "Skyd is a to-consumer company", 
+        "rank": 10
+      }, 
+      {
         "answer": "Everlaw is founded by AJ Shankar, Jeff Friedman.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the website of Shoptiques at http://www.shoptiques.com", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Maxta is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "As far as I know, It\u2019sOn has received venture funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry the founder information of Solvebio is not listed on the a16z website. Please checkout their website at https://www.solvebio.com/", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "TinyCo is founded by Suli Ali and Ian Spivey.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["TinyCo", "founded"], 
     "context": {
       "Company": "TinyCo"
     }, 
     "question": "who started TinyCo", 
-    "question_topic_words": [], 
+    "question_topic_words": ["started", "TinyCo"], 
     "ranked_answers": [
       {
         "answer": "TinyCo is founded by Suli Ali and Ian Spivey.", 
@@ -473,30 +513,30 @@
       }, 
       {
         "answer": "Joinkoru is a company invested by Andreessen Horowitz. You can ask me more about its location, founders, type of business, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Alexis Lakes works at Andreessen Horowitz and is in charge of operations, ensuring a first class experience for everyone who interacts with the firm.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Switch Communications is located in San Francisco, CA.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the website of Atavist at http://www.atavist.com", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Jessica Peterson works at Andreessen Horowitz and is in charge of market development, accelerating time to market and matching corporate partners with emerging technology leaders.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["Jessica", "Peterson", "Andreessen", "Horowitz", "market", "development"], 
     "context": {
       "Investor": "Jessica Peterson"
     }, 
     "question": "what is the role of Jessica Peterson", 
-    "question_topic_words": [], 
+    "question_topic_words": ["role", "Jessica", "Peterson"], 
     "ranked_answers": [
       {
         "answer": "The role of Jessica Peterson is market development: accelerating time to market and matching corporate partners with emerging technology leaders.", 
@@ -508,85 +548,93 @@
       }, 
       {
         "answer": "As far as I know, Twice has received venture funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Fanatics is founded by Michael Rubin.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "The name of Nicole Irvin is Nicole Irvin.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the website of Affirm at http://affirm.com", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "You can find the website of Littleborroweddress at http://www.littleborroweddress.com/", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["website", "Littleborroweddress"], 
     "context": {
       "Company": "Littleborroweddress"
     }, 
     "question": "more information about Littleborroweddress", 
-    "question_topic_words": [], 
+    "question_topic_words": ["information", "about", "Littleborroweddress"], 
     "ranked_answers": [
       {
         "answer": "You can find the website of Littleborroweddress at http://www.littleborroweddress.com/", 
         "rank": 1
-      }, 
+      },
+      {
+        "answer": "Littleborroweddress is a company invested by Andreessen Horowitz", 
+        "rank": 5
+      },  
       {
         "answer": "Balaji Srinivasan is a board partner at Andreessen Horowitz.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Zenefits is a b2b (business-to-business) company.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sharon Chang works at Andreessen Horowitz and is in charge of market development, accelerating time to market and matching corporate partners with emerging technology leaders. You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Cloud content management", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Bebop is founded by Diane Greene.", 
-        "rank": 20
+        "rank": 30
       }
     ]
   }, 
   {
     "answer": "Sorry the location of Humandx is not found on the a16z.com website.", 
-    "answer_topic_words": [], 
+    "answer_topic_words": ["location", "Humandx"], 
     "context": {
       "Company": "Humandx"
     }, 
     "question": "where is Humandx located", 
-    "question_topic_words": [], 
+    "question_topic_words": ["where", "Humandx", "located"], 
     "ranked_answers": [
       {
         "answer": "Sorry the location of Humandx is not found on the a16z.com website.", 
         "rank": 1
       }, 
       {
+        "answer": "You can find the website of Humandx here",
+        "rank": 10
+      }, 
+      {
         "answer": "As far as I know, Pro has received seed funding from A16Z.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the website of Robinhood at https://www.robinhood.com", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sonal Chokshi works at Andreessen Horowitz and is in charge of marketing, building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces. You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "You can find the picture of Connie Chan at https://a16z.files.wordpress.com/2013/12/asset1381773113.jpg?w=400&h=400&crop=1", 
-        "rank": 20
+        "rank": 30
       }, 
       {
         "answer": "Sorry, there doesn't seem to be any.", 

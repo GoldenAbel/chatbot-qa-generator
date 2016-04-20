@@ -5,17 +5,19 @@ class QAPair(object):
         self.answer = answer
         self.context_map = context_map
         self.ranked_answers = [{
+            'question': question,
             'answer': answer,
-            'rank': 1
+            'score': 100
         }]
 
     def __repr__(self):
         return 'Q: %s, A: %s' % (self.question, self.answer)
 
-    def add_ranked_answer(self, answer, rank):
+    def add_other_qa_with_score(self, question, answer, score):
         self.ranked_answers.append({
+            'question': question,
             'answer': answer,
-            'rank': rank
+            'score': score
         })
 
     def to_json_dict(self, is_for_training=False):
