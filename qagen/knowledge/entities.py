@@ -64,6 +64,10 @@ class BaseEntity(object):
         entity_name = self.property_value_map['name']
         return '%s[%s]' % (entity_type, entity_name)
 
+    def get_entity_id(self):
+        # by default use the name property as identifier among all entity instances
+        return self.property_value_map['name']
+
 
 # Entity types and definitions
 
@@ -127,12 +131,10 @@ Investor.relation_def_map = {}
 
 
 A16Z.entity_concept_type = Company.entity_concept_type
-A16Z.property_def_map = Company.property_def_map
-A16Z.relation_def_map = Company.relation_def_map
+A16Z.property_def_map = dict(Company.property_def_map)
+A16Z.relation_def_map = dict(Company.relation_def_map)
 # additional properties and relations
 A16Z.property_def_map['contact_info'] = EntityProperty('contact info', ConceptType.URL)
 A16Z.relation_def_map['portfolio'] = EntityRelation('portfolio', Company, EntityRelation.ONE_TO_MANY)
 A16Z.relation_def_map['team'] = EntityRelation('team', Investor, EntityRelation.ONE_TO_MANY)
-
-
 

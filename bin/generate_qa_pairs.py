@@ -17,5 +17,3 @@ print '%d QA pairs collected:' % len(qa_collector.qa_pairs)
 for qa_pair in qa_collector.qa_pairs:
     print qa_pair
 
-
-
