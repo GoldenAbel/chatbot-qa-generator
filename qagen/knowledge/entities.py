@@ -42,7 +42,7 @@ class BaseEntity(object):
     property_def_map = {}
     relation_def_map = {}
 
-    def __init__(self, **kwargs):
+    def __init__(self, property_value_map):
         # check the required metadata
         if not hasattr(self, 'entity_concept_type'):
             raise Exception("entity_concept_type is not specified")
@@ -51,12 +51,12 @@ class BaseEntity(object):
         if not hasattr(self, 'relation_def_map'):
             raise Exception("relation_def_map is not specified")
 
-        for key in kwargs:
+        for key in property_value_map:
             if key not in self.__class__.property_def_map:
-                raise Exception(key + ' is not found in the property definition map in ' + type(self))
+                raise Exception(key + ' is not found in the property definition map in ' + self.__class__.__name__)
 
         # copy over all the input variables as property value
-        self.property_value_map = dict(kwargs)
+        self.property_value_map = dict(property_value_map)
         self.relation_value_map = {}
 
     def __repr__(self):
@@ -127,8 +127,8 @@ Company.property_def_map = {
     'founder': EntityProperty('founder', ConceptType.PERSON),
     'location': EntityProperty('location', ConceptType.THING),
     'website': EntityProperty('website', ConceptType.URL),
-    'type_of_business': EntityProperty('type of business', ConceptType.THING),
-    'business_model': EntityProperty('business model', ConceptType.THING),
+    'type of business': EntityProperty('type of business', ConceptType.THING),
+    'business model': EntityProperty('business model', ConceptType.THING),
     'stage': EntityProperty('stage', ConceptType.THING),
     # company_id is only for answer generation, hence hidden
     'company_id': EntityProperty('company_id', ConceptType.THING, is_hidden=True)
@@ -168,7 +168,7 @@ A16Z.entity_concept_type = Company.entity_concept_type
 A16Z.property_def_map = dict(Company.property_def_map)
 A16Z.relation_def_map = dict(Company.relation_def_map)
 # additional properties and relations
-A16Z.property_def_map['contact_info'] = EntityProperty('contact info', ConceptType.URL)
+A16Z.property_def_map['contact info'] = EntityProperty('contact info', ConceptType.URL)
 A16Z.relation_def_map['portfolio'] = EntityRelation('portfolio', Company, EntityRelation.ONE_TO_MANY)
 A16Z.relation_def_map['team'] = EntityRelation('team', Investor, EntityRelation.ONE_TO_MANY)
 

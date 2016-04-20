@@ -3,13 +3,13 @@
     {
       "id": "Andreesen Horowitz", 
       "properties": {
-        "business_model": null, 
-        "contact_info": "http://a16z.com/about/contact/", 
+        "business model": null, 
+        "contact info": "http://a16z.com/about/contact/", 
         "founder": "Marc Andreesen and Ben Horowitz", 
         "location": "Melo Park, California", 
         "name": "Andreesen Horowitz", 
         "stage": null, 
-        "type_of_business": "venture capital", 
+        "type of business": "venture capital", 
         "website": "a16z.com"
       }, 
       "relations": {
@@ -386,12 +386,12 @@
     {
       "id": "21", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Balaji S. Srinivasan, Nigel Drego, Matthew Pauker, Veerbhan Kheterpal, Daniel Firu", 
         "location": "San Francisco, CA", 
         "name": "21", 
         "stage": "venture", 
-        "type_of_business": "Bitcoin Computer", 
+        "type of business": "Bitcoin Computer", 
         "website": "https://21.co/"
       }, 
       "relations": {}, 
@@ -400,12 +400,12 @@
     {
       "id": "500px", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Oleg Gutsol, Evgeny Tchebotarev", 
         "location": "Toronto, Ontario", 
         "name": "500px", 
         "stage": "venture", 
-        "type_of_business": "Premium Photography Community & Marketplace", 
+        "type of business": "Premium Photography Community & Marketplace", 
         "website": "http://500px.com"
       }, 
       "relations": {}, 
@@ -414,12 +414,12 @@
     {
       "id": "Actifio", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Ash Ashutosh", 
         "location": "Waltham, MA", 
         "name": "Actifio", 
         "stage": "growth", 
-        "type_of_business": "Data management virtualization", 
+        "type of business": "Data management virtualization", 
         "website": "http://actifio.com"
       }, 
       "relations": {}, 
@@ -428,12 +428,12 @@
     {
       "id": "Affirm", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Max Levchin", 
         "location": "San Francisco, CA", 
         "name": "Affirm", 
         "stage": "growth", 
-        "type_of_business": "Financing solutions", 
+        "type of business": "Financing solutions", 
         "website": "http://affirm.com"
       }, 
       "relations": {}, 
@@ -442,12 +442,12 @@
     {
       "id": "Airbnb", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Nathan Blecharczyk, Brian Chesky, Joe Gebbia", 
         "location": "San Francisco, CA", 
         "name": "Airbnb", 
         "stage": "growth", 
-        "type_of_business": "Travel marketplace", 
+        "type of business": "Travel marketplace", 
         "website": "http://airbnb.com"
       }, 
       "relations": {}, 
@@ -456,12 +456,12 @@
     {
       "id": "Airware", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Jonathan Downey", 
         "location": "San Francisco, CA", 
         "name": "Airware", 
         "stage": "venture", 
-        "type_of_business": "Commercial drone aerial information platform", 
+        "type of business": "Commercial drone aerial information platform", 
         "website": "http://airware.com"
       }, 
       "relations": {}, 
@@ -470,12 +470,12 @@
     {
       "id": "Alluxio", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Haoyuan Li", 
         "location": "San Mateo, CA", 
         "name": "Alluxio", 
         "stage": "venture", 
-        "type_of_business": "Storage, Big Data", 
+        "type of business": "Storage, Big Data", 
         "website": "http://alluxio.com/"
       }, 
       "relations": {}, 
@@ -484,12 +484,12 @@
     {
       "id": "AltSchool", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Max Ventilla", 
         "location": "San Francisco, CA", 
         "name": "AltSchool", 
         "stage": "venture", 
-        "type_of_business": "Reimagined education platform", 
+        "type of business": "Reimagined education platform", 
         "website": "http://www.altschool.com"
       }, 
       "relations": {}, 
@@ -498,12 +498,12 @@
     {
       "id": "Anki", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Boris Sofman, Hanns Tappeiner, Mark Palatucci", 
         "location": "San Francisco, CA", 
         "name": "Anki", 
         "stage": "venture", 
-        "type_of_business": "Robotics", 
+        "type of business": "Robotics", 
         "website": "http://anki.com"
       }, 
       "relations": {}, 
@@ -512,12 +512,12 @@
     {
       "id": "Apptio", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Sunny Gupta, Kurt Shintaffer, Paul McLachlan", 
         "location": "Bellevue, WA", 
         "name": "Apptio", 
         "stage": "growth", 
-        "type_of_business": "Technology Business Management", 
+        "type of business": "Technology Business Management", 
         "website": "http://apptio.com"
       }, 
       "relations": {}, 
@@ -526,12 +526,12 @@
     {
       "id": "Arimo", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Christopher Nguyen, Michael Bui, Tony Do", 
         "location": "Mountain View, CA", 
         "name": "Arimo", 
         "stage": "venture", 
-        "type_of_business": "Collaborative, Predictive Analytics for All", 
+        "type of business": "Collaborative, Predictive Analytics for All", 
         "website": "https://arimo.com"
       }, 
       "relations": {}, 
@@ -540,12 +540,12 @@
     {
       "id": "Asana", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Dustin Moskovitz, Justin Rosenstein", 
         "location": "San Francisco, CA", 
         "name": "Asana", 
         "stage": "venture", 
-        "type_of_business": "Enterprise collaboration software", 
+        "type of business": "Enterprise collaboration software", 
         "website": "http://asana.com"
       }, 
       "relations": {}, 
@@ -554,12 +554,12 @@
     {
       "id": "Bebop", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Diane Greene", 
         "location": "Los Gatos, CA", 
         "name": "Bebop", 
         "stage": "venture", 
-        "type_of_business": "Build and support cloud applications", 
+        "type of business": "Build and support cloud applications", 
         "website": "http://bebop.co"
       }, 
       "relations": {}, 
@@ -568,12 +568,12 @@
     {
       "id": "Belly", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Logan LaHive", 
         "location": "Chicago, IL", 
         "name": "Belly", 
         "stage": "venture", 
-        "type_of_business": "Digital Loyalty Platform", 
+        "type of business": "Digital Loyalty Platform", 
         "website": "http://bellycard.com"
       }, 
       "relations": {}, 
@@ -582,12 +582,12 @@
     {
       "id": "Benchling", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Sajith Wickramasekara, Ashutosh Singhal", 
         "location": "San Francisco, CA", 
         "name": "Benchling", 
         "stage": "venture", 
-        "type_of_business": "Collaboration tools for life science research", 
+        "type of business": "Collaboration tools for life science research", 
         "website": "https://benchling.com/"
       }, 
       "relations": {}, 
@@ -596,12 +596,12 @@
     {
       "id": "Bluebox\u00a0Security", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Caleb Sima, Adam Ely", 
         "location": "San Francisco, CA", 
         "name": "Bluebox\u00a0Security", 
         "stage": "venture", 
-        "type_of_business": "Data security", 
+        "type of business": "Data security", 
         "website": "http://bluebox.com"
       }, 
       "relations": {}, 
@@ -610,12 +610,12 @@
     {
       "id": "Boku", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Mark Britto", 
         "location": "San Francisco, CA", 
         "name": "Boku", 
         "stage": "venture", 
-        "type_of_business": "Mobile payments platform", 
+        "type of business": "Mobile payments platform", 
         "website": "http://boku.com"
       }, 
       "relations": {}, 
@@ -624,12 +624,12 @@
     {
       "id": "Box", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Aaron Levie, Dylan Smith", 
         "location": "Palo Alto, CA", 
         "name": "Box", 
         "stage": "growth", 
-        "type_of_business": "Cloud content management", 
+        "type of business": "Cloud content management", 
         "website": "http://box.net"
       }, 
       "relations": {}, 
@@ -638,12 +638,12 @@
     {
       "id": "Bracket Computing", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Tom Gillis, Jason Lango", 
         "location": "Sunnyvale, CA", 
         "name": "Bracket Computing", 
         "stage": "venture", 
-        "type_of_business": "Enterprise computing", 
+        "type of business": "Enterprise computing", 
         "website": "http://brkt.com/"
       }, 
       "relations": {}, 
@@ -652,12 +652,12 @@
     {
       "id": "Bromium", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Gaurav Banga, Simon Crosby, Ian Pratt", 
         "location": "Cupertino, CA", 
         "name": "Bromium", 
         "stage": "venture", 
-        "type_of_business": "Intersection of virtualization and security", 
+        "type of business": "Intersection of virtualization and security", 
         "website": "http://bromium.com"
       }, 
       "relations": {}, 
@@ -666,12 +666,12 @@
     {
       "id": "Bump\u00a0Technologies", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "David Lieb, Andy Huibers, Jake Mintz", 
         "location": "Mountain View, CA", 
         "name": "Bump\u00a0Technologies", 
         "stage": "venture", 
-        "type_of_business": "Mobile interactions", 
+        "type of business": "Mobile interactions", 
         "website": "http://bu.mp"
       }, 
       "relations": {}, 
@@ -680,12 +680,12 @@
     {
       "id": "BuzzFeed", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Jonah Peretti", 
         "location": "New York, NY", 
         "name": "BuzzFeed", 
         "stage": "growth", 
-        "type_of_business": "Social News & Entertainment", 
+        "type of business": "Social News & Entertainment", 
         "website": "http://www.buzzfeed.com/"
       }, 
       "relations": {}, 
@@ -694,12 +694,12 @@
     {
       "id": "Capriza", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Amnon Landan, Yuval Scarlat, Oren Ariel, Ronnen Armon", 
         "location": "Palo Alto, CA", 
         "name": "Capriza", 
         "stage": "venture", 
-        "type_of_business": "App creation platform", 
+        "type of business": "App creation platform", 
         "website": "http://capriza.com"
       }, 
       "relations": {}, 
@@ -708,12 +708,12 @@
     {
       "id": "Cazena", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Prat Moghe", 
         "location": "Waltham, MA", 
         "name": "Cazena", 
         "stage": "venture", 
-        "type_of_business": "Big Data as a Service", 
+        "type of business": "Big Data as a Service", 
         "website": "http://cazena.com"
       }, 
       "relations": {}, 
@@ -722,12 +722,12 @@
     {
       "id": "CipherCloud", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Pravin Kothari", 
         "location": "San Jose, CA", 
         "name": "CipherCloud", 
         "stage": "venture", 
-        "type_of_business": "Cloud security", 
+        "type of business": "Cloud security", 
         "website": "http://ciphercloud.com"
       }, 
       "relations": {}, 
@@ -736,12 +736,12 @@
     {
       "id": "ClearStory", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Sharmila Mulligan, Vaibhav Nivargi", 
         "location": "Menlo Park, CA", 
         "name": "ClearStory", 
         "stage": "venture", 
-        "type_of_business": "Enterprise and (Big) Data", 
+        "type of business": "Enterprise and (Big) Data", 
         "website": "http://www.clearstorydata.com/"
       }, 
       "relations": {}, 
@@ -750,12 +750,12 @@
     {
       "id": "Coho Data", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Ramana Jonnala, Andrew Warfield, Keir Fraser", 
         "location": "Palo Alto, CA", 
         "name": "Coho Data", 
         "stage": "venture", 
-        "type_of_business": "Enterprise Storage", 
+        "type of business": "Enterprise Storage", 
         "website": "http://cohodata.com"
       }, 
       "relations": {}, 
@@ -764,12 +764,12 @@
     {
       "id": "Coinbase", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Brian Armstrong, Fred Ehrsam", 
         "location": "San Francisco, CA", 
         "name": "Coinbase", 
         "stage": "venture", 
-        "type_of_business": "Bitcoin wallet", 
+        "type of business": "Bitcoin wallet", 
         "website": "http://coinbase.com"
       }, 
       "relations": {}, 
@@ -778,12 +778,12 @@
     {
       "id": "Cumulus\u00a0Networks", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "JR Rivers, Nolan Leake", 
         "location": "Mountain View, CA", 
         "name": "Cumulus\u00a0Networks", 
         "stage": "venture", 
-        "type_of_business": "Linux operating system for networking hardware", 
+        "type of business": "Linux operating system for networking hardware", 
         "website": "http://cumulusnetworks.com"
       }, 
       "relations": {}, 
@@ -792,12 +792,12 @@
     {
       "id": "Cyanogen", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Steve Kondik", 
         "location": "Palo Alto, CA", 
         "name": "Cyanogen", 
         "stage": "venture", 
-        "type_of_business": "Aftermarket Android firmware", 
+        "type of business": "Aftermarket Android firmware", 
         "website": "http://cyngn.com"
       }, 
       "relations": {}, 
@@ -806,12 +806,12 @@
     {
       "id": "Databricks", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Ion Stoica, Matei Zaharia", 
         "location": "San Francisco, CA", 
         "name": "Databricks", 
         "stage": "venture", 
-        "type_of_business": "SaaS data platform", 
+        "type of business": "SaaS data platform", 
         "website": "http://www.databricks.com"
       }, 
       "relations": {}, 
@@ -820,12 +820,12 @@
     {
       "id": "DataGravity", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Paula Long, John Joseph", 
         "location": "Nashua, New Hampshire", 
         "name": "DataGravity", 
         "stage": "venture", 
-        "type_of_business": "Data-aware solutions", 
+        "type of business": "Data-aware solutions", 
         "website": "http://datagravity.com"
       }, 
       "relations": {}, 
@@ -834,12 +834,12 @@
     {
       "id": "DigitalOcean", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Ben Uretsky, Moisey Uretsky, Mitch Wainer", 
         "location": "New York, NY", 
         "name": "DigitalOcean", 
         "stage": "venture", 
-        "type_of_business": "Simple Cloud Infrastructure", 
+        "type of business": "Simple Cloud Infrastructure", 
         "website": "http://digitalocean.com"
       }, 
       "relations": {}, 
@@ -848,12 +848,12 @@
     {
       "id": "Distelli", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Rahul Singh", 
         "location": "Seattle, WA", 
         "name": "Distelli", 
         "stage": "venture", 
-        "type_of_business": "Infrastructure Automation", 
+        "type of business": "Infrastructure Automation", 
         "website": "http://distelli.com"
       }, 
       "relations": {}, 
@@ -862,12 +862,12 @@
     {
       "id": "Dwolla", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Ben Milne", 
         "location": "Des Moines, IA", 
         "name": "Dwolla", 
         "stage": "venture", 
-        "type_of_business": "Secure online money movement", 
+        "type of business": "Secure online money movement", 
         "website": "http://dwolla.com"
       }, 
       "relations": {}, 
@@ -876,12 +876,12 @@
     {
       "id": "Envoy", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Larry Gadea", 
         "location": "San Francisco, CA", 
         "name": "Envoy", 
         "stage": "venture", 
-        "type_of_business": "Visitor management software", 
+        "type of business": "Visitor management software", 
         "website": "http://envoy.co"
       }, 
       "relations": {}, 
@@ -890,12 +890,12 @@
     {
       "id": "Everlaw", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "AJ Shankar, Jeff Friedman", 
         "location": "Berkeley, CA", 
         "name": "Everlaw", 
         "stage": "venture", 
-        "type_of_business": "B2B Software", 
+        "type of business": "B2B Software", 
         "website": "http://everlaw.com"
       }, 
       "relations": {}, 
@@ -904,12 +904,12 @@
     {
       "id": "Facebook", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Mark Zuckerberg", 
         "location": "Menlo Park, CA", 
         "name": "Facebook", 
         "stage": "growth", 
-        "type_of_business": "Social networking service", 
+        "type of business": "Social networking service", 
         "website": "http://facebook.com"
       }, 
       "relations": {}, 
@@ -918,12 +918,12 @@
     {
       "id": "Factual", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Gil Elbaz", 
         "location": "Los Angeles, CA", 
         "name": "Factual", 
         "stage": "venture", 
-        "type_of_business": "Open data platform", 
+        "type of business": "Open data platform", 
         "website": "http://factual.com"
       }, 
       "relations": {}, 
@@ -932,12 +932,12 @@
     {
       "id": "Fanatics", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Michael Rubin", 
         "location": "Jacksonville, FL", 
         "name": "Fanatics", 
         "stage": "growth", 
-        "type_of_business": "Sports retailer", 
+        "type of business": "Sports retailer", 
         "website": "http://fanaticsinc.com"
       }, 
       "relations": {}, 
@@ -946,12 +946,12 @@
     {
       "id": "FiftyThree", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Georg Petschnigg, Andrew Allen, Jonathan Harris, Julian Walker", 
         "location": "New York, NY", 
         "name": "FiftyThree", 
         "stage": "venture", 
-        "type_of_business": "Creative software and hardware", 
+        "type of business": "Creative software and hardware", 
         "website": "http://fiftythree.com"
       }, 
       "relations": {}, 
@@ -960,12 +960,12 @@
     {
       "id": "Forward Networks", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "David Erickson, Nikhil Handigol, Brandon Heller, Peyman Kazemian", 
         "location": "Palo Alto, CA", 
         "name": "Forward Networks", 
         "stage": "venture", 
-        "type_of_business": "Networking Software", 
+        "type of business": "Networking Software", 
         "website": "http://forwardnetworks.com"
       }, 
       "relations": {}, 
@@ -974,12 +974,12 @@
     {
       "id": "Foursquare", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Dennis Crowley, Naveen Selvadurai", 
         "location": "New York, NY", 
         "name": "Foursquare", 
         "stage": "growth", 
-        "type_of_business": "Social networking", 
+        "type of business": "Social networking", 
         "website": "http://foursquare.com"
       }, 
       "relations": {}, 
@@ -988,12 +988,12 @@
     {
       "id": "Fusion-io", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "David Flynn", 
         "location": "Salt Lake City, UT", 
         "name": "Fusion-io", 
         "stage": "venture", 
-        "type_of_business": "Flash storage", 
+        "type of business": "Flash storage", 
         "website": "http://fusionio.com"
       }, 
       "relations": {}, 
@@ -1002,12 +1002,12 @@
     {
       "id": "Gainspeed", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Drew Perkins, Shlomo Rakib, Jeff White, Mark Stalica", 
         "location": "Sunnyvale, CA", 
         "name": "Gainspeed", 
         "stage": "venture", 
-        "type_of_business": "Cable provider infrastructure", 
+        "type of business": "Cable provider infrastructure", 
         "website": "http://gainspeed.com"
       }, 
       "relations": {}, 
@@ -1016,12 +1016,12 @@
     {
       "id": "Genius", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Tom Lehman, Ilan Zechory, Mahbod Moghadam", 
         "location": "Brooklyn, NY and Malibu, CA", 
         "name": "Genius", 
         "stage": "venture", 
-        "type_of_business": "Annotating everything", 
+        "type of business": "Annotating everything", 
         "website": "http://genius.com/"
       }, 
       "relations": {}, 
@@ -1030,12 +1030,12 @@
     {
       "id": "Gigster", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Roger Dickey, Debo Olaosebikan", 
         "location": "San Francisco, CA", 
         "name": "Gigster", 
         "stage": "venture", 
-        "type_of_business": "Developers on demand", 
+        "type of business": "Developers on demand", 
         "website": "https://gigster.com/"
       }, 
       "relations": {}, 
@@ -1044,12 +1044,12 @@
     {
       "id": "GitHub", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Tom Preston-Werner, Chris Wanstrath, PJ Hyett, Scott Chacon", 
         "location": "San Francisco, CA", 
         "name": "GitHub", 
         "stage": "growth", 
-        "type_of_business": "Software development", 
+        "type of business": "Software development", 
         "website": "http://github.com"
       }, 
       "relations": {}, 
@@ -1058,12 +1058,12 @@
     {
       "id": "Glow", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Max Levchin", 
         "location": "San Francisco, CA", 
         "name": "Glow", 
         "stage": "venture", 
-        "type_of_business": "Fertility and ovulation tracking", 
+        "type of business": "Fertility and ovulation tracking", 
         "website": "http://www.glowing.com"
       }, 
       "relations": {}, 
@@ -1072,12 +1072,12 @@
     {
       "id": "GoodData", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Roman Stanek", 
         "location": "San Francisco, CA", 
         "name": "GoodData", 
         "stage": "venture", 
-        "type_of_business": "Business Data Monetization", 
+        "type of business": "Business Data Monetization", 
         "website": "http://gooddata.com"
       }, 
       "relations": {}, 
@@ -1086,12 +1086,12 @@
     {
       "id": "Granular", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Sid Gorham, Mike Preiner", 
         "location": "San Francisco, CA", 
         "name": "Granular", 
         "stage": "venture", 
-        "type_of_business": "Business software & analytics for professional farms", 
+        "type of business": "Business software & analytics for professional farms", 
         "website": "http://www.granular.ag"
       }, 
       "relations": {}, 
@@ -1100,12 +1100,12 @@
     {
       "id": "Groupon, Inc.", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Andrew Mason", 
         "location": "Chicago, IL", 
         "name": "Groupon, Inc.", 
         "stage": "venture", 
-        "type_of_business": "E-commerce marketplace for daily deals and group buying", 
+        "type of business": "E-commerce marketplace for daily deals and group buying", 
         "website": "http://www.groupon.com"
       }, 
       "relations": {}, 
@@ -1114,12 +1114,12 @@
     {
       "id": "Hem", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Jason Goldberg, Bradford Shellhammer, Nishith Shah, Deepa Shah, Sunil Khedar", 
         "location": "New York, NY", 
         "name": "Hem", 
         "stage": "growth", 
-        "type_of_business": "Curated Commerce", 
+        "type of business": "Curated Commerce", 
         "website": "http://hem.com"
       }, 
       "relations": {}, 
@@ -1128,12 +1128,12 @@
     {
       "id": "Honor", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Seth Sternberg, Cameron Ring, Sandy Jen, Monica Lo", 
         "location": "San Francisco, CA", 
         "name": "Honor", 
         "stage": "venture", 
-        "type_of_business": "Senior Home Care Platform", 
+        "type of business": "Senior Home Care Platform", 
         "website": "http://joinhonor.com"
       }, 
       "relations": {}, 
@@ -1142,12 +1142,12 @@
     {
       "id": "IFTTT", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Linden Tibbets, Alexander Tibbets, Scott Tong", 
         "location": "San Francisco, CA", 
         "name": "IFTTT", 
         "stage": "venture", 
-        "type_of_business": "Consumer & Developer Platform", 
+        "type of business": "Consumer & Developer Platform", 
         "website": "http://ifttt.com"
       }, 
       "relations": {}, 
@@ -1156,12 +1156,12 @@
     {
       "id": "Illumio", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Andrew Rubin, PJ Kirner", 
         "location": "Sunnyvale, CA", 
         "name": "Illumio", 
         "stage": "venture", 
-        "type_of_business": "Cloud security", 
+        "type of business": "Cloud security", 
         "website": "http://illumio.com"
       }, 
       "relations": {}, 
@@ -1170,12 +1170,12 @@
     {
       "id": "Imgur", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Alan Schaaf", 
         "location": "San Francisco, CA", 
         "name": "Imgur", 
         "stage": "venture", 
-        "type_of_business": "image sharing", 
+        "type of business": "image sharing", 
         "website": "https://imgur.com/"
       }, 
       "relations": {}, 
@@ -1184,12 +1184,12 @@
     {
       "id": "Improbable", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Herman Narula", 
         "location": "London, UK", 
         "name": "Improbable", 
         "stage": "venture", 
-        "type_of_business": "Simulation Platform Technology", 
+        "type of business": "Simulation Platform Technology", 
         "website": "http://www.improbable.io"
       }, 
       "relations": {}, 
@@ -1198,12 +1198,12 @@
     {
       "id": "Instacart", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Apoorva Mehta", 
         "location": "San Francisco, CA", 
         "name": "Instacart", 
         "stage": "venture", 
-        "type_of_business": "Local delivery service", 
+        "type of business": "Local delivery service", 
         "website": "http://instacart.com"
       }, 
       "relations": {}, 
@@ -1212,12 +1212,12 @@
     {
       "id": "Instart\u00a0Logic", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Manav Mital, Hariharan Kolam, Raghu Venkat", 
         "location": "Mountain View, CA", 
         "name": "Instart\u00a0Logic", 
         "stage": "venture", 
-        "type_of_business": "Cloud publishing platform", 
+        "type of business": "Cloud publishing platform", 
         "website": "http://instartlogic.com"
       }, 
       "relations": {}, 
@@ -1226,12 +1226,12 @@
     {
       "id": "It\u2019sOn", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Greg Raleigh, Charles Giancarlo", 
         "location": "Redwood City, CA", 
         "name": "It\u2019sOn", 
         "stage": "venture", 
-        "type_of_business": "Mobile services purchasing", 
+        "type of business": "Mobile services purchasing", 
         "website": "http://itsoninc.com"
       }, 
       "relations": {}, 
@@ -1240,12 +1240,12 @@
     {
       "id": "Jawbone", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Alex Asseily, Hosain Rahman", 
         "location": "San Francisco, CA", 
         "name": "Jawbone", 
         "stage": "growth", 
-        "type_of_business": "Products and services for the mobile lifestyle", 
+        "type of business": "Products and services for the mobile lifestyle", 
         "website": "http://jawbone.com"
       }, 
       "relations": {}, 
@@ -1254,12 +1254,12 @@
     {
       "id": "Julep", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Jane Park, Kate MacDonald", 
         "location": "Seattle, WA", 
         "name": "Julep", 
         "stage": "venture", 
-        "type_of_business": "Beauty company", 
+        "type of business": "Beauty company", 
         "website": "http://julep.com"
       }, 
       "relations": {}, 
@@ -1268,12 +1268,12 @@
     {
       "id": "Jumio", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Daniel Mattes; CEO: Steve Stuut", 
         "location": "Palo Alto, CA", 
         "name": "Jumio", 
         "stage": "growth", 
-        "type_of_business": "ID authentication technology", 
+        "type of business": "ID authentication technology", 
         "website": "http://jumio.com"
       }, 
       "relations": {}, 
@@ -1282,12 +1282,12 @@
     {
       "id": "Keybase", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Chris Coyne, Max Krohn", 
         "location": "San Francisco, CA", 
         "name": "Keybase", 
         "stage": "venture", 
-        "type_of_business": "Public key cryptography", 
+        "type of business": "Public key cryptography", 
         "website": "http://keybase.io"
       }, 
       "relations": {}, 
@@ -1296,12 +1296,12 @@
     {
       "id": "Kno", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Babur Habib, Osman Rashid", 
         "location": "Santa Clara, CA", 
         "name": "Kno", 
         "stage": "venture", 
-        "type_of_business": "Education software", 
+        "type of business": "Education software", 
         "website": "http://kno.com"
       }, 
       "relations": {}, 
@@ -1310,12 +1310,12 @@
     {
       "id": "Local Motion", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "John Stanfield, Clement Gires", 
         "location": "San Mateo, CA", 
         "name": "Local Motion", 
         "stage": "venture", 
-        "type_of_business": "Intelligent fleet management", 
+        "type of business": "Intelligent fleet management", 
         "website": "http://getlocalmotion.com"
       }, 
       "relations": {}, 
@@ -1324,12 +1324,12 @@
     {
       "id": "Lookout", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "John Hering, Kevin Mahaffey, James Burgess", 
         "location": "San Francisco, CA", 
         "name": "Lookout", 
         "stage": "growth", 
-        "type_of_business": "Smartphone security", 
+        "type of business": "Smartphone security", 
         "website": "http://lookout.com"
       }, 
       "relations": {}, 
@@ -1338,12 +1338,12 @@
     {
       "id": "Lyft", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Logan Green, John Zimmer", 
         "location": "San Francisco, CA", 
         "name": "Lyft", 
         "stage": "growth", 
-        "type_of_business": "Transportation app", 
+        "type of business": "Transportation app", 
         "website": "http://lyft.me"
       }, 
       "relations": {}, 
@@ -1352,12 +1352,12 @@
     {
       "id": "Lytro", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Dr. Ren Ng", 
         "location": "Mountain View, CA", 
         "name": "Lytro", 
         "stage": "venture", 
-        "type_of_business": "Photography technology", 
+        "type of business": "Photography technology", 
         "website": "http://lytro.com"
       }, 
       "relations": {}, 
@@ -1366,12 +1366,12 @@
     {
       "id": "Magic Leap", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Rony Abovitz", 
         "location": "Dania Beach, FL", 
         "name": "Magic Leap", 
         "stage": "venture", 
-        "type_of_business": "Augmented Reality", 
+        "type of business": "Augmented Reality", 
         "website": "http://magicleap.com"
       }, 
       "relations": {}, 
@@ -1380,12 +1380,12 @@
     {
       "id": "Magnet\u00a0Systems", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Alfred Chuang", 
         "location": "Palo Alto, CA", 
         "name": "Magnet\u00a0Systems", 
         "stage": "venture", 
-        "type_of_business": "Mobile middleware", 
+        "type of business": "Mobile middleware", 
         "website": "http://magnet.com"
       }, 
       "relations": {}, 
@@ -1394,12 +1394,12 @@
     {
       "id": "Maxta", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Yoram Novick", 
         "location": "Sunnyvale, CA", 
         "name": "Maxta", 
         "stage": "venture", 
-        "type_of_business": "Infrastructure software", 
+        "type of business": "Infrastructure software", 
         "website": "http://maxta.com"
       }, 
       "relations": {}, 
@@ -1408,12 +1408,12 @@
     {
       "id": "Mayvenn", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Diishan Imira", 
         "location": "Richmond, CA", 
         "name": "Mayvenn", 
         "stage": "venture", 
-        "type_of_business": "E-commerce", 
+        "type of business": "E-commerce", 
         "website": "http://mayvenn.com"
       }, 
       "relations": {}, 
@@ -1422,12 +1422,12 @@
     {
       "id": "Mesosphere", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Florian Leibert, Tobi Knaup, Ben Hindman", 
         "location": "San Francisco, CA", 
         "name": "Mesosphere", 
         "stage": "venture", 
-        "type_of_business": "Next generation virtualization", 
+        "type of business": "Next generation virtualization", 
         "website": "http://www.mesosphere.io"
       }, 
       "relations": {}, 
@@ -1436,12 +1436,12 @@
     {
       "id": "Meteor Development\u00a0Group", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Geoff Schmidt, Matt DeBergalis, Nick Martin", 
         "location": "San Francisco, CA", 
         "name": "Meteor Development\u00a0Group", 
         "stage": "venture", 
-        "type_of_business": "Web app development", 
+        "type of business": "Web app development", 
         "website": "http://meteor.com"
       }, 
       "relations": {}, 
@@ -1450,12 +1450,12 @@
     {
       "id": "Mixpanel", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Suhail Doshi, Tim Trefren", 
         "location": "San Francisco, CA", 
         "name": "Mixpanel", 
         "stage": "venture", 
-        "type_of_business": "Data analytics", 
+        "type of business": "Data analytics", 
         "website": "http://mixpanel.com"
       }, 
       "relations": {}, 
@@ -1464,12 +1464,12 @@
     {
       "id": "Mori", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Cory Ondrejka, Bruce Rogers, Lisa Rutherford", 
         "location": "Los Gatos, CA", 
         "name": "Mori", 
         "stage": "venture", 
-        "type_of_business": "Stealth", 
+        "type of business": "Stealth", 
         "website": "http://mori.com"
       }, 
       "relations": {}, 
@@ -1478,12 +1478,12 @@
     {
       "id": "NationBuilder", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Jim Gilliam, Joe Green, Jesse Haff", 
         "location": "Los Angeles, CA", 
         "name": "NationBuilder", 
         "stage": "venture", 
-        "type_of_business": "Software For Leaders", 
+        "type of business": "Software For Leaders", 
         "website": "http://nationbuilder.com"
       }, 
       "relations": {}, 
@@ -1492,12 +1492,12 @@
     {
       "id": "Nicira", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Steve Mullaney, Martin Casado, Nick McKeown, Scott Shenker", 
         "location": "Palo Alto, CA", 
         "name": "Nicira", 
         "stage": "venture", 
-        "type_of_business": "Virtualization Software", 
+        "type of business": "Virtualization Software", 
         "website": "http://nicira.com"
       }, 
       "relations": {}, 
@@ -1506,12 +1506,12 @@
     {
       "id": "Oculus", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Palmer Luckey", 
         "location": "Irvine, CA", 
         "name": "Oculus", 
         "stage": "venture", 
-        "type_of_business": "wearable virtual reality gear", 
+        "type of business": "wearable virtual reality gear", 
         "website": "http://www.oculusvr.com"
       }, 
       "relations": {}, 
@@ -1520,12 +1520,12 @@
     {
       "id": "OfferUp", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Nick Huzar, Arean van Veelen", 
         "location": "Seattle, WA", 
         "name": "OfferUp", 
         "stage": "venture", 
-        "type_of_business": "Marketplace for local buyers and sellers", 
+        "type of business": "Marketplace for local buyers and sellers", 
         "website": "http://offerupnow.com"
       }, 
       "relations": {}, 
@@ -1534,12 +1534,12 @@
     {
       "id": "Okta", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Todd McKinnon, Frederic Kerrest", 
         "location": "San Francisco, CA", 
         "name": "Okta", 
         "stage": "venture", 
-        "type_of_business": "Cloud Identity & Access Management", 
+        "type of business": "Cloud Identity & Access Management", 
         "website": "http://okta.com"
       }, 
       "relations": {}, 
@@ -1548,12 +1548,12 @@
     {
       "id": "Omada Health", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Andrew DiMichele, Sean Duffy, Adrian James", 
         "location": "San Francisco, CA", 
         "name": "Omada Health", 
         "stage": "venture", 
-        "type_of_business": "Digital therapeutics", 
+        "type of business": "Digital therapeutics", 
         "website": "http://www.omadahealth.com"
       }, 
       "relations": {}, 
@@ -1562,12 +1562,12 @@
     {
       "id": "Onshape", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Jon Hirschtick, Michael Lauer, Dave Corcoran, Tommy Li, John McEleney, Scott Harris", 
         "location": "Cambridge, MA", 
         "name": "Onshape", 
         "stage": "venture", 
-        "type_of_business": "3D CAD software", 
+        "type of business": "3D CAD software", 
         "website": "http://onshape.com"
       }, 
       "relations": {}, 
@@ -1576,12 +1576,12 @@
     {
       "id": "OpenGov", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Zac Bookman, Joe Lonsdale, Michael Rosengarten, Nate Levine", 
         "location": "Mountain View, CA", 
         "name": "OpenGov", 
         "stage": "venture", 
-        "type_of_business": "Business Intelligence for Government", 
+        "type of business": "Business Intelligence for Government", 
         "website": "https://www.opengov.com/"
       }, 
       "relations": {}, 
@@ -1590,12 +1590,12 @@
     {
       "id": "Optimizely", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Dan Siroker, Pete Koomen", 
         "location": "San Francisco, CA", 
         "name": "Optimizely", 
         "stage": "venture", 
-        "type_of_business": "Web optimization platform", 
+        "type of business": "Web optimization platform", 
         "website": "http://www.optimizely.com"
       }, 
       "relations": {}, 
@@ -1604,12 +1604,12 @@
     {
       "id": "PagerDuty", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Alex Solomon, Andrew Miklas, Baskar Puvanathasan", 
         "location": "San Francisco, CA", 
         "name": "PagerDuty", 
         "stage": "venture", 
-        "type_of_business": "911 for IT", 
+        "type of business": "911 for IT", 
         "website": "http://pagerduty.com"
       }, 
       "relations": {}, 
@@ -1618,12 +1618,12 @@
     {
       "id": "Pindrop\u00a0Security", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Vijay Balasubramaniyan, Mustaque Ahamad, Patrick Traynor", 
         "location": "Atlanta, GA", 
         "name": "Pindrop\u00a0Security", 
         "stage": "venture", 
-        "type_of_business": "Fraud solutions for the enterprise", 
+        "type of business": "Fraud solutions for the enterprise", 
         "website": "http://pindropsecurity.com"
       }, 
       "relations": {}, 
@@ -1632,12 +1632,12 @@
     {
       "id": "Pinterest", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Ben Silbermann, Paul Sciarra, Evan Sharp", 
         "location": "San Francisco, CA", 
         "name": "Pinterest", 
         "stage": "venture", 
-        "type_of_business": "Social Media Platform", 
+        "type of business": "Social Media Platform", 
         "website": "http://pinterest.com"
       }, 
       "relations": {}, 
@@ -1646,12 +1646,12 @@
     {
       "id": "Platfora", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Ben Werther", 
         "location": "San Mateo, CA", 
         "name": "Platfora", 
         "stage": "venture", 
-        "type_of_business": "Big data", 
+        "type of business": "Big data", 
         "website": "http://platfora.com"
       }, 
       "relations": {}, 
@@ -1660,12 +1660,12 @@
     {
       "id": "ProductHunt", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Ryan Hoover", 
         "location": "San Francisco, CA", 
         "name": "ProductHunt", 
         "stage": "venture", 
-        "type_of_business": "Product Discovery and Community", 
+        "type of business": "Product Discovery and Community", 
         "website": "http://producthunt.com"
       }, 
       "relations": {}, 
@@ -1674,12 +1674,12 @@
     {
       "id": "Quirky", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Ben Kaufman", 
         "location": "New York, NY", 
         "name": "Quirky", 
         "stage": "growth", 
-        "type_of_business": "Social product development", 
+        "type of business": "Social product development", 
         "website": "http://quirky.com"
       }, 
       "relations": {}, 
@@ -1688,12 +1688,12 @@
     {
       "id": "Ringly", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Christina Mercando, Logan Munro", 
         "location": "Brooklyn, NY", 
         "name": "Ringly", 
         "stage": "venture", 
-        "type_of_business": "Connected jewelry", 
+        "type of business": "Connected jewelry", 
         "website": "https://ringly.com/"
       }, 
       "relations": {}, 
@@ -1702,12 +1702,12 @@
     {
       "id": "Rockmelt", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Eric Vishria, Tim Howes", 
         "location": "Mountain View, CA", 
         "name": "Rockmelt", 
         "stage": "venture", 
-        "type_of_business": "Internet browser", 
+        "type of business": "Internet browser", 
         "website": "http://rockmelt.com"
       }, 
       "relations": {}, 
@@ -1716,12 +1716,12 @@
     {
       "id": "Samsara", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Sanjit Biswas, John Bicket", 
         "location": "San Francisco, CA", 
         "name": "Samsara", 
         "stage": "venture", 
-        "type_of_business": "Internet Connected Sensors", 
+        "type of business": "Internet Connected Sensors", 
         "website": "http://samsara.com"
       }, 
       "relations": {}, 
@@ -1730,12 +1730,12 @@
     {
       "id": "Shapeways", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Peter Weijmarshausen, Marleen Vo", 
         "location": "New York, NY", 
         "name": "Shapeways", 
         "stage": "growth", 
-        "type_of_business": "3D printing marketplace", 
+        "type of business": "3D printing marketplace", 
         "website": "http://shapeways.com"
       }, 
       "relations": {}, 
@@ -1744,12 +1744,12 @@
     {
       "id": "Shoedazzle", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Brian Lee, MJ Eng", 
         "location": "Santa Monica, CA", 
         "name": "Shoedazzle", 
         "stage": "growth", 
-        "type_of_business": "Personalized social commerce", 
+        "type of business": "Personalized social commerce", 
         "website": "http://shoedazzle.com"
       }, 
       "relations": {}, 
@@ -1758,12 +1758,12 @@
     {
       "id": "SignalFx", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Phillip Liu, Karthik Rau", 
         "location": "San Mateo, CA", 
         "name": "SignalFx", 
         "stage": "venture", 
-        "type_of_business": "Application management", 
+        "type of business": "Application management", 
         "website": "http://signalfx.com"
       }, 
       "relations": {}, 
@@ -1772,12 +1772,12 @@
     {
       "id": "Skout", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Christian Wiklund, Niklas Lindstrom", 
         "location": "San Francisco, CA", 
         "name": "Skout", 
         "stage": "growth", 
-        "type_of_business": "Mobile social networking", 
+        "type of business": "Mobile social networking", 
         "website": "http://skout.com"
       }, 
       "relations": {}, 
@@ -1786,12 +1786,12 @@
     {
       "id": "Skype,\u00a0Inc.", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Niklas Zennstrom, Janus Friis", 
         "location": "Luxembourg, Luxembourg", 
         "name": "Skype,\u00a0Inc.", 
         "stage": "growth", 
-        "type_of_business": "VoIP software", 
+        "type of business": "VoIP software", 
         "website": "http://skype.com"
       }, 
       "relations": {}, 
@@ -1800,12 +1800,12 @@
     {
       "id": "Slack", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Stewart Butterfield, Cal Henderson, Eric Costello, Serguei Mourachov", 
         "location": "San Francisco, CA", 
         "name": "Slack", 
         "stage": "venture", 
-        "type_of_business": "Communication platform for teams", 
+        "type of business": "Communication platform for teams", 
         "website": "https://slack.com/"
       }, 
       "relations": {}, 
@@ -1814,12 +1814,12 @@
     {
       "id": "SnapLogic", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Gaurav Dhillon", 
         "location": "San Mateo, CA", 
         "name": "SnapLogic", 
         "stage": "venture", 
-        "type_of_business": "Data integration", 
+        "type of business": "Data integration", 
         "website": "http://snaplogic.com"
       }, 
       "relations": {}, 
@@ -1828,12 +1828,12 @@
     {
       "id": "Soylent", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Rob Rhinehart, Matthew Cauble, John Coogan, David Renteln", 
         "location": "Los Angeles, CA", 
         "name": "Soylent", 
         "stage": "venture", 
-        "type_of_business": "Engineered staple foods", 
+        "type of business": "Engineered staple foods", 
         "website": "http://www.soylent.com"
       }, 
       "relations": {}, 
@@ -1842,12 +1842,12 @@
     {
       "id": "Stack Exchange", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Joel Spolsky, Jeff Atwood", 
         "location": "New York, NY", 
         "name": "Stack Exchange", 
         "stage": "venture", 
-        "type_of_business": "Q&A communities", 
+        "type of business": "Q&A communities", 
         "website": "http://stackoverflow.com/"
       }, 
       "relations": {}, 
@@ -1856,12 +1856,12 @@
     {
       "id": "Switch Communications", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Craig Walker, Brian Peterson, John Rector, Alex Cornell", 
         "location": "San Francisco, CA", 
         "name": "Switch Communications", 
         "stage": "venture", 
-        "type_of_business": "Visual conferencing", 
+        "type of business": "Visual conferencing", 
         "website": "http://switch.co"
       }, 
       "relations": {}, 
@@ -1870,12 +1870,12 @@
     {
       "id": "Tanium", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Orion Hindawi, David Hindawi", 
         "location": "Berkeley, CA", 
         "name": "Tanium", 
         "stage": "growth", 
-        "type_of_business": "Systems management", 
+        "type of business": "Systems management", 
         "website": "http://www.tanium.com/"
       }, 
       "relations": {}, 
@@ -1884,12 +1884,12 @@
     {
       "id": "Teespring", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Walker Williams, Evan Stites-Clayton", 
         "location": "San Francisco, CA", 
         "name": "Teespring", 
         "stage": "venture", 
-        "type_of_business": "Crowdfunded custom apparel", 
+        "type of business": "Crowdfunded custom apparel", 
         "website": "http://teespring.com"
       }, 
       "relations": {}, 
@@ -1898,12 +1898,12 @@
     {
       "id": "Tidemark", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Tony Rizzo, Christian Ghoerghe", 
         "location": "Redwood City, CA", 
         "name": "Tidemark", 
         "stage": "venture", 
-        "type_of_business": "Analytics technology", 
+        "type of business": "Analytics technology", 
         "website": "http://tidemark.net"
       }, 
       "relations": {}, 
@@ -1912,12 +1912,12 @@
     {
       "id": "Tilt", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "James Beshara, Khaled Hussein", 
         "location": "San Francisco, CA", 
         "name": "Tilt", 
         "stage": "venture", 
-        "type_of_business": "Next generation crowdfunding platform and tools", 
+        "type of business": "Next generation crowdfunding platform and tools", 
         "website": "https://www.tilt.com/"
       }, 
       "relations": {}, 
@@ -1926,12 +1926,12 @@
     {
       "id": "TinyCo", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Suli Ali and Ian Spivey", 
         "location": "San Francisco, CA", 
         "name": "TinyCo", 
         "stage": "venture", 
-        "type_of_business": "Mobile social games", 
+        "type of business": "Mobile social games", 
         "website": "http://tinyco.com"
       }, 
       "relations": {}, 
@@ -1940,12 +1940,12 @@
     {
       "id": "ToutApp", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Tawheed (TK) Kader", 
         "location": "San Francisco, CA", 
         "name": "ToutApp", 
         "stage": "venture", 
-        "type_of_business": "Sales acceleration platform", 
+        "type of business": "Sales acceleration platform", 
         "website": "http://www.toutapp.com/"
       }, 
       "relations": {}, 
@@ -1954,12 +1954,12 @@
     {
       "id": "TransferWise", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Kristo K\u00e4\u00e4rmann, Taavet Hinrikus", 
         "location": "London, United Kingdom", 
         "name": "TransferWise", 
         "stage": "venture", 
-        "type_of_business": "International money transfer", 
+        "type of business": "International money transfer", 
         "website": "http://www.transferwise.com"
       }, 
       "relations": {}, 
@@ -1968,12 +1968,12 @@
     {
       "id": "Twice", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Noah Ready-Campbell, Calvin Young", 
         "location": "San Francisco, CA", 
         "name": "Twice", 
         "stage": "venture", 
-        "type_of_business": "Fashion recommerce", 
+        "type of business": "Fashion recommerce", 
         "website": "http://www.liketwice.com"
       }, 
       "relations": {}, 
@@ -1982,12 +1982,12 @@
     {
       "id": "Twitter", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Jack Dorsey, Biz Stone, Evan Williams", 
         "location": "San Francisco, CA", 
         "name": "Twitter", 
         "stage": "growth", 
-        "type_of_business": "Social networking and microblogging", 
+        "type of business": "Social networking and microblogging", 
         "website": "http://twitter.com"
       }, 
       "relations": {}, 
@@ -1996,12 +1996,12 @@
     {
       "id": "Udacity", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Sebastian Thrun, David Stavens, Mike Sokolsky", 
         "location": "Palo Alto, CA", 
         "name": "Udacity", 
         "stage": "venture", 
-        "type_of_business": "Higher education", 
+        "type of business": "Higher education", 
         "website": "http://udacity.com"
       }, 
       "relations": {}, 
@@ -2010,12 +2010,12 @@
     {
       "id": "Usermind", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Michel Feaster, Przemek Pardyak", 
         "location": "Seattle, WA", 
         "name": "Usermind", 
         "stage": "venture", 
-        "type_of_business": "Business operations", 
+        "type of business": "Business operations", 
         "website": "http://usermind.com"
       }, 
       "relations": {}, 
@@ -2024,12 +2024,12 @@
     {
       "id": "Walker and Company\u00a0Brands", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Tristan Walker", 
         "location": "Palo Alto, CA", 
         "name": "Walker and Company\u00a0Brands", 
         "stage": "venture", 
-        "type_of_business": "Brand for health and beauty", 
+        "type of business": "Brand for health and beauty", 
         "website": "http://www.walkerandcompany.com"
       }, 
       "relations": {}, 
@@ -2038,12 +2038,12 @@
     {
       "id": "Zenefits", 
       "properties": {
-        "business_model": "to enterprise", 
+        "business model": "to enterprise", 
         "founder": "Parker Conrad, Laks Srini", 
         "location": "San Francisco, CA", 
         "name": "Zenefits", 
         "stage": "venture", 
-        "type_of_business": "All-in-one HR SaaS", 
+        "type of business": "All-in-one HR SaaS", 
         "website": "http://www.zenefits.com"
       }, 
       "relations": {}, 
@@ -2052,12 +2052,12 @@
     {
       "id": "Zulily", 
       "properties": {
-        "business_model": "to consumer", 
+        "business model": "to consumer", 
         "founder": "Darrell Cavens, Mark Vadon", 
         "location": "Seattle, WA", 
         "name": "Zulily", 
         "stage": "growth", 
-        "type_of_business": "Daily deal site for moms", 
+        "type of business": "Daily deal site for moms", 
         "website": "http://zulily.com"
       }, 
       "relations": {}, 
@@ -2066,12 +2066,12 @@
     {
       "id": "Twoxar", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Twoxar", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.twoxar.com/"
       }, 
       "relations": {}, 
@@ -2080,12 +2080,12 @@
     {
       "id": "Unify", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Unify", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://unify.id"
       }, 
       "relations": {}, 
@@ -2094,12 +2094,12 @@
     {
       "id": "Gitstar", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Gitstar", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://gitstar.com/"
       }, 
       "relations": {}, 
@@ -2108,12 +2108,12 @@
     {
       "id": "Radiant Entertainment", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Radiant Entertainment", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://radiant-entertainment.com"
       }, 
       "relations": {}, 
@@ -2122,12 +2122,12 @@
     {
       "id": "Blockspring", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Blockspring", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://blockspring.com"
       }, 
       "relations": {}, 
@@ -2136,12 +2136,12 @@
     {
       "id": "Point", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Point", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://point.com"
       }, 
       "relations": {}, 
@@ -2150,12 +2150,12 @@
     {
       "id": "Skyd", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Skyd", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://skyd.io/"
       }, 
       "relations": {}, 
@@ -2164,12 +2164,12 @@
     {
       "id": "Sigopt", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Sigopt", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://sigopt.com"
       }, 
       "relations": {}, 
@@ -2178,12 +2178,12 @@
     {
       "id": "Witheve", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Witheve", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://witheve.com/"
       }, 
       "relations": {}, 
@@ -2192,12 +2192,12 @@
     {
       "id": "Wemash", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Wemash", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.wemash.com/"
       }, 
       "relations": {}, 
@@ -2206,12 +2206,12 @@
     {
       "id": "Txn", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Txn", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://txn.com"
       }, 
       "relations": {}, 
@@ -2220,12 +2220,12 @@
     {
       "id": "Premise", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Premise", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://premise.is"
       }, 
       "relations": {}, 
@@ -2234,12 +2234,12 @@
     {
       "id": "Yourmechanic", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Yourmechanic", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://yourmechanic.com"
       }, 
       "relations": {}, 
@@ -2248,12 +2248,12 @@
     {
       "id": "Humandx", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Humandx", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.humandx.org"
       }, 
       "relations": {}, 
@@ -2262,12 +2262,12 @@
     {
       "id": "Apropose", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Apropose", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://apropose.com/"
       }, 
       "relations": {}, 
@@ -2276,12 +2276,12 @@
     {
       "id": "Tradeblock", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Tradeblock", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://tradeblock.com/"
       }, 
       "relations": {}, 
@@ -2290,12 +2290,12 @@
     {
       "id": "Enjoytech", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Enjoytech", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://enjoytech.com"
       }, 
       "relations": {}, 
@@ -2304,12 +2304,12 @@
     {
       "id": "Ubiome", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Ubiome", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://ubiome.com/"
       }, 
       "relations": {}, 
@@ -2318,12 +2318,12 @@
     {
       "id": "Teleport", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Teleport", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://teleport.org/"
       }, 
       "relations": {}, 
@@ -2332,12 +2332,12 @@
     {
       "id": "Galxyz", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Galxyz", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.galxyz.com"
       }, 
       "relations": {}, 
@@ -2346,12 +2346,12 @@
     {
       "id": "Solvebio", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Solvebio", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.solvebio.com/"
       }, 
       "relations": {}, 
@@ -2360,12 +2360,12 @@
     {
       "id": "Urbit", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Urbit", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://urbit.org"
       }, 
       "relations": {}, 
@@ -2374,12 +2374,12 @@
     {
       "id": "Medisas", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Medisas", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://medisas.com/"
       }, 
       "relations": {}, 
@@ -2388,12 +2388,12 @@
     {
       "id": "Tindie", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Tindie", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.tindie.com/"
       }, 
       "relations": {}, 
@@ -2402,12 +2402,12 @@
     {
       "id": "Robinhood", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Robinhood", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.robinhood.com"
       }, 
       "relations": {}, 
@@ -2416,12 +2416,12 @@
     {
       "id": "Leaptransit", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Leaptransit", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://leaptransit.com/"
       }, 
       "relations": {}, 
@@ -2430,12 +2430,12 @@
     {
       "id": "Humanapi", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Humanapi", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://humanapi.co/features"
       }, 
       "relations": {}, 
@@ -2444,12 +2444,12 @@
     {
       "id": "Haloneuro", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Haloneuro", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://haloneuro.com/"
       }, 
       "relations": {}, 
@@ -2458,12 +2458,12 @@
     {
       "id": "Gotenna", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Gotenna", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.gotenna.com"
       }, 
       "relations": {}, 
@@ -2472,12 +2472,12 @@
     {
       "id": "Uxpin", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Uxpin", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://uxpin.com/"
       }, 
       "relations": {}, 
@@ -2486,12 +2486,12 @@
     {
       "id": "Meetearnest", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Meetearnest", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://meetearnest.com"
       }, 
       "relations": {}, 
@@ -2500,12 +2500,12 @@
     {
       "id": "Bloomnation", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Bloomnation", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.bloomnation.com"
       }, 
       "relations": {}, 
@@ -2514,12 +2514,12 @@
     {
       "id": "Oration", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Oration", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.oration.com/"
       }, 
       "relations": {}, 
@@ -2528,12 +2528,12 @@
     {
       "id": "Joinkoru", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Joinkoru", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.joinkoru.com/"
       }, 
       "relations": {}, 
@@ -2542,12 +2542,12 @@
     {
       "id": "Coreos", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Coreos", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://coreos.com/"
       }, 
       "relations": {}, 
@@ -2556,12 +2556,12 @@
     {
       "id": "Wearableintelligence", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Wearableintelligence", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://wearableintelligence.com/"
       }, 
       "relations": {}, 
@@ -2570,12 +2570,12 @@
     {
       "id": "Pro", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Pro", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://pro.com/"
       }, 
       "relations": {}, 
@@ -2584,12 +2584,12 @@
     {
       "id": "Yardclub", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Yardclub", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.yardclub.com/"
       }, 
       "relations": {}, 
@@ -2598,12 +2598,12 @@
     {
       "id": "Socratic", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Socratic", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://socratic.org/"
       }, 
       "relations": {}, 
@@ -2612,12 +2612,12 @@
     {
       "id": "Letote", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Letote", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.letote.com/"
       }, 
       "relations": {}, 
@@ -2626,12 +2626,12 @@
     {
       "id": "Soha", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Soha", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://soha.io"
       }, 
       "relations": {}, 
@@ -2640,12 +2640,12 @@
     {
       "id": "Findlineinc", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Findlineinc", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.findlineinc.com/"
       }, 
       "relations": {}, 
@@ -2654,12 +2654,12 @@
     {
       "id": "Littleborroweddress", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Littleborroweddress", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.littleborroweddress.com/"
       }, 
       "relations": {}, 
@@ -2668,12 +2668,12 @@
     {
       "id": "Proven", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Proven", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://proven.com"
       }, 
       "relations": {}, 
@@ -2682,12 +2682,12 @@
     {
       "id": "Mattermark", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Mattermark", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://mattermark.com/"
       }, 
       "relations": {}, 
@@ -2696,12 +2696,12 @@
     {
       "id": "Zumper", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Zumper", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.zumper.com"
       }, 
       "relations": {}, 
@@ -2710,12 +2710,12 @@
     {
       "id": "Subledger", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Subledger", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://subledger.com/"
       }, 
       "relations": {}, 
@@ -2724,12 +2724,12 @@
     {
       "id": "Highfive", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Highfive", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.highfive.com/"
       }, 
       "relations": {}, 
@@ -2738,12 +2738,12 @@
     {
       "id": "Kitchit", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Kitchit", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.kitchit.com"
       }, 
       "relations": {}, 
@@ -2752,12 +2752,12 @@
     {
       "id": "Alation", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Alation", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.alation.com"
       }, 
       "relations": {}, 
@@ -2766,12 +2766,12 @@
     {
       "id": "Thync", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Thync", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.thync.com"
       }, 
       "relations": {}, 
@@ -2780,12 +2780,12 @@
     {
       "id": "Experiment", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Experiment", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://experiment.com/"
       }, 
       "relations": {}, 
@@ -2794,12 +2794,12 @@
     {
       "id": "Flightcar", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Flightcar", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://flightcar.com/"
       }, 
       "relations": {}, 
@@ -2808,12 +2808,12 @@
     {
       "id": "Screenhero", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Screenhero", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://screenhero.com/"
       }, 
       "relations": {}, 
@@ -2822,12 +2822,12 @@
     {
       "id": "Puddle", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Puddle", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.puddle.com/"
       }, 
       "relations": {}, 
@@ -2836,12 +2836,12 @@
     {
       "id": "Mediaspike", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Mediaspike", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.mediaspike.com"
       }, 
       "relations": {}, 
@@ -2850,12 +2850,12 @@
     {
       "id": "Lockitron", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Lockitron", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://lockitron.com/"
       }, 
       "relations": {}, 
@@ -2864,12 +2864,12 @@
     {
       "id": "Runscope", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Runscope", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.runscope.com/"
       }, 
       "relations": {}, 
@@ -2878,12 +2878,12 @@
     {
       "id": "Pixlee", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Pixlee", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://pixlee.com"
       }, 
       "relations": {}, 
@@ -2892,12 +2892,12 @@
     {
       "id": "Boostedboards", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Boostedboards", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://boostedboards.com/"
       }, 
       "relations": {}, 
@@ -2906,12 +2906,12 @@
     {
       "id": "Openbay", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Openbay", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.openbay.com/"
       }, 
       "relations": {}, 
@@ -2920,12 +2920,12 @@
     {
       "id": "Crowdmed", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Crowdmed", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://crowdmed.com"
       }, 
       "relations": {}, 
@@ -2934,12 +2934,12 @@
     {
       "id": "Eventley", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Eventley", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://eventley.com"
       }, 
       "relations": {}, 
@@ -2948,12 +2948,12 @@
     {
       "id": "Signifyd", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Signifyd", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.signifyd.com"
       }, 
       "relations": {}, 
@@ -2962,12 +2962,12 @@
     {
       "id": "Getable", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Getable", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://getable.com"
       }, 
       "relations": {}, 
@@ -2976,12 +2976,12 @@
     {
       "id": "Thirdlove", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Thirdlove", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://thirdlove.com"
       }, 
       "relations": {}, 
@@ -2990,12 +2990,12 @@
     {
       "id": "Percolata", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Percolata", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.percolata.com/"
       }, 
       "relations": {}, 
@@ -3004,12 +3004,12 @@
     {
       "id": "Doctorondemand", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Doctorondemand", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.doctorondemand.com"
       }, 
       "relations": {}, 
@@ -3018,12 +3018,12 @@
     {
       "id": "Nuzzel", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Nuzzel", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://nuzzel.com/"
       }, 
       "relations": {}, 
@@ -3032,12 +3032,12 @@
     {
       "id": "Talko", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Talko", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://talko.com"
       }, 
       "relations": {}, 
@@ -3046,12 +3046,12 @@
     {
       "id": "Yesgraph", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Yesgraph", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.yesgraph.com/"
       }, 
       "relations": {}, 
@@ -3060,12 +3060,12 @@
     {
       "id": "Cask", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Cask", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://cask.co/"
       }, 
       "relations": {}, 
@@ -3074,12 +3074,12 @@
     {
       "id": "Kamcord", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Kamcord", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://kamcord.com"
       }, 
       "relations": {}, 
@@ -3088,12 +3088,12 @@
     {
       "id": "Studyedge", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Studyedge", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://studyedge.com/"
       }, 
       "relations": {}, 
@@ -3102,12 +3102,12 @@
     {
       "id": "Keychainlogistics", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Keychainlogistics", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://keychainlogistics.com"
       }, 
       "relations": {}, 
@@ -3116,12 +3116,12 @@
     {
       "id": "Plivo", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Plivo", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.plivo.com/"
       }, 
       "relations": {}, 
@@ -3130,12 +3130,12 @@
     {
       "id": "Messageme", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Messageme", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.messageme.com"
       }, 
       "relations": {}, 
@@ -3144,12 +3144,12 @@
     {
       "id": "Rainforestqa", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Rainforestqa", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://rainforestqa.com"
       }, 
       "relations": {}, 
@@ -3158,12 +3158,12 @@
     {
       "id": "Healthsherpa", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Healthsherpa", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.healthsherpa.com/"
       }, 
       "relations": {}, 
@@ -3172,12 +3172,12 @@
     {
       "id": "Learnup", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Learnup", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://learnup.me"
       }, 
       "relations": {}, 
@@ -3186,12 +3186,12 @@
     {
       "id": "Infer", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Infer", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.infer.com/"
       }, 
       "relations": {}, 
@@ -3200,12 +3200,12 @@
     {
       "id": "Ridecell", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Ridecell", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.ridecell.com"
       }, 
       "relations": {}, 
@@ -3214,12 +3214,12 @@
     {
       "id": "Ubeam", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Ubeam", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.ubeam.com"
       }, 
       "relations": {}, 
@@ -3228,12 +3228,12 @@
     {
       "id": "Redhotlabs", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Redhotlabs", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.redhotlabs.com"
       }, 
       "relations": {}, 
@@ -3242,12 +3242,12 @@
     {
       "id": "Artillery", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Artillery", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.artillery.com"
       }, 
       "relations": {}, 
@@ -3256,12 +3256,12 @@
     {
       "id": "Minomonsters", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Minomonsters", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.minomonsters.com/"
       }, 
       "relations": {}, 
@@ -3270,12 +3270,12 @@
     {
       "id": "Dogvacay", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Dogvacay", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.dogvacay.com"
       }, 
       "relations": {}, 
@@ -3284,12 +3284,12 @@
     {
       "id": "Learnsprout", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Learnsprout", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.learnsprout.com"
       }, 
       "relations": {}, 
@@ -3298,12 +3298,12 @@
     {
       "id": "Mightyhive", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Mightyhive", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://mightyhive.com"
       }, 
       "relations": {}, 
@@ -3312,12 +3312,12 @@
     {
       "id": "Elasticbox", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Elasticbox", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.elasticbox.com"
       }, 
       "relations": {}, 
@@ -3326,12 +3326,12 @@
     {
       "id": "Flux", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Flux", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://flux.io"
       }, 
       "relations": {}, 
@@ -3340,12 +3340,12 @@
     {
       "id": "Blendlabsinc", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Blendlabsinc", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://blendlabsinc.com/"
       }, 
       "relations": {}, 
@@ -3354,12 +3354,12 @@
     {
       "id": "Installmonetizer", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Installmonetizer", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://installmonetizer.com"
       }, 
       "relations": {}, 
@@ -3368,12 +3368,12 @@
     {
       "id": "Atavist", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Atavist", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.atavist.com"
       }, 
       "relations": {}, 
@@ -3382,12 +3382,12 @@
     {
       "id": "Toptal", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Toptal", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.toptal.com/"
       }, 
       "relations": {}, 
@@ -3396,12 +3396,12 @@
     {
       "id": "Apcera", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Apcera", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.apcera.com/"
       }, 
       "relations": {}, 
@@ -3410,12 +3410,12 @@
     {
       "id": "Spinnakr", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Spinnakr", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.spinnakr.com"
       }, 
       "relations": {}, 
@@ -3424,12 +3424,12 @@
     {
       "id": "Makeschool", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Makeschool", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://makeschool.com"
       }, 
       "relations": {}, 
@@ -3438,12 +3438,12 @@
     {
       "id": "Lendup", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Lendup", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.lendup.com"
       }, 
       "relations": {}, 
@@ -3452,12 +3452,12 @@
     {
       "id": "Swiftype", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Swiftype", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.swiftype.com"
       }, 
       "relations": {}, 
@@ -3466,12 +3466,12 @@
     {
       "id": "Shoptiques", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Shoptiques", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.shoptiques.com"
       }, 
       "relations": {}, 
@@ -3480,12 +3480,12 @@
     {
       "id": "Priceonomics", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Priceonomics", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://priceonomics.com/"
       }, 
       "relations": {}, 
@@ -3494,12 +3494,12 @@
     {
       "id": "Sookasa", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Sookasa", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.sookasa.com"
       }, 
       "relations": {}, 
@@ -3508,12 +3508,12 @@
     {
       "id": "Matternet", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Matternet", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://matternet.us#sthash.Wj864W8c.dpuf"
       }, 
       "relations": {}, 
@@ -3522,12 +3522,12 @@
     {
       "id": "Tikl", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Tikl", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://tikl.mobi"
       }, 
       "relations": {}, 
@@ -3536,12 +3536,12 @@
     {
       "id": "Dollarshaveclub", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Dollarshaveclub", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.dollarshaveclub.com"
       }, 
       "relations": {}, 
@@ -3550,12 +3550,12 @@
     {
       "id": "8tracks", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "8tracks", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://www.8tracks.com"
       }, 
       "relations": {}, 
@@ -3564,12 +3564,12 @@
     {
       "id": "Quantifind", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Quantifind", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "http://quantifind.com/"
       }, 
       "relations": {}, 
@@ -3578,12 +3578,12 @@
     {
       "id": "Oncorps", 
       "properties": {
-        "business_model": null, 
+        "business model": null, 
         "founder": null, 
         "location": null, 
         "name": "Oncorps", 
         "stage": "seed", 
-        "type_of_business": null, 
+        "type of business": null, 
         "website": "https://www.oncorps.org/"
       }, 
       "relations": {}, 

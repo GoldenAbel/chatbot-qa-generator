@@ -55,6 +55,9 @@ class BaseEntityQaGenerator(object):
         property_name = property_def.property_name
         entity_name = entity_instance.property_value_map['name']
 
+        property_value = entity_instance.property_value_map.get(property_name)
+        answer = 'the %s of %s is %s' %(property_name, entity_name, )
+
         return [
             QAPair(question_text, 'n/a', make_context_map(entity_instance))
             for question_text in [

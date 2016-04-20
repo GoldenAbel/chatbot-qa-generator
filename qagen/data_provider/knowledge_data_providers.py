@@ -47,16 +47,16 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
     def __crawl_all_entity_data(self):
 
         print 'Initializing company:A16Z...'
-        a16z = A16Z(
-            name='Andreesen Horowitz',
-            founder='Marc Andreesen and Ben Horowitz',
-            location='Melo Park, California',
-            website='a16z.com',
-            type_of_business='venture capital',
-            business_model=None,
-            stage=None,
-            contact_info='http://a16z.com/about/contact/',
-        )
+        a16z = A16Z({
+            'name': 'Andreesen Horowitz',
+            'founder': 'Marc Andreesen and Ben Horowitz',
+            'location': 'Melo Park, California',
+            'website': 'a16z.com',
+            'type of business': 'venture capital',
+            'business model': None,
+            'stage': None,
+            'contact info': 'http://a16z.com/about/contact/',
+        })
         self.add_entity(a16z)
 
         print 'Crawling http://a16z.com/portfolio/...'
@@ -107,15 +107,15 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
         business_model = 'to consumer' if 'consumer' in div['class'] else 'to enterprise'
         stage = 'venture' if 'venture' in div['class'] else 'growth'
 
-        return Company(
-            name=name,
-            founder=founder,
-            location=location,
-            website=website,
-            type_of_business=type_of_business,
-            business_model=business_model,
-            stage=stage,
-        )
+        return Company({
+            'name': name,
+            'founder': founder,
+            'location': location,
+            'website': website,
+            'type of business': type_of_business,
+            'business model': business_model,
+            'stage': stage,
+        })
 
     @staticmethod
     def __find_seed_company_data_divs_from_url(url):
@@ -127,15 +127,15 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
     def __parse_seed_company_data(div):
         website = div.select_one('.img-wrapper')['href'].strip()
 
-        return Company(
-            name=WebCrawlerKnowledgeDataProvider.__guess_company_name_by_website(website),
-            founder=None,
-            location=None,
-            website=website,
-            type_of_business=None,
-            business_model=None,
-            stage='seed',
-        )
+        return Company({
+            'name': WebCrawlerKnowledgeDataProvider.__guess_company_name_by_website(website),
+            'founder': None,
+            'location': None,
+            'website': website,
+            'type of business': None,
+            'business model': None,
+            'stage': 'seed',
+        })
 
     @staticmethod
     def __guess_company_name_by_website(url):
@@ -186,13 +186,13 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
                 linkedin_url = url
                 print 'Found LinkedIn profile: ' + linkedin_url
 
-        return Investor(
-            name=name,
-            role=role_description,
-            picture=photo_url,
-            profile=page_url,
-            linkedin=linkedin_url,
-        )
+        return Investor({
+            'name': name,
+            'role': role_description,
+            'picture': photo_url,
+            'profile': page_url,
+            'linkedin': linkedin_url,
+        })
 
 
 class JsonFileKnowledgeDataProvider(KnowledgeDataProvider):
