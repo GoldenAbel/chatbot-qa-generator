@@ -57,5 +57,5 @@ class EntityJsonConverter(object):
     def load_from_json_dict(json_dict):
         entity_class = find_entity_class_by_name(json_dict[ENTITY_JSON_TYPE])
         property_data_dict = json_dict[ENTITY_JSON_PROPERTIES]
-        return entity_class(**property_data_dict)
+        return entity_class(property_data_dict)
 

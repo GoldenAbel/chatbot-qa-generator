@@ -56,10 +56,16 @@ class BaseEntityQaGenerator(object):
         entity_name = entity_instance.property_value_map['name']
 
         property_value = entity_instance.property_value_map.get(property_name)
-        answer = 'the %s of %s is %s' %(property_name, entity_name, )
+        if property_value:
+            if property_def.concept_type == ConceptType.URL:
+                answer = 'You can find the %s of %s at %s.' %(property_name, entity_name, property_value)
+            else:
+                answer = 'The %s of %s is %s.' %(property_name, entity_name, property_value)
+        else:
+            answer = 'Sorry the %s of %s is not available in our system.' % (property_name, entity_name)
 
         return [
-            QAPair(question_text, 'n/a', make_context_map(entity_instance))
+            QAPair(question_text, answer, make_context_map(entity_instance))
             for question_text in [
                 '%s is the %s of %s' % (property_wh_type, property_name, entity_name),
                 'show me the %s of %s' % (property_name, entity_name)
