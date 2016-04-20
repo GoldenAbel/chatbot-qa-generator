@@ -82,9 +82,9 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
         all_investors = self.get_all_instances_of_type(Investor)
 
         print 'A16Z -> COMPANYs'
-        the_a16z.relation_value_map['portfolio'] = all_companies
+        the_a16z.relation_value_map['portfolio companies'] = all_companies
         print 'A16Z -> INVESTORs'
-        the_a16z.relation_value_map['team'] = all_investors
+        the_a16z.relation_value_map['people'] = all_investors
         # a16z -> POSTs
         # a16z -> PODCASTs
 
@@ -163,7 +163,10 @@ class WebCrawlerKnowledgeDataProvider(KnowledgeDataProvider):
 
     @staticmethod
     def __parse_role_description(div):
-        return div.select_one('.team-heading').get_text().strip()
+        text = div.select_one('.team-heading').get_text().strip().lower()
+        if text.endswith('.'):
+            text = text[0:-1]
+        return text
 
     @staticmethod
     def __parse_team_member_profile_urls(div):

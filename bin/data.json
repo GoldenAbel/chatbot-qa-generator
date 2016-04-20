@@ -13,7 +13,138 @@
         "website": "a16z.com"
       }, 
       "relations": {
-        "portfolio": {
+        "people": {
+          "ref_entity_ids": [
+            "Alex Rampell", 
+            "Angela Strange", 
+            "Anu Hariharan", 
+            "Austin Guzman", 
+            "Ben Horowitz", 
+            "Benedict Evans", 
+            "Chris Dixon", 
+            "Chris Lyons", 
+            "Connie Chan", 
+            "Frank Chen", 
+            "Jason Franklin", 
+            "Jeff Jordan", 
+            "John O\u2019Farrell", 
+            "Juliet Nyatta", 
+            "Kyle Russell", 
+            "Lars Dalgaard", 
+            "LJ Erwin", 
+            "Malinka Walaliyadde", 
+            "Marc Andreessen", 
+            "Morgan Bender", 
+            "Peter Levine", 
+            "Saku Panditharatne", 
+            "Scott Kupor", 
+            "Scott Weiss", 
+            "Vijay Pande", 
+            "Amy Kalokerinos", 
+            "Brad Kern", 
+            "Caitlin Roberson", 
+            "Dalton Turay", 
+            "Erika Herrera", 
+            "Erin Grody Kingsley", 
+            "Jaimie Buss", 
+            "Jennifer Konde", 
+            "Jessica Peterson", 
+            "Jordan Stankowski", 
+            "Laura Shores", 
+            "Lauren Berson", 
+            "Leila Abu-Sharr", 
+            "Mahesh Iyer", 
+            "Marci Barbera", 
+            "Mark Cranney", 
+            "Mark McAndrew", 
+            "McPherson Moore", 
+            "Molly Grace", 
+            "Naithan Jones", 
+            "Parker Brown", 
+            "Sarah Fazal", 
+            "Sharon Chang", 
+            "Stacy D\u2019Amico", 
+            "Todd Lutwak", 
+            "Valentina Marzorati", 
+            "Alyssa Del Bene", 
+            "Amanda Mulay", 
+            "Anna Soliveres", 
+            "Ellen Tunoa", 
+            "Emily Graff", 
+            "Eric Thomas", 
+            "Jessica Hansen", 
+            "JZ Young", 
+            "Kristina Graci-deLuna", 
+            "Nigel Robinson", 
+            "Robert Moreno", 
+            "Shannon Schiltz", 
+            "Taylor McFadden", 
+            "Tina Ferguson", 
+            "Caroline Horn", 
+            "Erin Winkler", 
+            "Gia Scinto", 
+            "Jeff Stump", 
+            "Jose Guardado", 
+            "Matt Levy", 
+            "Matt Oberhardt", 
+            "Parijat Talkad", 
+            "Sunil Chokshi", 
+            "Elizabeth Ocken", 
+            "Grace Ellis", 
+            "Kim Milosevich", 
+            "Kindra Mason", 
+            "Laura Gravley", 
+            "LeeAnn Caballero", 
+            "Margit Wennmachers", 
+            "Michael Copeland", 
+            "Sonal Chokshi", 
+            "Ana Mostarac", 
+            "Caroline Moon", 
+            "Irvin Chan", 
+            "Jamie McGurk", 
+            "Nicole Irvin", 
+            "Steve McDermid", 
+            "Tyler Wilson", 
+            "Vishal Amin", 
+            "Matthew Colford", 
+            "Ted Ullyot", 
+            "Alexis Lakes", 
+            "Amy Berliner", 
+            "Arsho Avetian", 
+            "Christina Zeidan", 
+            "Daniel Chen", 
+            "Dave Jagoda", 
+            "Harry Wright", 
+            "Julie Johnson", 
+            "Karina Sobieski", 
+            "Katie Hemmerling", 
+            "Lisa Orr", 
+            "Lisa Rosano", 
+            "Luis Martinez", 
+            "Marvin Zamora", 
+            "Megan Kristalyn", 
+            "Meredith Donahue", 
+            "Michelle Mundy", 
+            "Minerva Munoz", 
+            "P.J. Hasleton", 
+            "Robin Casey", 
+            "Ryan Ward", 
+            "Vivian Brooks", 
+            "Balaji Srinivasan", 
+            "Bill Krause", 
+            "John M. Jack", 
+            "Rod Johnson", 
+            "Shana Fisher", 
+            "Spencer Rascoff", 
+            "Steven Sinofsky", 
+            "Adrian Fenty", 
+            "Ken Coleman", 
+            "Lawrence Summers", 
+            "Dan Boneh"
+          ], 
+          "ref_entity_type": "Investor"
+        }, 
+        "portfolio companies": {
           "ref_entity_ids": [
             "21", 
             "500px", 
@@ -246,137 +377,6 @@
             "Oncorps"
           ], 
           "ref_entity_type": "Company"
-        }, 
-        "team": {
-          "ref_entity_ids": [
-            "Alex Rampell", 
-            "Angela Strange", 
-            "Anu Hariharan", 
-            "Austin Guzman", 
-            "Ben Horowitz", 
-            "Benedict Evans", 
-            "Chris Dixon", 
-            "Chris Lyons", 
-            "Connie Chan", 
-            "Frank Chen", 
-            "Jason Franklin", 
-            "Jeff Jordan", 
-            "John O\u2019Farrell", 
-            "Juliet Nyatta", 
-            "Kyle Russell", 
-            "Lars Dalgaard", 
-            "LJ Erwin", 
-            "Malinka Walaliyadde", 
-            "Marc Andreessen", 
-            "Morgan Bender", 
-            "Peter Levine", 
-            "Saku Panditharatne", 
-            "Scott Kupor", 
-            "Scott Weiss", 
-            "Vijay Pande", 
-            "Amy Kalokerinos", 
-            "Brad Kern", 
-            "Caitlin Roberson", 
-            "Dalton Turay", 
-            "Erika Herrera", 
-            "Erin Grody Kingsley", 
-            "Jaimie Buss", 
-            "Jennifer Konde", 
-            "Jessica Peterson", 
-            "Jordan Stankowski", 
-            "Laura Shores", 
-            "Lauren Berson", 
-            "Leila Abu-Sharr", 
-            "Mahesh Iyer", 
-            "Marci Barbera", 
-            "Mark Cranney", 
-            "Mark McAndrew", 
-            "McPherson Moore", 
-            "Molly Grace", 
-            "Naithan Jones", 
-            "Parker Brown", 
-            "Sarah Fazal", 
-            "Sharon Chang", 
-            "Stacy D\u2019Amico", 
-            "Todd Lutwak", 
-            "Valentina Marzorati", 
-            "Alyssa Del Bene", 
-            "Amanda Mulay", 
-            "Anna Soliveres", 
-            "Ellen Tunoa", 
-            "Emily Graff", 
-            "Eric Thomas", 
-            "Jessica Hansen", 
-            "JZ Young", 
-            "Kristina Graci-deLuna", 
-            "Nigel Robinson", 
-            "Robert Moreno", 
-            "Shannon Schiltz", 
-            "Taylor McFadden", 
-            "Tina Ferguson", 
-            "Caroline Horn", 
-            "Erin Winkler", 
-            "Gia Scinto", 
-            "Jeff Stump", 
-            "Jose Guardado", 
-            "Matt Levy", 
-            "Matt Oberhardt", 
-            "Parijat Talkad", 
-            "Sunil Chokshi", 
-            "Elizabeth Ocken", 
-            "Grace Ellis", 
-            "Kim Milosevich", 
-            "Kindra Mason", 
-            "Laura Gravley", 
-            "LeeAnn Caballero", 
-            "Margit Wennmachers", 
-            "Michael Copeland", 
-            "Sonal Chokshi", 
-            "Ana Mostarac", 
-            "Caroline Moon", 
-            "Irvin Chan", 
-            "Jamie McGurk", 
-            "Nicole Irvin", 
-            "Steve McDermid", 
-            "Tyler Wilson", 
-            "Vishal Amin", 
-            "Matthew Colford", 
-            "Ted Ullyot", 
-            "Alexis Lakes", 
-            "Amy Berliner", 
-            "Arsho Avetian", 
-            "Christina Zeidan", 
-            "Daniel Chen", 
-            "Dave Jagoda", 
-            "Harry Wright", 
-            "Julie Johnson", 
-            "Karina Sobieski", 
-            "Katie Hemmerling", 
-            "Lisa Orr", 
-            "Lisa Rosano", 
-            "Luis Martinez", 
-            "Marvin Zamora", 
-            "Megan Kristalyn", 
-            "Meredith Donahue", 
-            "Michelle Mundy", 
-            "Minerva Munoz", 
-            "P.J. Hasleton", 
-            "Robin Casey", 
-            "Ryan Ward", 
-            "Vivian Brooks", 
-            "Balaji Srinivasan", 
-            "Bill Krause", 
-            "John M. Jack", 
-            "Rod Johnson", 
-            "Shana Fisher", 
-            "Spencer Rascoff", 
-            "Steven Sinofsky", 
-            "Adrian Fenty", 
-            "Ken Coleman", 
-            "Lawrence Summers", 
-            "Dan Boneh"
-          ], 
-          "ref_entity_type": "Investor"
         }
       }, 
       "type": "A16Z"
@@ -3598,7 +3598,7 @@
         "name": "Alex Rampell", 
         "picture": "https://a16z.files.wordpress.com/2015/10/alex_rampell.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/alex-rampell/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3610,7 +3610,7 @@
         "name": "Angela Strange", 
         "picture": "https://a16z.files.wordpress.com/2015/03/angela_strange2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/angela-strange/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3622,7 +3622,7 @@
         "name": "Anu Hariharan", 
         "picture": "https://a16z.files.wordpress.com/2015/01/anu4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/anu-hariharan/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3634,7 +3634,7 @@
         "name": "Austin Guzman", 
         "picture": "https://a16z.files.wordpress.com/2015/08/austin_guzman4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/austin-guzman/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3646,7 +3646,7 @@
         "name": "Ben Horowitz", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380408900.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/ben-horowitz/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3658,7 +3658,7 @@
         "name": "Benedict Evans", 
         "picture": "https://a16z.files.wordpress.com/2014/04/benedict4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/benedict-evans/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3670,7 +3670,7 @@
         "name": "Chris Dixon", 
         "picture": "https://a16z.files.wordpress.com/2015/12/chris_dixon_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/chris-dixon/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3682,7 +3682,7 @@
         "name": "Chris Lyons", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380407060.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/chris-lyons/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3694,7 +3694,7 @@
         "name": "Connie Chan", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1381773113.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/connie-chan/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3706,7 +3706,7 @@
         "name": "Frank Chen", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380386794.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/frank-chen/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3718,7 +3718,7 @@
         "name": "Jason Franklin", 
         "picture": "https://a16z.files.wordpress.com/2016/03/dscf6302.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jason-franklin/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3730,7 +3730,7 @@
         "name": "Jeff Jordan", 
         "picture": "https://a16z.files.wordpress.com/2015/12/jeff_jordan_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jeff-jordan/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3742,7 +3742,7 @@
         "name": "John O\u2019Farrell", 
         "picture": "https://a16z.files.wordpress.com/2015/12/john_ofarrell_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/john-ofarrell/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3754,7 +3754,7 @@
         "name": "Juliet Nyatta", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380388475.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/juliet-pullis/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3766,7 +3766,7 @@
         "name": "Kyle Russell", 
         "picture": "https://a16z.files.wordpress.com/2015/08/kyle_russell2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/kyle-russell/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3778,7 +3778,7 @@
         "name": "Lars Dalgaard", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380567925.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lars-dalgaard/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3790,7 +3790,7 @@
         "name": "LJ Erwin", 
         "picture": "https://a16z.files.wordpress.com/2015/08/lj_erwin_2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lj-erwin/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3802,7 +3802,7 @@
         "name": "Malinka Walaliyadde", 
         "picture": "https://a16z.files.wordpress.com/2014/02/malinka3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/malinka-walaliyadde/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3814,7 +3814,7 @@
         "name": "Marc Andreessen", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380302975.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/marc-andreessen/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3826,7 +3826,7 @@
         "name": "Morgan Bender", 
         "picture": "https://a16z.files.wordpress.com/2015/03/morgan_bender9.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/morgan-bender/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3838,7 +3838,7 @@
         "name": "Peter Levine", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380410224.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/peter-levine/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3850,7 +3850,7 @@
         "name": "Saku Panditharatne", 
         "picture": "https://a16z.files.wordpress.com/2015/12/sakunthala_pandit.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/saku-panditharatne/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3862,7 +3862,7 @@
         "name": "Scott Kupor", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380671641.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/scott-kupor/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3874,7 +3874,7 @@
         "name": "Scott Weiss", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380387606.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/scott-weiss/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3886,7 +3886,7 @@
         "name": "Vijay Pande", 
         "picture": "https://a16z.files.wordpress.com/2015/11/vijay_pande3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/vijay-pande/", 
-        "role": "Investing: Backing brilliant entrepreneurs to build the future."
+        "role": "investing: backing brilliant entrepreneurs to build the future"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3898,7 +3898,7 @@
         "name": "Amy Kalokerinos", 
         "picture": "https://a16z.files.wordpress.com/2015/10/amy_kalokerinos.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/amy-kalokerinos/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3910,7 +3910,7 @@
         "name": "Brad Kern", 
         "picture": "https://a16z.files.wordpress.com/2015/03/brad4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/brad-kern/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3922,7 +3922,7 @@
         "name": "Caitlin Roberson", 
         "picture": "https://a16z.files.wordpress.com/2015/08/caitlin_roberson.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/caitlin-roberson/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3934,7 +3934,7 @@
         "name": "Dalton Turay", 
         "picture": "https://a16z.files.wordpress.com/2015/10/dalton_turay.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/dalton-turay/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3946,7 +3946,7 @@
         "name": "Erika Herrera", 
         "picture": "https://a16z.files.wordpress.com/2014/10/erika2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/erika-herrera/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3958,7 +3958,7 @@
         "name": "Erin Grody Kingsley", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380405539.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/erin-grody/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3970,7 +3970,7 @@
         "name": "Jaimie Buss", 
         "picture": "https://a16z.files.wordpress.com/2015/12/jamie_buss_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jaimie-buss/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3982,7 +3982,7 @@
         "name": "Jennifer Konde", 
         "picture": "https://a16z.files.wordpress.com/2015/06/jennifer_konde2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jennifer-konde/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -3994,7 +3994,7 @@
         "name": "Jessica Peterson", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380321705.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jessica-peterson/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4006,7 +4006,7 @@
         "name": "Jordan Stankowski", 
         "picture": "https://a16z.files.wordpress.com/2015/07/jordan2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jordan-stankowski/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4018,7 +4018,7 @@
         "name": "Laura Shores", 
         "picture": "https://a16z.files.wordpress.com/2015/08/laura_shores2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/laura-shores/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4030,7 +4030,7 @@
         "name": "Lauren Berson", 
         "picture": "https://a16z.files.wordpress.com/2014/10/lauren2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lauren-berson/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4042,7 +4042,7 @@
         "name": "Leila Abu-Sharr", 
         "picture": "https://a16z.files.wordpress.com/2014/02/leila4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/leila-abu-sharr/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4054,7 +4054,7 @@
         "name": "Mahesh Iyer", 
         "picture": "https://a16z.files.wordpress.com/2015/01/mahesh4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/mahesh-iyer/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4066,7 +4066,7 @@
         "name": "Marci Barbera", 
         "picture": "https://a16z.files.wordpress.com/2015/03/marci2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/marci-barbera/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4078,7 +4078,7 @@
         "name": "Mark Cranney", 
         "picture": "https://a16z.files.wordpress.com/2015/12/mark_cranney_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/mark-cranney/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4090,7 +4090,7 @@
         "name": "Mark McAndrew", 
         "picture": "https://a16z.files.wordpress.com/2015/08/mark_mcandrew3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/mark-mcandrew/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4102,7 +4102,7 @@
         "name": "McPherson Moore", 
         "picture": "https://a16z.files.wordpress.com/2016/01/mcpherson_moore1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/mcpherson-moore/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4114,7 +4114,7 @@
         "name": "Molly Grace", 
         "picture": "https://a16z.files.wordpress.com/2015/03/molly1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/molly-grace/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4126,7 +4126,7 @@
         "name": "Naithan Jones", 
         "picture": "https://a16z.files.wordpress.com/2015/03/nait1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/naithan-jones/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4138,7 +4138,7 @@
         "name": "Parker Brown", 
         "picture": "https://a16z.files.wordpress.com/2014/02/parker2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/parker-brown/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4150,7 +4150,7 @@
         "name": "Sarah Fazal", 
         "picture": "https://a16z.files.wordpress.com/2016/03/sarah_fazal2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/sarah-fazal/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4162,7 +4162,7 @@
         "name": "Sharon Chang", 
         "picture": "https://a16z.files.wordpress.com/2015/09/sharon_chang2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/sharon-chang/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4174,7 +4174,7 @@
         "name": "Stacy D\u2019Amico", 
         "picture": "https://a16z.files.wordpress.com/2015/12/stacy_damico.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/stacy-damico/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4186,7 +4186,7 @@
         "name": "Todd Lutwak", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380320994.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/todd-lutwak/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4198,7 +4198,7 @@
         "name": "Valentina Marzorati", 
         "picture": "https://a16z.files.wordpress.com/2015/03/valentina1fixed.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/valentina-marzorati/", 
-        "role": "Market Development: Accelerating time to market and matching corporate partners with emerging technology leaders."
+        "role": "market development: accelerating time to market and matching corporate partners with emerging technology leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4210,7 +4210,7 @@
         "name": "Alyssa Del Bene", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380407577.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/alyssa-del-bene/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4222,7 +4222,7 @@
         "name": "Amanda Mulay", 
         "picture": "https://a16z.files.wordpress.com/2015/03/amanda2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/amanda-mulay/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4234,7 +4234,7 @@
         "name": "Anna Soliveres", 
         "picture": "https://a16z.files.wordpress.com/2014/09/anna_s_3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/anna-soliveres/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4246,7 +4246,7 @@
         "name": "Ellen Tunoa", 
         "picture": "https://a16z.files.wordpress.com/2015/12/ellen_tunoa_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/ellen-tunoa/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4258,7 +4258,7 @@
         "name": "Emily Graff", 
         "picture": "https://a16z.files.wordpress.com/2015/06/emily_graff1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/emily-graff/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4270,7 +4270,7 @@
         "name": "Eric Thomas", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380408680.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/eric-thomas/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4282,7 +4282,7 @@
         "name": "Jessica Hansen", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380323206.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jessica-hansen/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4294,7 +4294,7 @@
         "name": "JZ Young", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380323162.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jennifer-zimmerer/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4306,7 +4306,7 @@
         "name": "Kristina Graci-deLuna", 
         "picture": "https://a16z.files.wordpress.com/2015/05/christina7.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/kristina-graci-deluna/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4318,7 +4318,7 @@
         "name": "Nigel Robinson", 
         "picture": "https://a16z.files.wordpress.com/2015/10/nigel_robinson.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/nigel-robinson/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4330,7 +4330,7 @@
         "name": "Robert Moreno", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380408538.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/robert-moreno/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4342,7 +4342,7 @@
         "name": "Shannon Schiltz", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380408402.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/shannon-callahan/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4354,7 +4354,7 @@
         "name": "Taylor McFadden", 
         "picture": "https://a16z.files.wordpress.com/2015/07/taylor5.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/taylor-mcfadden/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4366,7 +4366,7 @@
         "name": "Tina Ferguson", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380322769.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/tina-ferguson/", 
-        "role": "Technical Talent: Creating the definitive network of technical superstars, and  developing the right program to support your people."
+        "role": "technical talent: creating the definitive network of technical superstars, and  developing the right program to support your people"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4378,7 +4378,7 @@
         "name": "Caroline Horn", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380568758.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/caroline-horn/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4390,7 +4390,7 @@
         "name": "Erin Winkler", 
         "picture": "https://a16z.files.wordpress.com/2015/05/erin_winkler3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/erin-winkler/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4402,7 +4402,7 @@
         "name": "Gia Scinto", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380568971.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/gia-scinto/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4414,7 +4414,7 @@
         "name": "Jeff Stump", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380313043.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jeff-stump/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4426,7 +4426,7 @@
         "name": "Jose Guardado", 
         "picture": "https://a16z.files.wordpress.com/2015/05/jose-guardado3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jose-guardado/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4438,7 +4438,7 @@
         "name": "Matt Levy", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380389301.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/matt-levy/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4450,7 +4450,7 @@
         "name": "Matt Oberhardt", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380388812.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/matt-oberhardt/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4462,7 +4462,7 @@
         "name": "Parijat Talkad", 
         "picture": "https://a16z.files.wordpress.com/2016/03/parijat_talkad3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/parijat-talkad/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4474,7 +4474,7 @@
         "name": "Sunil Chokshi", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1382638065.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/sunil-chokshi/", 
-        "role": "Executive Talent: Connecting and counseling industry leaders."
+        "role": "executive talent: connecting and counseling industry leaders"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4486,7 +4486,7 @@
         "name": "Elizabeth Ocken", 
         "picture": "https://a16z.files.wordpress.com/2013/12/341b042b8419e1ba8b81cdd67eb43ac1.jpg?w=250&h=205&crop=1", 
         "profile": "http://a16z.com/author/elizabeth-ocken/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4498,7 +4498,7 @@
         "name": "Grace Ellis", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380565574.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/grace-ellis/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4510,7 +4510,7 @@
         "name": "Kim Milosevich", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380312391.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/kim-milosevich/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4522,7 +4522,7 @@
         "name": "Kindra Mason", 
         "picture": "https://a16z.files.wordpress.com/2015/03/kindra1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/kindra-mason/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4534,7 +4534,7 @@
         "name": "Laura Gravley", 
         "picture": "https://a16z.files.wordpress.com/2014/07/laura1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/laura-gravley/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4546,7 +4546,7 @@
         "name": "LeeAnn Caballero", 
         "picture": "https://a16z.files.wordpress.com/2016/01/leeann_caballero1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/leeann-caballero/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4558,7 +4558,7 @@
         "name": "Margit Wennmachers", 
         "picture": "https://a16z.files.wordpress.com/2015/12/margit_wennmachers.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/margit-wennmachers/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4570,7 +4570,7 @@
         "name": "Michael Copeland", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380390290.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/michael-copeland/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4582,7 +4582,7 @@
         "name": "Sonal Chokshi", 
         "picture": "https://a16z.files.wordpress.com/2014/04/sonal6.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/sonal-chokshi/", 
-        "role": "Marketing: Building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces."
+        "role": "marketing: building awareness, and offering guidance through all the brandbuilding events an entrepreneur faces"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4594,7 +4594,7 @@
         "name": "Ana Mostarac", 
         "picture": "https://a16z.files.wordpress.com/2016/04/ana_mostarac4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/ana-mostarac/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4606,7 +4606,7 @@
         "name": "Caroline Moon", 
         "picture": "https://a16z.files.wordpress.com/2016/04/caroline_moon2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/caroline-moon/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4618,7 +4618,7 @@
         "name": "Irvin Chan", 
         "picture": "https://a16z.files.wordpress.com/2015/10/irvin_chan.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/irvin-chan/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4630,7 +4630,7 @@
         "name": "Jamie McGurk", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380387902.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/jamie-mcgurk/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4642,7 +4642,7 @@
         "name": "Nicole Irvin", 
         "picture": "https://a16z.files.wordpress.com/2015/12/nicole_irvin.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/nicole-irvin/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4654,7 +4654,7 @@
         "name": "Steve McDermid", 
         "picture": "https://a16z.files.wordpress.com/2015/08/steve4.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/steve-mcdermid/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4666,7 +4666,7 @@
         "name": "Tyler Wilson", 
         "picture": "https://a16z.files.wordpress.com/2015/12/tyson_wilson1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/tyler-wilson/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4678,7 +4678,7 @@
         "name": "Vishal Amin", 
         "picture": "https://a16z.files.wordpress.com/2015/10/vishal_amin.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/vishal-amin/", 
-        "role": "Corporate Development: Helping companies plan their financial and strategic futures."
+        "role": "corporate development: helping companies plan their financial and strategic futures"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4690,7 +4690,7 @@
         "name": "Matthew Colford", 
         "picture": "https://a16z.files.wordpress.com/2016/01/matthew_colford2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/matthew-colford/", 
-        "role": "Policy and Regulatory Affairs: connecting technology companies with the resources to navigate the regulatory landscape."
+        "role": "policy and regulatory affairs: connecting technology companies with the resources to navigate the regulatory landscape"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4702,7 +4702,7 @@
         "name": "Ted Ullyot", 
         "picture": "https://a16z.files.wordpress.com/2015/04/ted_ullyot1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/ted-ullyot/", 
-        "role": "Policy and Regulatory Affairs: connecting technology companies with the resources to navigate the regulatory landscape."
+        "role": "policy and regulatory affairs: connecting technology companies with the resources to navigate the regulatory landscape"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4714,7 +4714,7 @@
         "name": "Alexis Lakes", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380317664.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/alexis-lakes/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4726,7 +4726,7 @@
         "name": "Amy Berliner", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380390509.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/amy-berliner/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4738,7 +4738,7 @@
         "name": "Arsho Avetian", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380390841.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/arsho-avetian/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4750,7 +4750,7 @@
         "name": "Christina Zeidan", 
         "picture": "https://a16z.files.wordpress.com/2015/01/christina2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/christina-zeidan/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4762,7 +4762,7 @@
         "name": "Daniel Chen", 
         "picture": "https://a16z.files.wordpress.com/2014/07/daniel8.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/daniel-chen/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4774,7 +4774,7 @@
         "name": "Dave Jagoda", 
         "picture": "https://a16z.files.wordpress.com/2015/12/david_jagoda_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/dave-jagoda/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4786,7 +4786,7 @@
         "name": "Harry Wright", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380567501.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/harry-wright/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4798,7 +4798,7 @@
         "name": "Julie Johnson", 
         "picture": "https://a16z.files.wordpress.com/2014/04/juliejohnson3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/julie-johnson/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4810,7 +4810,7 @@
         "name": "Karina Sobieski", 
         "picture": "https://a16z.files.wordpress.com/2013/12/85cbe887eade55ce4da8ee6c002d7025.jpg?w=250&h=209&crop=1", 
         "profile": "http://a16z.com/author/karina-sobieski/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4822,7 +4822,7 @@
         "name": "Katie Hemmerling", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380669253.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/katie-hemmerling/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4834,7 +4834,7 @@
         "name": "Lisa Orr", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380391061.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lisa-orr/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4846,7 +4846,7 @@
         "name": "Lisa Rosano", 
         "picture": "https://a16z.files.wordpress.com/2015/01/lisa3.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lisa-rosano/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4858,7 +4858,7 @@
         "name": "Luis Martinez", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380311553.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/luis-martinez/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4870,7 +4870,7 @@
         "name": "Marvin Zamora", 
         "picture": "https://a16z.files.wordpress.com/2015/01/marvin1.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/marvin-zamora/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4882,7 +4882,7 @@
         "name": "Megan Kristalyn", 
         "picture": "https://a16z.files.wordpress.com/2014/09/megankrystalen_6.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/megan-kristalyn/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4894,7 +4894,7 @@
         "name": "Meredith Donahue", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380318248.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/meredith-donahue/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4906,7 +4906,7 @@
         "name": "Michelle Mundy", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380404914.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/michelle-mundy/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4918,7 +4918,7 @@
         "name": "Minerva Munoz", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380317205.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/minerva-munoz/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4930,7 +4930,7 @@
         "name": "P.J. Hasleton", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380405242.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/p-j-hasleton/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4942,7 +4942,7 @@
         "name": "Robin Casey", 
         "picture": "https://a16z.files.wordpress.com/2015/12/robin_casey_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/robin-casey/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4954,7 +4954,7 @@
         "name": "Ryan Ward", 
         "picture": "https://a16z.files.wordpress.com/2014/03/ryan2.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/ryan-ward/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4966,7 +4966,7 @@
         "name": "Vivian Brooks", 
         "picture": "https://a16z.files.wordpress.com/2015/11/vivian_brooks31.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/vivian-brooks/", 
-        "role": "Operations: Ensuring a first class experience for everyone who interacts with the firm."
+        "role": "operations: ensuring a first class experience for everyone who interacts with the firm"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4978,7 +4978,7 @@
         "name": "Balaji Srinivasan", 
         "picture": "https://a16z.files.wordpress.com/2014/05/balaji14.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/balaji-srinivasan/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -4990,7 +4990,7 @@
         "name": "Bill Krause", 
         "picture": "https://a16z.files.wordpress.com/2014/02/krause8.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/bill-krause/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5002,7 +5002,7 @@
         "name": "John M. Jack", 
         "picture": "https://a16z.files.wordpress.com/2015/12/john_jack_square.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/john-m-jack/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5014,7 +5014,7 @@
         "name": "Rod Johnson", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380585016.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/rod-johnson/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5026,7 +5026,7 @@
         "name": "Shana Fisher", 
         "picture": "https://a16z.files.wordpress.com/2013/12/7f2725251dff4e216c253e80bf1197b1.jpg?w=250&h=292&crop=1", 
         "profile": "http://a16z.com/author/shana-fisher/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5038,7 +5038,7 @@
         "name": "Spencer Rascoff", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380732187.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/spencer-rascoff/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5050,7 +5050,7 @@
         "name": "Steven Sinofsky", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/steven-sinofsky/", 
-        "role": "Board Partners: Experienced operators and accomplished technologists."
+        "role": "board partners: experienced operators and accomplished technologists"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5062,7 +5062,7 @@
         "name": "Adrian Fenty", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380672863.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/adrian-fenty/", 
-        "role": "Special Advisors: Bringing to bear deep expertise."
+        "role": "special advisors: bringing to bear deep expertise"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5074,7 +5074,7 @@
         "name": "Ken Coleman", 
         "picture": "https://a16z.files.wordpress.com/2013/12/77049cec77036665c9a5d76b0f414753.jpg?w=250&h=245&crop=1", 
         "profile": "http://a16z.com/author/ken-coleman/", 
-        "role": "Special Advisors: Bringing to bear deep expertise."
+        "role": "special advisors: bringing to bear deep expertise"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5086,7 +5086,7 @@
         "name": "Lawrence Summers", 
         "picture": "https://a16z.files.wordpress.com/2013/12/asset1380575372.jpg?w=400&h=400&crop=1", 
         "profile": "http://a16z.com/author/lawrence-summers/", 
-        "role": "Special Advisors: Bringing to bear deep expertise."
+        "role": "special advisors: bringing to bear deep expertise"
       }, 
       "relations": {}, 
       "type": "Investor"
@@ -5098,7 +5098,7 @@
         "name": "Dan Boneh", 
         "picture": "https://a16z.files.wordpress.com/2015/10/boneh2.jpg?w=296&h=400&crop=1", 
         "profile": "http://a16z.com/author/dan-boneh/", 
-        "role": "Professor in Residence: Our liaison to academia helping transfers breakthrough from the lab to the market."
+        "role": "professor in residence: our liaison to academia helping transfers breakthrough from the lab to the market"
       }, 
       "relations": {}, 
       "type": "Investor"

@@ -93,7 +93,6 @@ class BaseEntityQaGenerator(object):
                 '%s are the %s of %s' % (relation_wh_type, relation_name, entity_name),
                 'list all %s of %s' % (relation_name, entity_name),
                 'show me all %s of %s' % (relation_name, entity_name),
-                'show me one %s of %s' % (relation_name, entity_name)
             ]
 
         return [

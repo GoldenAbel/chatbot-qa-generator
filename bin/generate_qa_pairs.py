@@ -14,7 +14,7 @@ qa_collector.register_generator(Job, JobQaGenerator(data_provider))
 
 qa_collector.collect_from(data_provider)
 
-print '%d QA pairs collected:' % len(qa_collector.qa_pairs)
 for qa_pair in qa_collector.qa_pairs:
     print qa_pair
+print '%d QA pairs collected!' % len(qa_collector.qa_pairs)
 

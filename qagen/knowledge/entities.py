@@ -90,16 +90,18 @@ class Job(BaseEntity):
 class Investor(BaseEntity):
 
     def get_entity_self_description(self):
-        role_description_raw = self.property_value_map['role'].lower()
+        return self.get_role_description() + \
+               ' You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.'
+
+    def get_role_description(self):
+        role_description_raw = self.property_value_map['role']
         title = self.__extract_single_term_title(role_description_raw)
         if title:
-            return '%s is a %s at Andreessen Horowitz. ' \
-                   'You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.' \
-                   % (self.property_value_map['name'], title)
+            return '%s is a %s at Andreessen Horowitz.' % (self.property_value_map['name'], title)
         else:
-            return '%s works at Andreessen Horowitz and is in charge of %s ' \
-                   'You can ask me more to show the LinkedIn profile, the picture, recent posts, etc.' \
+            return '%s works at Andreessen Horowitz and is in charge of %s.' \
                    % (self.property_value_map['name'], role_description_raw.replace(':', ','))
+
 
     @staticmethod
     def __extract_single_term_title(role_description):
@@ -157,7 +159,7 @@ Investor.entity_concept_type = ConceptType.PERSON
 Investor.property_def_map = {
     'name': EntityProperty('name', ConceptType.THING),
     'role': EntityProperty('role', ConceptType.THING),
-    'picture': EntityProperty('picture', ConceptType.THING),
+    'picture': EntityProperty('picture', ConceptType.URL),
     'profile': EntityProperty('profile', ConceptType.URL),
     'linkedin': EntityProperty('linkedin', ConceptType.URL),
 }
@@ -169,8 +171,8 @@ A16Z.property_def_map = dict(Company.property_def_map)
 A16Z.relation_def_map = dict(Company.relation_def_map)
 # additional properties and relations
 A16Z.property_def_map['contact info'] = EntityProperty('contact info', ConceptType.URL)
-A16Z.relation_def_map['portfolio'] = EntityRelation('portfolio', Company, EntityRelation.ONE_TO_MANY)
-A16Z.relation_def_map['team'] = EntityRelation('team', Investor, EntityRelation.ONE_TO_MANY)
+A16Z.relation_def_map['portfolio companies'] = EntityRelation('portfolio companies', Company, EntityRelation.ONE_TO_MANY)
+A16Z.relation_def_map['people'] = EntityRelation('people', Investor, EntityRelation.ONE_TO_MANY)
 
 def find_entity_class_by_name(entity_class_name):
     for known_entity_type in [Company, Job, Investor, A16Z]:
