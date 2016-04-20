@@ -136,7 +136,7 @@ Company.property_def_map = {
     'company_id': EntityProperty('company_id', ConceptType.THING, is_hidden=True)
 }
 Company.relation_def_map = {
-    'jobs': EntityRelation('jobs', Job, EntityRelation.ONE_TO_MANY)
+    'job openings': EntityRelation('job openings', Job, EntityRelation.ONE_TO_MANY)
 }
 
 

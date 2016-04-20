@@ -18,7 +18,7 @@ class KnowledgeDataProvider(object):
             A16Z: [],
             Company: [],
             Investor: [],
-            Job: []
+            Job: [],
         }
 
     def add_entity(self, entity_instance):

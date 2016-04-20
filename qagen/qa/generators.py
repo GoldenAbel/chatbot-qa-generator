@@ -83,20 +83,31 @@ class BaseEntityQaGenerator(object):
         relation_name = relation_def.relation_name
         entity_name = entity_instance.property_value_map['name']
 
+        related_entity_value = entity_instance.relation_value_map.get(relation_name)
+
         if relation_def.relation_type == EntityRelation.ONE_TO_ONE:
             question_texts = [
                 '%s is the %s of %s' % (relation_wh_type, relation_name, entity_name),
                 'show me the %s of %s' % (relation_name, entity_name)
             ]
+            #TODO
+            answer = 'n/a'
         else:
             question_texts = [
                 '%s are the %s of %s' % (relation_wh_type, relation_name, entity_name),
                 'list all %s of %s' % (relation_name, entity_name),
                 'show me all %s of %s' % (relation_name, entity_name),
+                'how many %s of %s' % (relation_name, entity_name),
+                'the number of %s of %s' % (relation_name, entity_name),
             ]
+            if related_entity_value:
+                example = ', '.join([single_intance.get_entity_id() for single_intance in related_entity_value][0:3])
+                answer = 'There are %d %s in total, including %s...' % (len(related_entity_value), relation_name, example)
+            else:
+                answer = "Sorry, there doesn't seem to be any."
 
         return [
-            QAPair(question_text, 'n/a', make_context_map(entity_instance))
+            QAPair(question_text, answer, make_context_map(entity_instance))
             for question_text in question_texts
         ]
 
