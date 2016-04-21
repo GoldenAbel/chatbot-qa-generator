@@ -3,7 +3,7 @@ import random
 from qagen.data_provider.knowledge_data_providers import *
 from qagen.data_provider.qa_concept_providers import *
 from qagen.qa.generators import DefaultQAPairGenerator
-from qagen.knowledge.entities import *
+from qagen.training_label.training_label_generator import TrainingLabelGenerator
 
 # data_provider = WebCrawlerKnowledgeDataProvider()
 data_provider = JsonFileKnowledgeDataProvider('data.json')
@@ -18,20 +18,13 @@ for qa_concept in concept_provider.get_all_qa_concepts():
 print '%d QA pairs collected.' % len(qa_pairs)
 
 
-is_for_training = False
-TRAINING_DATA_SAMPLE = 200
-RANKED_ANSWER_COUNT = 5
+is_for_training = True
 
 if is_for_training:
     output_path = 'qa_pairs_labeled.json'
-    # select random samples
-    output_qa_pairs = random.sample(qa_pairs, TRAINING_DATA_SAMPLE)
-
-    print 'Adding additional random answers for rank labeling...'
-    for qa_pair in output_qa_pairs:
-        random_qa_sampling = random.sample(qa_pairs, RANKED_ANSWER_COUNT)
-        for random_qa in random_qa_sampling:
-            qa_pair.add_qa_pair_with_matching_score(random_qa.question, random_qa.answer, 0)
+    print 'Generating training label...'
+    labeler = TrainingLabelGenerator(qa_pairs)
+    output_qa_pairs = labeler.generate_qa_pairs_with_training_label()
 
 else:
     output_path = 'qa_pairs_unlabeled.json'

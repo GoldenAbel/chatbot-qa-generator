@@ -66,3 +66,6 @@ venv
 
 # Pychar idea
 .idea
+
+bin/qa_pairs_labeled.json
+bin/qa_pairs_unlabeled.json

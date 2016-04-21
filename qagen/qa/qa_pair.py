@@ -1,3 +1,6 @@
+from qagen.qa.utils import tokenize_sentence, intersect_lists
+
+
 class QAConcept(object):
     """
     A QAConcept represents a group of QAPair variations asking about the same fact-based concept.
@@ -16,29 +19,65 @@ class QAConcept(object):
 
 
 class EntityClassLevelQA(QAConcept):
+
     def __init__(self, entity_class):
         super(EntityClassLevelQA, self).__init__()
         self.entity_class = entity_class
 
+    def __repr__(self):
+        return '%s.class' % self.entity_class.__name__
+
+    def get_topic_words(self):
+        return [self.entity_class.__name__]
+
 
 class EntityInstanceSelfQA(QAConcept):
+
     def __init__(self, entity_instance):
         super(EntityInstanceSelfQA, self).__init__()
         self.entity_instance = entity_instance
 
+    def __repr__(self):
+        return '%s->self' % self.entity_instance
+
+    def get_topic_words(self):
+        result = []
+        result.extend(tokenize_sentence(self.entity_instance.property_value_map['name']))
+        return result
+
 
 class EntityPropertyQA(QAConcept):
+
     def __init__(self, entity_instance, property_def):
         super(EntityPropertyQA, self).__init__()
         self.entity_instance = entity_instance
         self.property_def = property_def
 
+    def __repr__(self):
+        return '%s->%s' % (self.entity_instance, self.property_def.property_name)
+
+    def get_topic_words(self):
+        result = []
+        result.extend(tokenize_sentence(self.entity_instance.property_value_map['name']))
+        result.extend(tokenize_sentence(self.property_def.property_name))
+        return result
+
 
 class EntityRelationQA(QAConcept):
+
     def __init__(self, entity_instance, relation_def):
         super(EntityRelationQA, self).__init__()
         self.entity_instance = entity_instance
         self.relation_def = relation_def
+
+    def __repr__(self):
+        return '%s->%s' % (self.entity_instance, self.relation_def.relation_name)
+
+    def get_topic_words(self):
+        result = []
+        result.extend(tokenize_sentence(self.entity_instance.property_value_map['name']))
+        result.extend(tokenize_sentence(self.relation_def.relation_name))
+        return result
 
 
 class QAPair(object):
@@ -59,7 +98,7 @@ class QAPair(object):
         self.answer = answer
         self.context_map = context_map
         self.qa_pairs_with_matching_score = [{
-            'question': question,
+            '_question': question,
             'answer': answer,
             'score': 100
         }]
@@ -73,22 +112,28 @@ class QAPair(object):
         :param score: 0~100
         """
         self.qa_pairs_with_matching_score.append({
-            'question': question,
+            '_question': question,
             'answer': answer,
             'score': score
         })
 
     def to_json_dict(self, is_for_training=False):
         result = {
-            'question': self.question,
+            # use _question instead of question as the keyword so that they are in alphabetic order
+            '_question': self.question,
             'answer': self.answer,
             'context': self.context_map,
         }
         if is_for_training:
             result.update({
-                'question_topic_words': [],
-                'answer_topic_words': [],
+                '_question_topic_words': intersect_lists(
+                    tokenize_sentence(self.question), self.qa_concept.get_topic_words()
+                ),
+                'answer_topic_words': intersect_lists(
+                    tokenize_sentence(self.answer), self.qa_concept.get_topic_words()
+                ),
                 'qa_pairs_with_matching_score': self.qa_pairs_with_matching_score
             })
         return result
+
 
