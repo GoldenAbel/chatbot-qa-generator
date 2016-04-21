@@ -217,14 +217,14 @@
     "question": "who are the customers of 21"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "21"
     }, 
     "question": "is 21 a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "21"
     }, 
@@ -616,14 +616,14 @@
     "question": "who are the customers of 500px"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "500px"
     }, 
     "question": "is 500px a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "500px"
     }, 
@@ -1813,14 +1813,14 @@
     "question": "who are the customers of Airbnb"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Airbnb"
     }, 
     "question": "is Airbnb a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Airbnb"
     }, 
@@ -3010,14 +3010,14 @@
     "question": "who are the customers of AltSchool"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "AltSchool"
     }, 
     "question": "is AltSchool a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "AltSchool"
     }, 
@@ -3409,14 +3409,14 @@
     "question": "who are the customers of Anki"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Anki"
     }, 
     "question": "is Anki a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Anki"
     }, 
@@ -5404,14 +5404,14 @@
     "question": "who are the customers of Belly"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Belly"
     }, 
     "question": "is Belly a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Belly"
     }, 
@@ -6601,14 +6601,14 @@
     "question": "who are the customers of Boku"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Boku"
     }, 
     "question": "is Boku a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Boku"
     }, 
@@ -8197,14 +8197,14 @@
     "question": "who are the customers of Bump\u00a0Technologies"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Bump\u00a0Technologies"
     }, 
     "question": "is Bump\u00a0Technologies a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Bump\u00a0Technologies"
     }, 
@@ -8596,14 +8596,14 @@
     "question": "who are the customers of BuzzFeed"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "BuzzFeed"
     }, 
     "question": "is BuzzFeed a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "BuzzFeed"
     }, 
@@ -10990,14 +10990,14 @@
     "question": "who are the customers of Coinbase"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Coinbase"
     }, 
     "question": "is Coinbase a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Coinbase"
     }, 
@@ -11788,14 +11788,14 @@
     "question": "who are the customers of Cyanogen"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Cyanogen"
     }, 
     "question": "is Cyanogen a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Cyanogen"
     }, 
@@ -13783,14 +13783,14 @@
     "question": "who are the customers of Dwolla"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Dwolla"
     }, 
     "question": "is Dwolla a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Dwolla"
     }, 
@@ -14980,14 +14980,14 @@
     "question": "who are the customers of Facebook"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Facebook"
     }, 
     "question": "is Facebook a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Facebook"
     }, 
@@ -15778,14 +15778,14 @@
     "question": "who are the customers of Fanatics"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Fanatics"
     }, 
     "question": "is Fanatics a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Fanatics"
     }, 
@@ -16177,14 +16177,14 @@
     "question": "who are the customers of FiftyThree"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "FiftyThree"
     }, 
     "question": "is FiftyThree a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "FiftyThree"
     }, 
@@ -16975,14 +16975,14 @@
     "question": "who are the customers of Foursquare"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Foursquare"
     }, 
     "question": "is Foursquare a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Foursquare"
     }, 
@@ -18172,14 +18172,14 @@
     "question": "who are the customers of Genius"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Genius"
     }, 
     "question": "is Genius a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Genius"
     }, 
@@ -19369,14 +19369,14 @@
     "question": "who are the customers of Glow"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Glow"
     }, 
     "question": "is Glow a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Glow"
     }, 
@@ -20566,14 +20566,14 @@
     "question": "who are the customers of Groupon, Inc."
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Groupon, Inc."
     }, 
     "question": "is Groupon, Inc. a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Groupon, Inc."
     }, 
@@ -20965,14 +20965,14 @@
     "question": "who are the customers of Hem"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Hem"
     }, 
     "question": "is Hem a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Hem"
     }, 
@@ -21364,14 +21364,14 @@
     "question": "who are the customers of Honor"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Honor"
     }, 
     "question": "is Honor a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Honor"
     }, 
@@ -21763,14 +21763,14 @@
     "question": "who are the customers of IFTTT"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "IFTTT"
     }, 
     "question": "is IFTTT a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "IFTTT"
     }, 
@@ -22561,14 +22561,14 @@
     "question": "who are the customers of Imgur"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Imgur"
     }, 
     "question": "is Imgur a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Imgur"
     }, 
@@ -23359,14 +23359,14 @@
     "question": "who are the customers of Instacart"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Instacart"
     }, 
     "question": "is Instacart a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Instacart"
     }, 
@@ -24556,14 +24556,14 @@
     "question": "who are the customers of Jawbone"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Jawbone"
     }, 
     "question": "is Jawbone a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Jawbone"
     }, 
@@ -24955,14 +24955,14 @@
     "question": "who are the customers of Julep"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Julep"
     }, 
     "question": "is Julep a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Julep"
     }, 
@@ -25753,14 +25753,14 @@
     "question": "who are the customers of Keybase"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Keybase"
     }, 
     "question": "is Keybase a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Keybase"
     }, 
@@ -26152,14 +26152,14 @@
     "question": "who are the customers of Kno"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Kno"
     }, 
     "question": "is Kno a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Kno"
     }, 
@@ -26950,14 +26950,14 @@
     "question": "who are the customers of Lookout"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Lookout"
     }, 
     "question": "is Lookout a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Lookout"
     }, 
@@ -27349,14 +27349,14 @@
     "question": "who are the customers of Lyft"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Lyft"
     }, 
     "question": "is Lyft a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Lyft"
     }, 
@@ -27748,14 +27748,14 @@
     "question": "who are the customers of Lytro"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Lytro"
     }, 
     "question": "is Lytro a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Lytro"
     }, 
@@ -28147,14 +28147,14 @@
     "question": "who are the customers of Magic Leap"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Magic Leap"
     }, 
     "question": "is Magic Leap a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Magic Leap"
     }, 
@@ -29344,14 +29344,14 @@
     "question": "who are the customers of Mayvenn"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Mayvenn"
     }, 
     "question": "is Mayvenn a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Mayvenn"
     }, 
@@ -30940,14 +30940,14 @@
     "question": "who are the customers of Mori"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Mori"
     }, 
     "question": "is Mori a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Mori"
     }, 
@@ -32137,14 +32137,14 @@
     "question": "who are the customers of Oculus"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Oculus"
     }, 
     "question": "is Oculus a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Oculus"
     }, 
@@ -32536,14 +32536,14 @@
     "question": "who are the customers of OfferUp"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "OfferUp"
     }, 
     "question": "is OfferUp a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "OfferUp"
     }, 
@@ -35728,14 +35728,14 @@
     "question": "who are the customers of Pinterest"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Pinterest"
     }, 
     "question": "is Pinterest a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Pinterest"
     }, 
@@ -36526,14 +36526,14 @@
     "question": "who are the customers of ProductHunt"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "ProductHunt"
     }, 
     "question": "is ProductHunt a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "ProductHunt"
     }, 
@@ -36925,14 +36925,14 @@
     "question": "who are the customers of Quirky"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Quirky"
     }, 
     "question": "is Quirky a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Quirky"
     }, 
@@ -37324,14 +37324,14 @@
     "question": "who are the customers of Ringly"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Ringly"
     }, 
     "question": "is Ringly a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Ringly"
     }, 
@@ -37723,14 +37723,14 @@
     "question": "who are the customers of Rockmelt"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Rockmelt"
     }, 
     "question": "is Rockmelt a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Rockmelt"
     }, 
@@ -38521,14 +38521,14 @@
     "question": "who are the customers of Shapeways"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Shapeways"
     }, 
     "question": "is Shapeways a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Shapeways"
     }, 
@@ -38920,14 +38920,14 @@
     "question": "who are the customers of Shoedazzle"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Shoedazzle"
     }, 
     "question": "is Shoedazzle a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Shoedazzle"
     }, 
@@ -39718,14 +39718,14 @@
     "question": "who are the customers of Skout"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Skout"
     }, 
     "question": "is Skout a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Skout"
     }, 
@@ -40117,14 +40117,14 @@
     "question": "who are the customers of Skype,\u00a0Inc."
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Skype,\u00a0Inc."
     }, 
     "question": "is Skype,\u00a0Inc. a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Skype,\u00a0Inc."
     }, 
@@ -41314,14 +41314,14 @@
     "question": "who are the customers of Soylent"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Soylent"
     }, 
     "question": "is Soylent a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Soylent"
     }, 
@@ -42910,14 +42910,14 @@
     "question": "who are the customers of Teespring"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Teespring"
     }, 
     "question": "is Teespring a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Teespring"
     }, 
@@ -43708,14 +43708,14 @@
     "question": "who are the customers of Tilt"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Tilt"
     }, 
     "question": "is Tilt a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Tilt"
     }, 
@@ -44107,14 +44107,14 @@
     "question": "who are the customers of TinyCo"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "TinyCo"
     }, 
     "question": "is TinyCo a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "TinyCo"
     }, 
@@ -44905,14 +44905,14 @@
     "question": "who are the customers of TransferWise"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "TransferWise"
     }, 
     "question": "is TransferWise a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "TransferWise"
     }, 
@@ -45304,14 +45304,14 @@
     "question": "who are the customers of Twice"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Twice"
     }, 
     "question": "is Twice a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Twice"
     }, 
@@ -45703,14 +45703,14 @@
     "question": "who are the customers of Twitter"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Twitter"
     }, 
     "question": "is Twitter a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Twitter"
     }, 
@@ -46102,14 +46102,14 @@
     "question": "who are the customers of Udacity"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Udacity"
     }, 
     "question": "is Udacity a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Udacity"
     }, 
@@ -46900,14 +46900,14 @@
     "question": "who are the customers of Walker and Company\u00a0Brands"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Walker and Company\u00a0Brands"
     }, 
     "question": "is Walker and Company\u00a0Brands a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Walker and Company\u00a0Brands"
     }, 
@@ -47698,14 +47698,14 @@
     "question": "who are the customers of Zulily"
   }, 
   {
-    "answer": "yes", 
+    "answer": "no", 
     "context": {
       "Company": "Zulily"
     }, 
     "question": "is Zulily a 2b company"
   }, 
   {
-    "answer": "no", 
+    "answer": "yes", 
     "context": {
       "Company": "Zulily"
     }, 
@@ -90426,6 +90426,13 @@
     "question": "show me the name of Alex Rampell"
   }, 
   {
+    "answer": "Alex Rampell", 
+    "context": {
+      "Investor": "Alex Rampell"
+    }, 
+    "question": "what is Alex Rampell called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Alex Rampell is not found on the a16z.com website.", 
     "context": {
       "Investor": "Alex Rampell"
@@ -90550,6 +90557,13 @@
       "Investor": "Angela Strange"
     }, 
     "question": "show me the name of Angela Strange"
+  }, 
+  {
+    "answer": "Angela Strange", 
+    "context": {
+      "Investor": "Angela Strange"
+    }, 
+    "question": "what is Angela Strange called"
   }, 
   {
     "answer": "You can find the linkedin of Angela Strange at http://linkedin.com/in/angelastrange", 
@@ -90678,6 +90692,13 @@
     "question": "show me the name of Anu Hariharan"
   }, 
   {
+    "answer": "Anu Hariharan", 
+    "context": {
+      "Investor": "Anu Hariharan"
+    }, 
+    "question": "what is Anu Hariharan called"
+  }, 
+  {
     "answer": "You can find the linkedin of Anu Hariharan at http://www.linkedin.com/in/anuhariharan", 
     "context": {
       "Investor": "Anu Hariharan"
@@ -90802,6 +90823,13 @@
       "Investor": "Austin Guzman"
     }, 
     "question": "show me the name of Austin Guzman"
+  }, 
+  {
+    "answer": "Austin Guzman", 
+    "context": {
+      "Investor": "Austin Guzman"
+    }, 
+    "question": "what is Austin Guzman called"
   }, 
   {
     "answer": "You can find the linkedin of Austin Guzman at http://www.linkedin.com/pub/austin-guzman/1a/b61/117", 
@@ -90930,6 +90958,13 @@
     "question": "show me the name of Ben Horowitz"
   }, 
   {
+    "answer": "Ben Horowitz", 
+    "context": {
+      "Investor": "Ben Horowitz"
+    }, 
+    "question": "what is Ben Horowitz called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Ben Horowitz is not found on the a16z.com website.", 
     "context": {
       "Investor": "Ben Horowitz"
@@ -91054,6 +91089,13 @@
       "Investor": "Benedict Evans"
     }, 
     "question": "show me the name of Benedict Evans"
+  }, 
+  {
+    "answer": "Benedict Evans", 
+    "context": {
+      "Investor": "Benedict Evans"
+    }, 
+    "question": "what is Benedict Evans called"
   }, 
   {
     "answer": "Sorry the linkedin of Benedict Evans is not found on the a16z.com website.", 
@@ -91182,6 +91224,13 @@
     "question": "show me the name of Chris Dixon"
   }, 
   {
+    "answer": "Chris Dixon", 
+    "context": {
+      "Investor": "Chris Dixon"
+    }, 
+    "question": "what is Chris Dixon called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Chris Dixon is not found on the a16z.com website.", 
     "context": {
       "Investor": "Chris Dixon"
@@ -91306,6 +91355,13 @@
       "Investor": "Chris Lyons"
     }, 
     "question": "show me the name of Chris Lyons"
+  }, 
+  {
+    "answer": "Chris Lyons", 
+    "context": {
+      "Investor": "Chris Lyons"
+    }, 
+    "question": "what is Chris Lyons called"
   }, 
   {
     "answer": "You can find the linkedin of Chris Lyons at http://www.linkedin.com/in/christophermlyons/", 
@@ -91434,6 +91490,13 @@
     "question": "show me the name of Connie Chan"
   }, 
   {
+    "answer": "Connie Chan", 
+    "context": {
+      "Investor": "Connie Chan"
+    }, 
+    "question": "what is Connie Chan called"
+  }, 
+  {
     "answer": "You can find the linkedin of Connie Chan at http://www.linkedin.com/in/conniechan", 
     "context": {
       "Investor": "Connie Chan"
@@ -91558,6 +91621,13 @@
       "Investor": "Frank Chen"
     }, 
     "question": "show me the name of Frank Chen"
+  }, 
+  {
+    "answer": "Frank Chen", 
+    "context": {
+      "Investor": "Frank Chen"
+    }, 
+    "question": "what is Frank Chen called"
   }, 
   {
     "answer": "Sorry the linkedin of Frank Chen is not found on the a16z.com website.", 
@@ -91686,6 +91756,13 @@
     "question": "show me the name of Jason Franklin"
   }, 
   {
+    "answer": "Jason Franklin", 
+    "context": {
+      "Investor": "Jason Franklin"
+    }, 
+    "question": "what is Jason Franklin called"
+  }, 
+  {
     "answer": "You can find the linkedin of Jason Franklin at https://www.linkedin.com/in/jason-franklin-ph-d-bb61b41", 
     "context": {
       "Investor": "Jason Franklin"
@@ -91810,6 +91887,13 @@
       "Investor": "Jeff Jordan"
     }, 
     "question": "show me the name of Jeff Jordan"
+  }, 
+  {
+    "answer": "Jeff Jordan", 
+    "context": {
+      "Investor": "Jeff Jordan"
+    }, 
+    "question": "what is Jeff Jordan called"
   }, 
   {
     "answer": "Sorry the linkedin of Jeff Jordan is not found on the a16z.com website.", 
@@ -91938,6 +92022,13 @@
     "question": "show me the name of John O\u2019Farrell"
   }, 
   {
+    "answer": "John O\u2019Farrell", 
+    "context": {
+      "Investor": "John O\u2019Farrell"
+    }, 
+    "question": "what is John O\u2019Farrell called"
+  }, 
+  {
     "answer": "You can find the linkedin of John O\u2019Farrell at http://www.linkedin.com/pub/john-o-farrell/0/52/b72/", 
     "context": {
       "Investor": "John O\u2019Farrell"
@@ -92062,6 +92153,13 @@
       "Investor": "Juliet Nyatta"
     }, 
     "question": "show me the name of Juliet Nyatta"
+  }, 
+  {
+    "answer": "Juliet Nyatta", 
+    "context": {
+      "Investor": "Juliet Nyatta"
+    }, 
+    "question": "what is Juliet Nyatta called"
   }, 
   {
     "answer": "You can find the linkedin of Juliet Nyatta at http://www.linkedin.com/in/jnyatta", 
@@ -92190,6 +92288,13 @@
     "question": "show me the name of Kyle Russell"
   }, 
   {
+    "answer": "Kyle Russell", 
+    "context": {
+      "Investor": "Kyle Russell"
+    }, 
+    "question": "what is Kyle Russell called"
+  }, 
+  {
     "answer": "You can find the linkedin of Kyle Russell at https://www.linkedin.com/pub/kyle-russell/68/496/32a", 
     "context": {
       "Investor": "Kyle Russell"
@@ -92314,6 +92419,13 @@
       "Investor": "Lars Dalgaard"
     }, 
     "question": "show me the name of Lars Dalgaard"
+  }, 
+  {
+    "answer": "Lars Dalgaard", 
+    "context": {
+      "Investor": "Lars Dalgaard"
+    }, 
+    "question": "what is Lars Dalgaard called"
   }, 
   {
     "answer": "Sorry the linkedin of Lars Dalgaard is not found on the a16z.com website.", 
@@ -92442,6 +92554,13 @@
     "question": "show me the name of LJ Erwin"
   }, 
   {
+    "answer": "LJ Erwin", 
+    "context": {
+      "Investor": "LJ Erwin"
+    }, 
+    "question": "what is LJ Erwin called"
+  }, 
+  {
     "answer": "You can find the linkedin of LJ Erwin at https://www.linkedin.com/in/larryerwin", 
     "context": {
       "Investor": "LJ Erwin"
@@ -92566,6 +92685,13 @@
       "Investor": "Malinka Walaliyadde"
     }, 
     "question": "show me the name of Malinka Walaliyadde"
+  }, 
+  {
+    "answer": "Malinka Walaliyadde", 
+    "context": {
+      "Investor": "Malinka Walaliyadde"
+    }, 
+    "question": "what is Malinka Walaliyadde called"
   }, 
   {
     "answer": "You can find the linkedin of Malinka Walaliyadde at http://www.linkedin.com/in/malinkawalaliyadde", 
@@ -92694,6 +92820,13 @@
     "question": "show me the name of Marc Andreessen"
   }, 
   {
+    "answer": "Marc Andreessen", 
+    "context": {
+      "Investor": "Marc Andreessen"
+    }, 
+    "question": "what is Marc Andreessen called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Marc Andreessen is not found on the a16z.com website.", 
     "context": {
       "Investor": "Marc Andreessen"
@@ -92818,6 +92951,13 @@
       "Investor": "Morgan Bender"
     }, 
     "question": "show me the name of Morgan Bender"
+  }, 
+  {
+    "answer": "Morgan Bender", 
+    "context": {
+      "Investor": "Morgan Bender"
+    }, 
+    "question": "what is Morgan Bender called"
   }, 
   {
     "answer": "You can find the linkedin of Morgan Bender at http://www.linkedin.com/in/morganbender/", 
@@ -92946,6 +93086,13 @@
     "question": "show me the name of Peter Levine"
   }, 
   {
+    "answer": "Peter Levine", 
+    "context": {
+      "Investor": "Peter Levine"
+    }, 
+    "question": "what is Peter Levine called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Peter Levine is not found on the a16z.com website.", 
     "context": {
       "Investor": "Peter Levine"
@@ -93070,6 +93217,13 @@
       "Investor": "Saku Panditharatne"
     }, 
     "question": "show me the name of Saku Panditharatne"
+  }, 
+  {
+    "answer": "Saku Panditharatne", 
+    "context": {
+      "Investor": "Saku Panditharatne"
+    }, 
+    "question": "what is Saku Panditharatne called"
   }, 
   {
     "answer": "You can find the linkedin of Saku Panditharatne at https://www.linkedin.com/in/sakunthala-panditharatne-82315ba4", 
@@ -93198,6 +93352,13 @@
     "question": "show me the name of Scott Kupor"
   }, 
   {
+    "answer": "Scott Kupor", 
+    "context": {
+      "Investor": "Scott Kupor"
+    }, 
+    "question": "what is Scott Kupor called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Scott Kupor is not found on the a16z.com website.", 
     "context": {
       "Investor": "Scott Kupor"
@@ -93322,6 +93483,13 @@
       "Investor": "Scott Weiss"
     }, 
     "question": "show me the name of Scott Weiss"
+  }, 
+  {
+    "answer": "Scott Weiss", 
+    "context": {
+      "Investor": "Scott Weiss"
+    }, 
+    "question": "what is Scott Weiss called"
   }, 
   {
     "answer": "Sorry the linkedin of Scott Weiss is not found on the a16z.com website.", 
@@ -93450,6 +93618,13 @@
     "question": "show me the name of Vijay Pande"
   }, 
   {
+    "answer": "Vijay Pande", 
+    "context": {
+      "Investor": "Vijay Pande"
+    }, 
+    "question": "what is Vijay Pande called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Vijay Pande is not found on the a16z.com website.", 
     "context": {
       "Investor": "Vijay Pande"
@@ -93574,6 +93749,13 @@
       "Investor": "Amy Kalokerinos"
     }, 
     "question": "show me the name of Amy Kalokerinos"
+  }, 
+  {
+    "answer": "Amy Kalokerinos", 
+    "context": {
+      "Investor": "Amy Kalokerinos"
+    }, 
+    "question": "what is Amy Kalokerinos called"
   }, 
   {
     "answer": "You can find the linkedin of Amy Kalokerinos at https://uk.linkedin.com/pub/amy-kalokerinos/9/250/243", 
@@ -93702,6 +93884,13 @@
     "question": "show me the name of Brad Kern"
   }, 
   {
+    "answer": "Brad Kern", 
+    "context": {
+      "Investor": "Brad Kern"
+    }, 
+    "question": "what is Brad Kern called"
+  }, 
+  {
     "answer": "You can find the linkedin of Brad Kern at http://www.linkedin.com/pub/brad-kern/0/395/274/en", 
     "context": {
       "Investor": "Brad Kern"
@@ -93826,6 +94015,13 @@
       "Investor": "Caitlin Roberson"
     }, 
     "question": "show me the name of Caitlin Roberson"
+  }, 
+  {
+    "answer": "Caitlin Roberson", 
+    "context": {
+      "Investor": "Caitlin Roberson"
+    }, 
+    "question": "what is Caitlin Roberson called"
   }, 
   {
     "answer": "You can find the linkedin of Caitlin Roberson at https://www.linkedin.com/in/caitlinroberson", 
@@ -93954,6 +94150,13 @@
     "question": "show me the name of Dalton Turay"
   }, 
   {
+    "answer": "Dalton Turay", 
+    "context": {
+      "Investor": "Dalton Turay"
+    }, 
+    "question": "what is Dalton Turay called"
+  }, 
+  {
     "answer": "You can find the linkedin of Dalton Turay at https://www.linkedin.com/pub/dalton-turay/62/9a5/83", 
     "context": {
       "Investor": "Dalton Turay"
@@ -94078,6 +94281,13 @@
       "Investor": "Erika Herrera"
     }, 
     "question": "show me the name of Erika Herrera"
+  }, 
+  {
+    "answer": "Erika Herrera", 
+    "context": {
+      "Investor": "Erika Herrera"
+    }, 
+    "question": "what is Erika Herrera called"
   }, 
   {
     "answer": "You can find the linkedin of Erika Herrera at http://www.linkedin.com/pub/erika-herrera/60/721/299", 
@@ -94206,6 +94416,13 @@
     "question": "show me the name of Erin Grody Kingsley"
   }, 
   {
+    "answer": "Erin Grody Kingsley", 
+    "context": {
+      "Investor": "Erin Grody Kingsley"
+    }, 
+    "question": "what is Erin Grody Kingsley called"
+  }, 
+  {
     "answer": "You can find the linkedin of Erin Grody Kingsley at http://www.linkedin.com/pub/erin-r-grody/4a/a23/1aa/", 
     "context": {
       "Investor": "Erin Grody Kingsley"
@@ -94330,6 +94547,13 @@
       "Investor": "Jaimie Buss"
     }, 
     "question": "show me the name of Jaimie Buss"
+  }, 
+  {
+    "answer": "Jaimie Buss", 
+    "context": {
+      "Investor": "Jaimie Buss"
+    }, 
+    "question": "what is Jaimie Buss called"
   }, 
   {
     "answer": "You can find the linkedin of Jaimie Buss at http://www.linkedin.com/in/jaimiebuss", 
@@ -94458,6 +94682,13 @@
     "question": "show me the name of Jennifer Konde"
   }, 
   {
+    "answer": "Jennifer Konde", 
+    "context": {
+      "Investor": "Jennifer Konde"
+    }, 
+    "question": "what is Jennifer Konde called"
+  }, 
+  {
     "answer": "You can find the linkedin of Jennifer Konde at https://www.linkedin.com/in/jenniferkonde", 
     "context": {
       "Investor": "Jennifer Konde"
@@ -94582,6 +94813,13 @@
       "Investor": "Jessica Peterson"
     }, 
     "question": "show me the name of Jessica Peterson"
+  }, 
+  {
+    "answer": "Jessica Peterson", 
+    "context": {
+      "Investor": "Jessica Peterson"
+    }, 
+    "question": "what is Jessica Peterson called"
   }, 
   {
     "answer": "You can find the linkedin of Jessica Peterson at http://www.linkedin.com/pub/jessica-peterson/64/b32/b7a", 
@@ -94710,6 +94948,13 @@
     "question": "show me the name of Jordan Stankowski"
   }, 
   {
+    "answer": "Jordan Stankowski", 
+    "context": {
+      "Investor": "Jordan Stankowski"
+    }, 
+    "question": "what is Jordan Stankowski called"
+  }, 
+  {
     "answer": "You can find the linkedin of Jordan Stankowski at https://www.linkedin.com/in/jordanstankowski", 
     "context": {
       "Investor": "Jordan Stankowski"
@@ -94834,6 +95079,13 @@
       "Investor": "Laura Shores"
     }, 
     "question": "show me the name of Laura Shores"
+  }, 
+  {
+    "answer": "Laura Shores", 
+    "context": {
+      "Investor": "Laura Shores"
+    }, 
+    "question": "what is Laura Shores called"
   }, 
   {
     "answer": "You can find the linkedin of Laura Shores at https://www.linkedin.com/in/laurashores", 
@@ -94962,6 +95214,13 @@
     "question": "show me the name of Lauren Berson"
   }, 
   {
+    "answer": "Lauren Berson", 
+    "context": {
+      "Investor": "Lauren Berson"
+    }, 
+    "question": "what is Lauren Berson called"
+  }, 
+  {
     "answer": "You can find the linkedin of Lauren Berson at http://www.linkedin.com/in/laurenberson", 
     "context": {
       "Investor": "Lauren Berson"
@@ -95086,6 +95345,13 @@
       "Investor": "Leila Abu-Sharr"
     }, 
     "question": "show me the name of Leila Abu-Sharr"
+  }, 
+  {
+    "answer": "Leila Abu-Sharr", 
+    "context": {
+      "Investor": "Leila Abu-Sharr"
+    }, 
+    "question": "what is Leila Abu-Sharr called"
   }, 
   {
     "answer": "You can find the linkedin of Leila Abu-Sharr at http://www.linkedin.com/pub/leila-abu-sharr/53/802/a40", 
@@ -95214,6 +95480,13 @@
     "question": "show me the name of Mahesh Iyer"
   }, 
   {
+    "answer": "Mahesh Iyer", 
+    "context": {
+      "Investor": "Mahesh Iyer"
+    }, 
+    "question": "what is Mahesh Iyer called"
+  }, 
+  {
     "answer": "You can find the linkedin of Mahesh Iyer at https://www.linkedin.com/in/maheshiyer", 
     "context": {
       "Investor": "Mahesh Iyer"
@@ -95338,6 +95611,13 @@
       "Investor": "Marci Barbera"
     }, 
     "question": "show me the name of Marci Barbera"
+  }, 
+  {
+    "answer": "Marci Barbera", 
+    "context": {
+      "Investor": "Marci Barbera"
+    }, 
+    "question": "what is Marci Barbera called"
   }, 
   {
     "answer": "You can find the linkedin of Marci Barbera at https://www.linkedin.com/pub/marci-barbera/1/217/908", 
@@ -95466,6 +95746,13 @@
     "question": "show me the name of Mark Cranney"
   }, 
   {
+    "answer": "Mark Cranney", 
+    "context": {
+      "Investor": "Mark Cranney"
+    }, 
+    "question": "what is Mark Cranney called"
+  }, 
+  {
     "answer": "You can find the linkedin of Mark Cranney at http://www.linkedin.com/pub/mark-cranney/0/925/a61", 
     "context": {
       "Investor": "Mark Cranney"
@@ -95590,6 +95877,13 @@
       "Investor": "Mark McAndrew"
     }, 
     "question": "show me the name of Mark McAndrew"
+  }, 
+  {
+    "answer": "Mark McAndrew", 
+    "context": {
+      "Investor": "Mark McAndrew"
+    }, 
+    "question": "what is Mark McAndrew called"
   }, 
   {
     "answer": "You can find the linkedin of Mark McAndrew at http://www.linkedin.com/pub/mark-mcandrew/7/b60/b76", 
@@ -95718,6 +96012,13 @@
     "question": "show me the name of McPherson Moore"
   }, 
   {
+    "answer": "McPherson Moore", 
+    "context": {
+      "Investor": "McPherson Moore"
+    }, 
+    "question": "what is McPherson Moore called"
+  }, 
+  {
     "answer": "You can find the linkedin of McPherson Moore at https://www.linkedin.com/in/mcpherson-moore-48831175", 
     "context": {
       "Investor": "McPherson Moore"
@@ -95842,6 +96143,13 @@
       "Investor": "Molly Grace"
     }, 
     "question": "show me the name of Molly Grace"
+  }, 
+  {
+    "answer": "Molly Grace", 
+    "context": {
+      "Investor": "Molly Grace"
+    }, 
+    "question": "what is Molly Grace called"
   }, 
   {
     "answer": "You can find the linkedin of Molly Grace at http://www.linkedin.com/pub/molly-grace/47/177/2b2/", 
@@ -95970,6 +96278,13 @@
     "question": "show me the name of Naithan Jones"
   }, 
   {
+    "answer": "Naithan Jones", 
+    "context": {
+      "Investor": "Naithan Jones"
+    }, 
+    "question": "what is Naithan Jones called"
+  }, 
+  {
     "answer": "You can find the linkedin of Naithan Jones at http://www.linkedin.com/in/naithanjones/en", 
     "context": {
       "Investor": "Naithan Jones"
@@ -96094,6 +96409,13 @@
       "Investor": "Parker Brown"
     }, 
     "question": "show me the name of Parker Brown"
+  }, 
+  {
+    "answer": "Parker Brown", 
+    "context": {
+      "Investor": "Parker Brown"
+    }, 
+    "question": "what is Parker Brown called"
   }, 
   {
     "answer": "You can find the linkedin of Parker Brown at http://www.linkedin.com/pub/parker-brown/20/5a/694/", 
@@ -96222,6 +96544,13 @@
     "question": "show me the name of Sarah Fazal"
   }, 
   {
+    "answer": "Sarah Fazal", 
+    "context": {
+      "Investor": "Sarah Fazal"
+    }, 
+    "question": "what is Sarah Fazal called"
+  }, 
+  {
     "answer": "You can find the linkedin of Sarah Fazal at https://www.linkedin.com/in/sarah-fazal-91442966", 
     "context": {
       "Investor": "Sarah Fazal"
@@ -96346,6 +96675,13 @@
       "Investor": "Sharon Chang"
     }, 
     "question": "show me the name of Sharon Chang"
+  }, 
+  {
+    "answer": "Sharon Chang", 
+    "context": {
+      "Investor": "Sharon Chang"
+    }, 
+    "question": "what is Sharon Chang called"
   }, 
   {
     "answer": "You can find the linkedin of Sharon Chang at https://www.linkedin.com/in/schang", 
@@ -96474,6 +96810,13 @@
     "question": "show me the name of Stacy D\u2019Amico"
   }, 
   {
+    "answer": "Stacy D\u2019Amico", 
+    "context": {
+      "Investor": "Stacy D\u2019Amico"
+    }, 
+    "question": "what is Stacy D\u2019Amico called"
+  }, 
+  {
     "answer": "You can find the linkedin of Stacy D\u2019Amico at http://www.linkedin.com/in/stacydamico", 
     "context": {
       "Investor": "Stacy D\u2019Amico"
@@ -96598,6 +96941,13 @@
       "Investor": "Todd Lutwak"
     }, 
     "question": "show me the name of Todd Lutwak"
+  }, 
+  {
+    "answer": "Todd Lutwak", 
+    "context": {
+      "Investor": "Todd Lutwak"
+    }, 
+    "question": "what is Todd Lutwak called"
   }, 
   {
     "answer": "Sorry the linkedin of Todd Lutwak is not found on the a16z.com website.", 
@@ -96726,6 +97076,13 @@
     "question": "show me the name of Valentina Marzorati"
   }, 
   {
+    "answer": "Valentina Marzorati", 
+    "context": {
+      "Investor": "Valentina Marzorati"
+    }, 
+    "question": "what is Valentina Marzorati called"
+  }, 
+  {
     "answer": "You can find the linkedin of Valentina Marzorati at https://www.linkedin.com/pub/valentina-marzorati/4a/6b7/287", 
     "context": {
       "Investor": "Valentina Marzorati"
@@ -96850,6 +97207,13 @@
       "Investor": "Alyssa Del Bene"
     }, 
     "question": "show me the name of Alyssa Del Bene"
+  }, 
+  {
+    "answer": "Alyssa Del Bene", 
+    "context": {
+      "Investor": "Alyssa Del Bene"
+    }, 
+    "question": "what is Alyssa Del Bene called"
   }, 
   {
     "answer": "You can find the linkedin of Alyssa Del Bene at http://www.linkedin.com/pub/alyssa-del-bene/42/646/64b/", 
@@ -96978,6 +97342,13 @@
     "question": "show me the name of Amanda Mulay"
   }, 
   {
+    "answer": "Amanda Mulay", 
+    "context": {
+      "Investor": "Amanda Mulay"
+    }, 
+    "question": "what is Amanda Mulay called"
+  }, 
+  {
     "answer": "You can find the linkedin of Amanda Mulay at http://www.linkedin.com/pub/amanda-mulay/32/497/7a3/en", 
     "context": {
       "Investor": "Amanda Mulay"
@@ -97102,6 +97473,13 @@
       "Investor": "Anna Soliveres"
     }, 
     "question": "show me the name of Anna Soliveres"
+  }, 
+  {
+    "answer": "Anna Soliveres", 
+    "context": {
+      "Investor": "Anna Soliveres"
+    }, 
+    "question": "what is Anna Soliveres called"
   }, 
   {
     "answer": "You can find the linkedin of Anna Soliveres at http://www.linkedin.com/pub/anna-soliveres/8/172/a35", 
@@ -97230,6 +97608,13 @@
     "question": "show me the name of Ellen Tunoa"
   }, 
   {
+    "answer": "Ellen Tunoa", 
+    "context": {
+      "Investor": "Ellen Tunoa"
+    }, 
+    "question": "what is Ellen Tunoa called"
+  }, 
+  {
     "answer": "You can find the linkedin of Ellen Tunoa at http://www.linkedin.com/in/ellenltunoa/", 
     "context": {
       "Investor": "Ellen Tunoa"
@@ -97354,6 +97739,13 @@
       "Investor": "Emily Graff"
     }, 
     "question": "show me the name of Emily Graff"
+  }, 
+  {
+    "answer": "Emily Graff", 
+    "context": {
+      "Investor": "Emily Graff"
+    }, 
+    "question": "what is Emily Graff called"
   }, 
   {
     "answer": "You can find the linkedin of Emily Graff at https://www.linkedin.com/in/emilygraff", 
@@ -97482,6 +97874,13 @@
     "question": "show me the name of Eric Thomas"
   }, 
   {
+    "answer": "Eric Thomas", 
+    "context": {
+      "Investor": "Eric Thomas"
+    }, 
+    "question": "what is Eric Thomas called"
+  }, 
+  {
     "answer": "You can find the linkedin of Eric Thomas at http://www.linkedin.com/in/ericthomas99/", 
     "context": {
       "Investor": "Eric Thomas"
@@ -97606,6 +98005,13 @@
       "Investor": "Jessica Hansen"
     }, 
     "question": "show me the name of Jessica Hansen"
+  }, 
+  {
+    "answer": "Jessica Hansen", 
+    "context": {
+      "Investor": "Jessica Hansen"
+    }, 
+    "question": "what is Jessica Hansen called"
   }, 
   {
     "answer": "You can find the linkedin of Jessica Hansen at http://www.linkedin.com/in/jessicaleighhansen/", 
@@ -97734,6 +98140,13 @@
     "question": "show me the name of JZ Young"
   }, 
   {
+    "answer": "JZ Young", 
+    "context": {
+      "Investor": "JZ Young"
+    }, 
+    "question": "what is JZ Young called"
+  }, 
+  {
     "answer": "You can find the linkedin of JZ Young at http://www.linkedin.com/in/jenzimmerer", 
     "context": {
       "Investor": "JZ Young"
@@ -97858,6 +98271,13 @@
       "Investor": "Kristina Graci-deLuna"
     }, 
     "question": "show me the name of Kristina Graci-deLuna"
+  }, 
+  {
+    "answer": "Kristina Graci-deLuna", 
+    "context": {
+      "Investor": "Kristina Graci-deLuna"
+    }, 
+    "question": "what is Kristina Graci-deLuna called"
   }, 
   {
     "answer": "You can find the linkedin of Kristina Graci-deLuna at https://www.linkedin.com/pub/kristina-graci-deluna/0/335/a0b", 
@@ -97986,6 +98406,13 @@
     "question": "show me the name of Nigel Robinson"
   }, 
   {
+    "answer": "Nigel Robinson", 
+    "context": {
+      "Investor": "Nigel Robinson"
+    }, 
+    "question": "what is Nigel Robinson called"
+  }, 
+  {
     "answer": "You can find the linkedin of Nigel Robinson at https://www.linkedin.com/pub/nigel-robinson/a3/494/32b", 
     "context": {
       "Investor": "Nigel Robinson"
@@ -98110,6 +98537,13 @@
       "Investor": "Robert Moreno"
     }, 
     "question": "show me the name of Robert Moreno"
+  }, 
+  {
+    "answer": "Robert Moreno", 
+    "context": {
+      "Investor": "Robert Moreno"
+    }, 
+    "question": "what is Robert Moreno called"
   }, 
   {
     "answer": "You can find the linkedin of Robert Moreno at http://www.linkedin.com/pub/robert-moreno/0/334/8b9", 
@@ -98238,6 +98672,13 @@
     "question": "show me the name of Shannon Schiltz"
   }, 
   {
+    "answer": "Shannon Schiltz", 
+    "context": {
+      "Investor": "Shannon Schiltz"
+    }, 
+    "question": "what is Shannon Schiltz called"
+  }, 
+  {
     "answer": "You can find the linkedin of Shannon Schiltz at http://www.linkedin.com/pub/shannon-callahan/0/a6/49a", 
     "context": {
       "Investor": "Shannon Schiltz"
@@ -98362,6 +98803,13 @@
       "Investor": "Taylor McFadden"
     }, 
     "question": "show me the name of Taylor McFadden"
+  }, 
+  {
+    "answer": "Taylor McFadden", 
+    "context": {
+      "Investor": "Taylor McFadden"
+    }, 
+    "question": "what is Taylor McFadden called"
   }, 
   {
     "answer": "You can find the linkedin of Taylor McFadden at //www.linkedin.com/in/taylormcfadden", 
@@ -98490,6 +98938,13 @@
     "question": "show me the name of Tina Ferguson"
   }, 
   {
+    "answer": "Tina Ferguson", 
+    "context": {
+      "Investor": "Tina Ferguson"
+    }, 
+    "question": "what is Tina Ferguson called"
+  }, 
+  {
     "answer": "You can find the linkedin of Tina Ferguson at http://www.linkedin.com/pub/tina-ferguson/2/2a5/510", 
     "context": {
       "Investor": "Tina Ferguson"
@@ -98614,6 +99069,13 @@
       "Investor": "Caroline Horn"
     }, 
     "question": "show me the name of Caroline Horn"
+  }, 
+  {
+    "answer": "Caroline Horn", 
+    "context": {
+      "Investor": "Caroline Horn"
+    }, 
+    "question": "what is Caroline Horn called"
   }, 
   {
     "answer": "You can find the linkedin of Caroline Horn at http://www.linkedin.com/in/carolinehorn", 
@@ -98742,6 +99204,13 @@
     "question": "show me the name of Erin Winkler"
   }, 
   {
+    "answer": "Erin Winkler", 
+    "context": {
+      "Investor": "Erin Winkler"
+    }, 
+    "question": "what is Erin Winkler called"
+  }, 
+  {
     "answer": "You can find the linkedin of Erin Winkler at https://www.linkedin.com/in/erinwinkler", 
     "context": {
       "Investor": "Erin Winkler"
@@ -98866,6 +99335,13 @@
       "Investor": "Gia Scinto"
     }, 
     "question": "show me the name of Gia Scinto"
+  }, 
+  {
+    "answer": "Gia Scinto", 
+    "context": {
+      "Investor": "Gia Scinto"
+    }, 
+    "question": "what is Gia Scinto called"
   }, 
   {
     "answer": "You can find the linkedin of Gia Scinto at http://www.linkedin.com/pub/gia-scinto/1/14b/b86/", 
@@ -98994,6 +99470,13 @@
     "question": "show me the name of Jeff Stump"
   }, 
   {
+    "answer": "Jeff Stump", 
+    "context": {
+      "Investor": "Jeff Stump"
+    }, 
+    "question": "what is Jeff Stump called"
+  }, 
+  {
     "answer": "You can find the linkedin of Jeff Stump at http://www.linkedin.com/pub/jeff-stump/0/171/9a0", 
     "context": {
       "Investor": "Jeff Stump"
@@ -99118,6 +99601,13 @@
       "Investor": "Jose Guardado"
     }, 
     "question": "show me the name of Jose Guardado"
+  }, 
+  {
+    "answer": "Jose Guardado", 
+    "context": {
+      "Investor": "Jose Guardado"
+    }, 
+    "question": "what is Jose Guardado called"
   }, 
   {
     "answer": "You can find the linkedin of Jose Guardado at https://www.linkedin.com/in/joseguardado", 
@@ -99246,6 +99736,13 @@
     "question": "show me the name of Matt Levy"
   }, 
   {
+    "answer": "Matt Levy", 
+    "context": {
+      "Investor": "Matt Levy"
+    }, 
+    "question": "what is Matt Levy called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Matt Levy is not found on the a16z.com website.", 
     "context": {
       "Investor": "Matt Levy"
@@ -99370,6 +99867,13 @@
       "Investor": "Matt Oberhardt"
     }, 
     "question": "show me the name of Matt Oberhardt"
+  }, 
+  {
+    "answer": "Matt Oberhardt", 
+    "context": {
+      "Investor": "Matt Oberhardt"
+    }, 
+    "question": "what is Matt Oberhardt called"
   }, 
   {
     "answer": "You can find the linkedin of Matt Oberhardt at http://www.linkedin.com/in/mattoberhardt", 
@@ -99498,6 +100002,13 @@
     "question": "show me the name of Parijat Talkad"
   }, 
   {
+    "answer": "Parijat Talkad", 
+    "context": {
+      "Investor": "Parijat Talkad"
+    }, 
+    "question": "what is Parijat Talkad called"
+  }, 
+  {
     "answer": "You can find the linkedin of Parijat Talkad at https://www.linkedin.com/in/parijattannatalkad", 
     "context": {
       "Investor": "Parijat Talkad"
@@ -99622,6 +100133,13 @@
       "Investor": "Sunil Chokshi"
     }, 
     "question": "show me the name of Sunil Chokshi"
+  }, 
+  {
+    "answer": "Sunil Chokshi", 
+    "context": {
+      "Investor": "Sunil Chokshi"
+    }, 
+    "question": "what is Sunil Chokshi called"
   }, 
   {
     "answer": "You can find the linkedin of Sunil Chokshi at http://www.linkedin.com/in/sunilchokshi", 
@@ -99750,6 +100268,13 @@
     "question": "show me the name of Elizabeth Ocken"
   }, 
   {
+    "answer": "Elizabeth Ocken", 
+    "context": {
+      "Investor": "Elizabeth Ocken"
+    }, 
+    "question": "what is Elizabeth Ocken called"
+  }, 
+  {
     "answer": "You can find the linkedin of Elizabeth Ocken at http://www.linkedin.com/pub/elizabeth-ocken/4/61b/ba1", 
     "context": {
       "Investor": "Elizabeth Ocken"
@@ -99874,6 +100399,13 @@
       "Investor": "Grace Ellis"
     }, 
     "question": "show me the name of Grace Ellis"
+  }, 
+  {
+    "answer": "Grace Ellis", 
+    "context": {
+      "Investor": "Grace Ellis"
+    }, 
+    "question": "what is Grace Ellis called"
   }, 
   {
     "answer": "You can find the linkedin of Grace Ellis at http://www.linkedin.com/pub/grace-ellis/2/812/9b1", 
@@ -100002,6 +100534,13 @@
     "question": "show me the name of Kim Milosevich"
   }, 
   {
+    "answer": "Kim Milosevich", 
+    "context": {
+      "Investor": "Kim Milosevich"
+    }, 
+    "question": "what is Kim Milosevich called"
+  }, 
+  {
     "answer": "You can find the linkedin of Kim Milosevich at http://www.linkedin.com/in/kimmilosevich", 
     "context": {
       "Investor": "Kim Milosevich"
@@ -100126,6 +100665,13 @@
       "Investor": "Kindra Mason"
     }, 
     "question": "show me the name of Kindra Mason"
+  }, 
+  {
+    "answer": "Kindra Mason", 
+    "context": {
+      "Investor": "Kindra Mason"
+    }, 
+    "question": "what is Kindra Mason called"
   }, 
   {
     "answer": "You can find the linkedin of Kindra Mason at http://www.linkedin.com/in/kindramason/en", 
@@ -100254,6 +100800,13 @@
     "question": "show me the name of Laura Gravley"
   }, 
   {
+    "answer": "Laura Gravley", 
+    "context": {
+      "Investor": "Laura Gravley"
+    }, 
+    "question": "what is Laura Gravley called"
+  }, 
+  {
     "answer": "You can find the linkedin of Laura Gravley at https://www.linkedin.com/in/lauragravley", 
     "context": {
       "Investor": "Laura Gravley"
@@ -100378,6 +100931,13 @@
       "Investor": "LeeAnn Caballero"
     }, 
     "question": "show me the name of LeeAnn Caballero"
+  }, 
+  {
+    "answer": "LeeAnn Caballero", 
+    "context": {
+      "Investor": "LeeAnn Caballero"
+    }, 
+    "question": "what is LeeAnn Caballero called"
   }, 
   {
     "answer": "Sorry the linkedin of LeeAnn Caballero is not found on the a16z.com website.", 
@@ -100506,6 +101066,13 @@
     "question": "show me the name of Margit Wennmachers"
   }, 
   {
+    "answer": "Margit Wennmachers", 
+    "context": {
+      "Investor": "Margit Wennmachers"
+    }, 
+    "question": "what is Margit Wennmachers called"
+  }, 
+  {
     "answer": "You can find the linkedin of Margit Wennmachers at http://www.linkedin.com/pub/margit-wennmachers/0/b18/613/", 
     "context": {
       "Investor": "Margit Wennmachers"
@@ -100630,6 +101197,13 @@
       "Investor": "Michael Copeland"
     }, 
     "question": "show me the name of Michael Copeland"
+  }, 
+  {
+    "answer": "Michael Copeland", 
+    "context": {
+      "Investor": "Michael Copeland"
+    }, 
+    "question": "what is Michael Copeland called"
   }, 
   {
     "answer": "You can find the linkedin of Michael Copeland at http://www.linkedin.com/in/mcopeland", 
@@ -100758,6 +101332,13 @@
     "question": "show me the name of Sonal Chokshi"
   }, 
   {
+    "answer": "Sonal Chokshi", 
+    "context": {
+      "Investor": "Sonal Chokshi"
+    }, 
+    "question": "what is Sonal Chokshi called"
+  }, 
+  {
     "answer": "Sorry the linkedin of Sonal Chokshi is not found on the a16z.com website.", 
     "context": {
       "Investor": "Sonal Chokshi"
@@ -100882,6 +101463,13 @@
       "Investor": "Ana Mostarac"
     }, 
     "question": "show me the name of Ana Mostarac"
+  }, 
+  {
+    "answer": "Ana Mostarac", 
+    "context": {
+      "Investor": "Ana Mostarac"
+    }, 
+    "question": "what is Ana Mostarac called"
   }, 
   {
     "answer": "You can find the linkedin of Ana Mostarac at https://www.linkedin.com/in/anamostarac", 
@@ -101010,6 +101598,13 @@
     "question": "show me the name of Caroline Moon"
   }, 
   {
+    "answer": "Caroline Moon", 
+    "context": {
+      "Investor": "Caroline Moon"
+    }, 
+    "question": "what is Caroline Moon called"
+  }, 
+  {
     "answer": "You can find the linkedin of Caroline Moon at https://www.linkedin.com/in/carolinemoon", 
     "context": {
       "Investor": "Caroline Moon"
@@ -101134,6 +101729,13 @@
       "Investor": "Irvin Chan"
     }, 
     "question": "show me the name of Irvin Chan"
+  }, 
+  {
+    "answer": "Irvin Chan", 
+    "context": {
+      "Investor": "Irvin Chan"
+    }, 
+    "question": "what is Irvin Chan called"
   }, 
   {
     "answer": "You can find the linkedin of Irvin Chan at https://www.linkedin.com/in/irvinchan", 
@@ -101262,6 +101864,13 @@
     "question": "show me the name of Jamie McGurk"
   }, 
   {
+    "answer": "Jamie McGurk", 
+    "context": {
+      "Investor": "Jamie McGurk"
+    }, 
+    "question": "what is Jamie McGurk called"
+  }, 
+  {
     "answer": "You can find the linkedin of Jamie McGurk at http://www.linkedin.com/in/mcgurk", 
     "context": {
       "Investor": "Jamie McGurk"
@@ -101386,6 +101995,13 @@
       "Investor": "Nicole Irvin"
     }, 
     "question": "show me the name of Nicole Irvin"
+  }, 
+  {
+    "answer": "Nicole Irvin", 
+    "context": {
+      "Investor": "Nicole Irvin"
+    }, 
+    "question": "what is Nicole Irvin called"
   }, 
   {
     "answer": "You can find the linkedin of Nicole Irvin at https://www.linkedin.com/in/nicole-irvin-13a4bb3", 
@@ -101514,6 +102130,13 @@
     "question": "show me the name of Steve McDermid"
   }, 
   {
+    "answer": "Steve McDermid", 
+    "context": {
+      "Investor": "Steve McDermid"
+    }, 
+    "question": "what is Steve McDermid called"
+  }, 
+  {
     "answer": "You can find the linkedin of Steve McDermid at http://www.linkedin.com/in/stevemcdermid/", 
     "context": {
       "Investor": "Steve McDermid"
@@ -101638,6 +102261,13 @@
       "Investor": "Tyler Wilson"
     }, 
     "question": "show me the name of Tyler Wilson"
+  }, 
+  {
+    "answer": "Tyler Wilson", 
+    "context": {
+      "Investor": "Tyler Wilson"
+    }, 
+    "question": "what is Tyler Wilson called"
   }, 
   {
     "answer": "You can find the linkedin of Tyler Wilson at https://www.linkedin.com/in/tyler-wilson-550a4b31", 
@@ -101766,6 +102396,13 @@
     "question": "show me the name of Vishal Amin"
   }, 
   {
+    "answer": "Vishal Amin", 
+    "context": {
+      "Investor": "Vishal Amin"
+    }, 
+    "question": "what is Vishal Amin called"
+  }, 
+  {
     "answer": "You can find the linkedin of Vishal Amin at https://www.linkedin.com/in/vishalramin", 
     "context": {
       "Investor": "Vishal Amin"
@@ -101890,6 +102527,13 @@
       "Investor": "Matthew Colford"
     }, 
     "question": "show me the name of Matthew Colford"
+  }, 
+  {
+    "answer": "Matthew Colford", 
+    "context": {
+      "Investor": "Matthew Colford"
+    }, 
+    "question": "what is Matthew Colford called"
   }, 
   {
     "answer": "You can find the linkedin of Matthew Colford at https://www.linkedin.com/in/matthewcolford", 
@@ -102018,6 +102662,13 @@
     "question": "show me the name of Ted Ullyot"
   }, 
   {
+    "answer": "Ted Ullyot", 
+    "context": {
+      "Investor": "Ted Ullyot"
+    }, 
+    "question": "what is Ted Ullyot called"
+  }, 
+  {
     "answer": "You can find the linkedin of Ted Ullyot at https://www.linkedin.com/pub/ted-ullyot/11/476/677", 
     "context": {
       "Investor": "Ted Ullyot"
@@ -102142,6 +102793,13 @@
       "Investor": "Alexis Lakes"
     }, 
     "question": "show me the name of Alexis Lakes"
+  }, 
+  {
+    "answer": "Alexis Lakes", 
+    "context": {
+      "Investor": "Alexis Lakes"
+    }, 
+    "question": "what is Alexis Lakes called"
   }, 
   {
     "answer": "You can find the linkedin of Alexis Lakes at http://www.linkedin.com/in/alexislakes", 
@@ -102270,6 +102928,13 @@
     "question": "show me the name of Amy Berliner"
   }, 
   {
+    "answer": "Amy Berliner", 
+    "context": {
+      "Investor": "Amy Berliner"
+    }, 
+    "question": "what is Amy Berliner called"
+  }, 
+  {
     "answer": "You can find the linkedin of Amy Berliner at http://www.linkedin.com/pub/amy-berliner/2/706/a1a/", 
     "context": {
       "Investor": "Amy Berliner"
@@ -102394,6 +103059,13 @@
       "Investor": "Arsho Avetian"
     }, 
     "question": "show me the name of Arsho Avetian"
+  }, 
+  {
+    "answer": "Arsho Avetian", 
+    "context": {
+      "Investor": "Arsho Avetian"
+    }, 
+    "question": "what is Arsho Avetian called"
   }, 
   {
     "answer": "You can find the linkedin of Arsho Avetian at http://www.linkedin.com/pub/arsho-avetian/0/404/616", 
@@ -102522,6 +103194,13 @@
     "question": "show me the name of Christina Zeidan"
   }, 
   {
+    "answer": "Christina Zeidan", 
+    "context": {
+      "Investor": "Christina Zeidan"
+    }, 
+    "question": "what is Christina Zeidan called"
+  }, 
+  {
     "answer": "You can find the linkedin of Christina Zeidan at http://www.linkedin.com/in/christinazeidan", 
     "context": {
       "Investor": "Christina Zeidan"
@@ -102646,6 +103325,13 @@
       "Investor": "Daniel Chen"
     }, 
     "question": "show me the name of Daniel Chen"
+  }, 
+  {
+    "answer": "Daniel Chen", 
+    "context": {
+      "Investor": "Daniel Chen"
+    }, 
+    "question": "what is Daniel Chen called"
   }, 
   {
     "answer": "You can find the linkedin of Daniel Chen at https://www.linkedin.com/profile/view?id=163977594", 
@@ -102774,6 +103460,13 @@
     "question": "show me the name of Dave Jagoda"
   }, 
   {
+    "answer": "Dave Jagoda", 
+    "context": {
+      "Investor": "Dave Jagoda"
+    }, 
+    "question": "what is Dave Jagoda called"
+  }, 
+  {
     "answer": "You can find the linkedin of Dave Jagoda at http://www.linkedin.com/in/davejagoda", 
     "context": {
       "Investor": "Dave Jagoda"
@@ -102898,6 +103591,13 @@
       "Investor": "Harry Wright"
     }, 
     "question": "show me the name of Harry Wright"
+  }, 
+  {
+    "answer": "Harry Wright", 
+    "context": {
+      "Investor": "Harry Wright"
+    }, 
+    "question": "what is Harry Wright called"
   }, 
   {
     "answer": "Sorry the linkedin of Harry Wright is not found on the a16z.com website.", 
@@ -103026,6 +103726,13 @@
     "question": "show me the name of Julie Johnson"
   }, 
   {
+    "answer": "Julie Johnson", 
+    "context": {
+      "Investor": "Julie Johnson"
+    }, 
+    "question": "what is Julie Johnson called"
+  }, 
+  {
     "answer": "You can find the linkedin of Julie Johnson at https://www.linkedin.com/pub/julie-johnson/10/61/a92", 
     "context": {
       "Investor": "Julie Johnson"
@@ -103150,6 +103857,13 @@
       "Investor": "Karina Sobieski"
     }, 
     "question": "show me the name of Karina Sobieski"
+  }, 
+  {
+    "answer": "Karina Sobieski", 
+    "context": {
+      "Investor": "Karina Sobieski"
+    }, 
+    "question": "what is Karina Sobieski called"
   }, 
   {
     "answer": "You can find the linkedin of Karina Sobieski at http://www.linkedin.com/in/karinamalec", 
@@ -103278,6 +103992,13 @@
     "question": "show me the name of Katie Hemmerling"
   }, 
   {
+    "answer": "Katie Hemmerling", 
+    "context": {
+      "Investor": "Katie Hemmerling"
+    }, 
+    "question": "what is Katie Hemmerling called"
+  }, 
+  {
     "answer": "You can find the linkedin of Katie Hemmerling at http://www.linkedin.com/in/khemmerling/", 
     "context": {
       "Investor": "Katie Hemmerling"
@@ -103402,6 +104123,13 @@
       "Investor": "Lisa Orr"
     }, 
     "question": "show me the name of Lisa Orr"
+  }, 
+  {
+    "answer": "Lisa Orr", 
+    "context": {
+      "Investor": "Lisa Orr"
+    }, 
+    "question": "what is Lisa Orr called"
   }, 
   {
     "answer": "You can find the linkedin of Lisa Orr at http://www.linkedin.com/pub/lisa-moreno/6/bb/90", 
@@ -103530,6 +104258,13 @@
     "question": "show me the name of Lisa Rosano"
   }, 
   {
+    "answer": "Lisa Rosano", 
+    "context": {
+      "Investor": "Lisa Rosano"
+    }, 
+    "question": "what is Lisa Rosano called"
+  }, 
+  {
     "answer": "You can find the linkedin of Lisa Rosano at http://www.linkedin.com/in/lrosano", 
     "context": {
       "Investor": "Lisa Rosano"
@@ -103654,6 +104389,13 @@
       "Investor": "Luis Martinez"
     }, 
     "question": "show me the name of Luis Martinez"
+  }, 
+  {
+    "answer": "Luis Martinez", 
+    "context": {
+      "Investor": "Luis Martinez"
+    }, 
+    "question": "what is Luis Martinez called"
   }, 
   {
     "answer": "Sorry the linkedin of Luis Martinez is not found on the a16z.com website.", 
@@ -103782,6 +104524,13 @@
     "question": "show me the name of Marvin Zamora"
   }, 
   {
+    "answer": "Marvin Zamora", 
+    "context": {
+      "Investor": "Marvin Zamora"
+    }, 
+    "question": "what is Marvin Zamora called"
+  }, 
+  {
     "answer": "You can find the linkedin of Marvin Zamora at http://www.linkedin.com/in/marvinzamora", 
     "context": {
       "Investor": "Marvin Zamora"
@@ -103906,6 +104655,13 @@
       "Investor": "Megan Kristalyn"
     }, 
     "question": "show me the name of Megan Kristalyn"
+  }, 
+  {
+    "answer": "Megan Kristalyn", 
+    "context": {
+      "Investor": "Megan Kristalyn"
+    }, 
+    "question": "what is Megan Kristalyn called"
   }, 
   {
     "answer": "You can find the linkedin of Megan Kristalyn at http://www.linkedin.com/pub/megan-kristalyn/13/213/3b8", 
@@ -104034,6 +104790,13 @@
     "question": "show me the name of Meredith Donahue"
   }, 
   {
+    "answer": "Meredith Donahue", 
+    "context": {
+      "Investor": "Meredith Donahue"
+    }, 
+    "question": "what is Meredith Donahue called"
+  }, 
+  {
     "answer": "You can find the linkedin of Meredith Donahue at http://www.linkedin.com/pub/meredith-donahue/39/668/9a2", 
     "context": {
       "Investor": "Meredith Donahue"
@@ -104158,6 +104921,13 @@
       "Investor": "Michelle Mundy"
     }, 
     "question": "show me the name of Michelle Mundy"
+  }, 
+  {
+    "answer": "Michelle Mundy", 
+    "context": {
+      "Investor": "Michelle Mundy"
+    }, 
+    "question": "what is Michelle Mundy called"
   }, 
   {
     "answer": "You can find the linkedin of Michelle Mundy at http://www.linkedin.com/pub/michelle-mundy/29/a68/948", 
@@ -104286,6 +105056,13 @@
     "question": "show me the name of Minerva Munoz"
   }, 
   {
+    "answer": "Minerva Munoz", 
+    "context": {
+      "Investor": "Minerva Munoz"
+    }, 
+    "question": "what is Minerva Munoz called"
+  }, 
+  {
     "answer": "You can find the linkedin of Minerva Munoz at http://www.linkedin.com/pub/minerva-munoz/3/671/350/", 
     "context": {
       "Investor": "Minerva Munoz"
@@ -104410,6 +105187,13 @@
       "Investor": "P.J. Hasleton"
     }, 
     "question": "show me the name of P.J. Hasleton"
+  }, 
+  {
+    "answer": "P.J. Hasleton", 
+    "context": {
+      "Investor": "P.J. Hasleton"
+    }, 
+    "question": "what is P.J. Hasleton called"
   }, 
   {
     "answer": "You can find the linkedin of P.J. Hasleton at http://www.linkedin.com/in/hasleton/", 
@@ -104538,6 +105322,13 @@
     "question": "show me the name of Robin Casey"
   }, 
   {
+    "answer": "Robin Casey", 
+    "context": {
+      "Investor": "Robin Casey"
+    }, 
+    "question": "what is Robin Casey called"
+  }, 
+  {
     "answer": "You can find the linkedin of Robin Casey at http://www.linkedin.com/in/robinrissocasey", 
     "context": {
       "Investor": "Robin Casey"
@@ -104662,6 +105453,13 @@
       "Investor": "Ryan Ward"
     }, 
     "question": "show me the name of Ryan Ward"
+  }, 
+  {
+    "answer": "Ryan Ward", 
+    "context": {
+      "Investor": "Ryan Ward"
+    }, 
+    "question": "what is Ryan Ward called"
   }, 
   {
     "answer": "You can find the linkedin of Ryan Ward at http://www.linkedin.com/pub/ryan-ward/5/2aa/30a/", 
@@ -104790,6 +105588,13 @@
     "question": "show me the name of Vivian Brooks"
   }, 
   {
+    "answer": "Vivian Brooks", 
+    "context": {
+      "Investor": "Vivian Brooks"
+    }, 
+    "question": "what is Vivian Brooks called"
+  }, 
+  {
     "answer": "You can find the linkedin of Vivian Brooks at https://www.linkedin.com/profile/view?id=AAkAAAEkHtABz6xRY33i1Hk_DcK1pCLWlp6isec&authType=NAME_SEARCH&authToken=9_yC&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A19144400%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1447715534256%2Ctas%3Avivian%20br", 
     "context": {
       "Investor": "Vivian Brooks"
@@ -104914,6 +105719,13 @@
       "Investor": "Balaji Srinivasan"
     }, 
     "question": "show me the name of Balaji Srinivasan"
+  }, 
+  {
+    "answer": "Balaji Srinivasan", 
+    "context": {
+      "Investor": "Balaji Srinivasan"
+    }, 
+    "question": "what is Balaji Srinivasan called"
   }, 
   {
     "answer": "You can find the linkedin of Balaji Srinivasan at http://www.linkedin.com/in/balajissrinivasan", 
@@ -105042,6 +105854,13 @@
     "question": "show me the name of Bill Krause"
   }, 
   {
+    "answer": "Bill Krause", 
+    "context": {
+      "Investor": "Bill Krause"
+    }, 
+    "question": "what is Bill Krause called"
+  }, 
+  {
     "answer": "You can find the linkedin of Bill Krause at http://www.linkedin.com/pub/bill-krause/39/b65/588", 
     "context": {
       "Investor": "Bill Krause"
@@ -105166,6 +105985,13 @@
       "Investor": "John M. Jack"
     }, 
     "question": "show me the name of John M. Jack"
+  }, 
+  {
+    "answer": "John M. Jack", 
+    "context": {
+      "Investor": "John M. Jack"
+    }, 
+    "question": "what is John M. Jack called"
   }, 
   {
     "answer": "You can find the linkedin of John M. Jack at http://www.linkedin.com/in/johnmjack", 
@@ -105294,6 +106120,13 @@
     "question": "show me the name of Rod Johnson"
   }, 
   {
+    "answer": "Rod Johnson", 
+    "context": {
+      "Investor": "Rod Johnson"
+    }, 
+    "question": "what is Rod Johnson called"
+  }, 
+  {
     "answer": "You can find the linkedin of Rod Johnson at http://www.linkedin.com/pub/rod-johnson/0/a1/68b", 
     "context": {
       "Investor": "Rod Johnson"
@@ -105418,6 +106251,13 @@
       "Investor": "Shana Fisher"
     }, 
     "question": "show me the name of Shana Fisher"
+  }, 
+  {
+    "answer": "Shana Fisher", 
+    "context": {
+      "Investor": "Shana Fisher"
+    }, 
+    "question": "what is Shana Fisher called"
   }, 
   {
     "answer": "Sorry the linkedin of Shana Fisher is not found on the a16z.com website.", 
@@ -105546,6 +106386,13 @@
     "question": "show me the name of Spencer Rascoff"
   }, 
   {
+    "answer": "Spencer Rascoff", 
+    "context": {
+      "Investor": "Spencer Rascoff"
+    }, 
+    "question": "what is Spencer Rascoff called"
+  }, 
+  {
     "answer": "You can find the linkedin of Spencer Rascoff at https://www.linkedin.com/in/spencerrascoff", 
     "context": {
       "Investor": "Spencer Rascoff"
@@ -105670,6 +106517,13 @@
       "Investor": "Steven Sinofsky"
     }, 
     "question": "show me the name of Steven Sinofsky"
+  }, 
+  {
+    "answer": "Steven Sinofsky", 
+    "context": {
+      "Investor": "Steven Sinofsky"
+    }, 
+    "question": "what is Steven Sinofsky called"
   }, 
   {
     "answer": "You can find the linkedin of Steven Sinofsky at http://www.linkedin.com/in/sinofsky", 
@@ -105798,6 +106652,13 @@
     "question": "show me the name of Adrian Fenty"
   }, 
   {
+    "answer": "Adrian Fenty", 
+    "context": {
+      "Investor": "Adrian Fenty"
+    }, 
+    "question": "what is Adrian Fenty called"
+  }, 
+  {
     "answer": "You can find the linkedin of Adrian Fenty at https://www.linkedin.com/in/adrian-fenty-12072455", 
     "context": {
       "Investor": "Adrian Fenty"
@@ -105922,6 +106783,13 @@
       "Investor": "Ken Coleman"
     }, 
     "question": "show me the name of Ken Coleman"
+  }, 
+  {
+    "answer": "Ken Coleman", 
+    "context": {
+      "Investor": "Ken Coleman"
+    }, 
+    "question": "what is Ken Coleman called"
   }, 
   {
     "answer": "You can find the linkedin of Ken Coleman at https://www.linkedin.com/in/ken-coleman-1464922", 
@@ -106050,6 +106918,13 @@
     "question": "show me the name of Lawrence Summers"
   }, 
   {
+    "answer": "Lawrence Summers", 
+    "context": {
+      "Investor": "Lawrence Summers"
+    }, 
+    "question": "what is Lawrence Summers called"
+  }, 
+  {
     "answer": "You can find the linkedin of Lawrence Summers at https://www.linkedin.com/in/lawrence-summers-b9747a11", 
     "context": {
       "Investor": "Lawrence Summers"
@@ -106174,6 +107049,13 @@
       "Investor": "Dan Boneh"
     }, 
     "question": "show me the name of Dan Boneh"
+  }, 
+  {
+    "answer": "Dan Boneh", 
+    "context": {
+      "Investor": "Dan Boneh"
+    }, 
+    "question": "what is Dan Boneh called"
   }, 
   {
     "answer": "You can find the linkedin of Dan Boneh at https://www.linkedin.com/pub/dan-boneh/20/990/8b5", 

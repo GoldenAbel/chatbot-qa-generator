@@ -38,7 +38,7 @@ class EntityRelationQA(QAConcept):
     def __init__(self, entity_instance, relation_def):
         super(EntityRelationQA, self).__init__()
         self.entity_instance = entity_instance
-        self.relation_deff = relation_def
+        self.relation_def = relation_def
 
 
 class QAPair(object):
